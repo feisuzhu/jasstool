@@ -1,0 +1,5931 @@
+A000 忍术
+A001 Ultimate
+A002 Spawn Spiderite
+A003 Time Stop
+A004 Shuriken Toss
+A005 双倍伤害
+A006 Lightning Bolt
+A007 Ignite 1
+A008 Bash 10%
+A009 Item Hero Stat Bonus +3 all
+A00A 隐身
+A00B Item Damage Bonus (+25)
+A00C Star Storm
+A00D Item Move faster
+A00E 致命一击
+A00F Ignite 3
+A00G Nether Swap
+A00H Mass Serpent Ward
+A00I Item Strength Bonus
+A00J 永久隐身
+A00K Blade Dance
+A00L Double Edge
+A00M Item Life Regeneration
+A00N Eye of the Storm - 3
+A00O Sonic Wave
+A00P 枷锁
+A00Q 加速
+A00R Chaos Knight Sphere
+A00S Hoof Stomp
+A00T Urna Swarm
+A00U Eclipse
+A00V 反击
+A00W Lightning Attack (Razor)
+A00X Spirit Lance Banish
+A00Y Shock
+A00Z Item Damage Bonus (+55)
+A010 Ether Shock
+A011 引燃
+A012 分裂箭
+A013 剧毒新星
+A014 Item Hero Stat Bonus
+A015 Item Strength Bonus
+A016 Item Agility Bonus
+A017 疾风步
+A018 Item Life bonus
+A019 Smoke screen scourge
+A01A Malefice stun
+A01B 自然之助
+A01C Item Mana Bonus +300
+A01D Crystal Nova Caster
+A01E 毒刺
+A01F Dragon Slave
+A01G Sand Storm
+A01H 神之力量
+A01I 火焰风暴
+A01J Sand Storm effect
+A01K Great Cleave
+A01L Great Fortitude
+A01M 坚韧光环
+A01N 竭心光环
+A01O Teleportation
+A01P Laguna Blade
+A01Q Item Int Bonus
+A01R Flaming Hand
+A01S Icy hands
+A01T Ignite 2
+A01U 活体护甲
+A01V Eyes in the Forest
+A01W 鱼人碎击
+A01X Static Field
+A01Y Reincarnation
+A01Z 大自然的掩护
+A020 Arc Lightning
+A021 永久隐身
+A022 Mana Break
+A023 Bash 15%
+A024 Mighty Swing
+A025 疾风步
+A026 Frost Arrows
+A027 Light Strike Array
+A028 Rage
+A029 强击光环
+A02A Magic Missile
+A02B Item Damage Bonus (+35)
+A02C 巫术精研
+A02D Item Mana Regen 125
+A02E Battle Purge
+A02F Holy Light
+A02G 嗥叫
+A02H 虚空假面
+A02I Item Hero Stat Bonus +25 all
+A02J Impale
+A02K Mana Burn
+A02L Spiked Carapace
+A02M Carrion Swarm
+A02N Mana Drain
+A02O Finger of Death
+A02P Item Life bonus (+200)
+A02Q 恶魔的掌握
+A02R Time Slow
+A02S Shockwave
+A02T Detonate
+A02U Item Life Steal 10%
+A02V 净化
+A02W Item Cooldown Reset
+A02X 侦察守卫
+A02Y Item Int Bonus
+A02Z Life Drain
+A030 扫射
+A031 Lucent Beam
+A032 Lucent Beam
+A033 Lucent Beam
+A034 伤害加深
+A035 Diabolic Edict
+A036 Remote Mine 1
+A037 授予力量
+A038 Unit Damage Aura
+A039 Building Damage Aura
+A03A Gargoyle Spell Damage Reduction
+A03B Crit Strike
+A03C 击晕
+A03D Summon Wolves
+A03E 野性驱使
+A03F Breathe Fire
+A03G 真龙形态
+A03H Mana Burn
+A03I Blink
+A03J Exorcism
+A03K Darkness
+A03L Item Damage Bonus (+40)
+A03M Web Bonus
+A03N 致命一击
+A03O 幻象
+A03P Blur
+A03Q Coup de grâce
+A03R 极寒领域
+A03S Headshot
+A03T Item Hero Stat Bonus +10 all
+A03U Take Aim
+A03V Power Word
+A03W Targetted
+A03X Freezing Field 1
+A03Y 震撼大地
+A03Z Ravage
+A040 Morph
+A041 Moon Glaive
+A042 Lucent Beam
+A043 Item Agility Bonus
+A044 Anchor Smash
+A045 命令光环
+A046 巨浪
+A047 治疗守卫
+A048 Morph
+A049 Laser
+A04A Scream of Pain
+A04B Storm Seeker
+A04C 冰封禁制
+A04D Item Agility Bonus
+A04E Kraken Shell
+A04F Item Int Bonus
+A04G Shadow Weave
+A04H Attribute Bonus
+A04I Radiance Damage Aura
+A04J Exorcism
+A04K Item Mana Bonus +170
+A04L Soul Steal
+A04M Exorcism
+A04N Exorcism
+A04O Item Damage Bonus (+75)
+A04P 暗杀
+A04Q 死亡契约
+A04R Marker
+A04S Orb of Lightning (new)
+A04T Item Life Steal 25%
+A04U Chaos bolt 1
+A04V 衰弱
+A04W Fireblast
+A04X Brain Sap
+A04Y 噩梦
+A04Z 噩梦
+A050 Enrage
+A051 Item Hero Stat Bonus Manta
+A052 法术护盾
+A053 Dark Ritual
+A054 Eclipse
+A055 Chaos Bolt
+A056 Marksmanship
+A057 Poison Nova damage
+A058 治疗守卫光环
+A059 超强力量
+A05A Item Mana Regen 150
+A05B 守护天使
+A05C 冲刺
+A05D Frenzy
+A05E Heat Seeking Missile
+A05F March of the Machines effect
+A05G Blade Fury
+A05H Shadow Weave friendly
+A05I Shadow Weave enemy
+A05J Land Mines
+A05K AOE damage upon death
+A05L AOE damage upon death
+A05M AOE damage upon death
+A05N AOE damage upon death
+A05O Lucent Beam
+A05P Item Armor Bonus
+A05Q Frost Nova
+A05R Banish
+A05S Lightning Bolt
+A05T Chain Frost
+A05U Item Move Power Treads
+A05V Death Pulse
+A05W Death Pulse Heal
+A05X Ostracize
+A05Y 吞噬
+A05Z 天神下凡
+A060 施虐之心
+A061 MKB
+A062 月之祝福
+A063 镜像
+A064 榴霰弹
+A065 Rearm
+A066 Omnislash
+A067 死神镰刀
+A068 Power Word enemy
+A069 Holy Persuasion
+A06A 退化光环
+A06B "Suicide Squad, Attack!"
+A06C Item Damage Bonus (+50)
+A06D Flesh Heap
+A06E Power Word Ally
+A06F Reverse Polarity
+A06G Creep next waypoint
+A06H 麻痹陷阱
+A06I Meat Hook
+A06J Waveform Old
+A06K 腐烂
+A06L Thundergod's Wrath
+A06M 雷霆一击
+A06N Carrion Swarm
+A06O Burrowstrike
+A06P 剧变
+A06Q Sprout
+A06R 地震
+A06T Overgrowth 1
+A06U Entrench
+A06V Lightning Storm
+A06W Split Earth
+A06X 脉冲新星
+A06Y 代谢性狂暴
+A06Z BSImpale
+A070 BSImpale
+A071 盛宴
+A072 Carrion Swarm
+A073 Exorcism
+A074 Carrion Swarm
+A075 BSImpale
+A076 Poison Nova 1
+A077 BSImpale
+A078 Carrion Swarm
+A079 Gold Rune
+A07A 疾风步
+A07B Shadowraze
+A07C Thundergod's Wrath
+A07D 减速毒药
+A07E 死亡契约
+A07F Frost Nova
+A07G Entrench
+A07H 沉默
+A07I 沉默
+A07J 沉默
+A07K Raise Revenants
+A07L 地震
+A07M 沉默
+A07N Chakra Magic
+A07O 闪避
+A07P Perdition
+A07Q Sunder
+A07R Sunder projectile enemy
+A07S Spell Damage Reduction
+A07T Song of the Siren 1
+A07U 海妖之歌
+A07V Typhoon
+A07W Spirit Displacement
+A07X Wrath of Nature
+A07Y 法力流失
+A07Z Overgrowth
+A080 蝮蛇突袭
+A081 Time Lock
+A082 Displace
+A083 嗜血
+A084 Ravage 1
+A085 Illuminate
+A086 夜晚中的狩猎者
+A087 IllCast
+A088 Multi Cast
+A089 Fireblast
+A08A Fireblast
+A08B Item Life Regeneration
+A08C 伤残恐惧
+A08D Fireblast
+A08E 伤残恐惧
+A08F 嗜血
+A08G 嗜血
+A08H Chain Frost
+A08I 嗜血
+A08J Crushing Wave old
+A08K Tornado Barrier buff
+A08L Death Pact item
+A08M Tornado Barrier
+A08N Purification
+A08O Ostracize
+A08P 死神镰刀
+A08Q Conjure Image
+A08R 冰霜护甲
+A08S Poison Hand
+A08T 魔力闪光
+A08U 小羊
+A08V 驱逐
+A08W Anonymous Dead
+A08X 黄泉颤抖
+A08Y Finger of Death
+A08Z Finger of Death
+A090 Finger of Death
+A091 Frost Nova
+A092 Finger of Death
+A093 变身
+A094 LVL? Death
+A095 Finger of Death
+A096 Item Int Bonus
+A097 Item Int Bonus
+A098 Item Int Bonus
+A099 Item Mana Regen 100%
+A09A Item Int Bonus
+A09B Crit 10%
+A09C Grave Chill Effect
+A09D 幽冥守卫
+A09E 击晕
+A09F Blink Strike
+A09G Item Agility Bonus
+A09H 小羊
+A09I Item Attack Speed 10%
+A09J 分裂箭
+A09K Impale
+A09L Item Attack Speed 55%
+A09M Item Mana Bonus +400
+A09N 龙族血统
+A09O Crit 20%
+A09P Item Life Steal 15%
+A09Q Item Strength Bonus
+A09R Mana Void
+A09S "Aghanim Luna, Necrolyte, Witch Doctor"
+A09T Item Damage Bonus (+65)
+A09U 复仇
+A09V Poison Attack
+A09W Finger of Death
+A09X Item Attack Speed 25%
+A09Y 缠绕|n(Entangle)
+A09Z Laguna Blade
+A0A0 缠绕|n(Entangle)
+A0A1 Mass Serpent Ward
+A0A2 末日
+A0A3 Detonate
+A0A4 Detonate
+A0A5 Summon Spirit Bear
+A0A6 剧毒新星
+A0A7 反击
+A0A8 Synergy
+A0A9 One
+A0AA 狂猛
+A0AB 狂猛
+A0AC 狂猛
+A0AD 狂猛
+A0AE 狂猛
+A0AF Sonic Wave
+A0AG True Form
+A0AH 粉碎击|n(Demolish)
+A0AI 战争咆哮
+A0AJ Attribute Bonus
+A0AK Remote Mines
+A0AL Wrath of Nature
+A0AM Detonate
+A0AN "Aghanim Lina, Zeus, Pugna, Furion"
+A0AO "Aghanim CM, Rhasta, QoP, Veno"
+A0AP 恐怖嚎叫
+A0AQ 脉冲新星
+A0AR Dragon Tail
+A0AS 暗言术
+A0AT Unstuck
+A0AU Bleed
+A0AV 极寒领域
+A0AW Gaze
+A0AX Item Life bonus (+250)
+A0AY Gazed
+A0AZ Rot slow
+A0B0 Untouchable effect
+A0B1 午夜凋零
+A0B2 Midnight Pulse effect
+A0B3 憎恶
+A0B4 追踪
+A0B5 stealthstomp
+A0B6 Item Summon Courier
+A0B7 Demonic Conversion
+A0B8 Manta Image
+A0B9 "Aghanim Lich, Medusa, Lion, Leshrac"
+A0BA 捕获
+A0BB 暴走
+A0BC 致盲
+A0BD 野性之心
+A0BE Berserker Rage
+A0BF Web Bonus
+A0BG 蜘蛛网
+A0BH Spawn Spiderlings
+A0BI Conversion effect
+A0BJ Poison Sting Spiderlings
+A0BK 麻痹之咬
+A0BL 麻痹之咬
+A0BM 麻痹之咬
+A0BN 麻痹之咬
+A0BO 麻痹之咬
+A0BP 极度饥渴
+A0BQ March of the Machines
+A0BR 支配死灵
+A0BS Scroll of Regeneration (Item)
+A0BT Dark Flame burn
+A0BU Craggy Exterior
+A0BV Craggy damage
+A0BW Avalanche (cast)
+A0BX Item Heal Area
+A0BY 黑洞
+A0BZ Toss
+A0C0 引力
+A0C1 Grow!
+A0C2 Grow! speed
+A0C3 刃甲|nBlade Mail
+A0C4 灵魂超度
+A0C5 Battle Hunger
+A0C6 反击螺旋
+A0C7 狂战士的怒吼
+A0C8 Item Mana Bonus +9999
+A0C9 Shukuchi Effect
+A0CA 缩地
+A0CB Item Mana Regen 10000
+A0CC Life Drain
+A0CD Item Hero Stat Bonus +5 all
+A0CE 衰老
+A0CF 幽冥守卫
+A0CG Geminate Attack
+A0CH 醉酒云雾
+A0CI 醉酒云雾
+A0CJ 醉酒云雾
+A0CK Mekansm Armor + Heal
+A0CL 龙族血统
+A0CM Geminate Attack
+A0CN Geminate Attack
+A0CO Spawn Spiderling
+A0CP Spellsteal
+A0CQ Necromastery Effect
+A0CR Geminate Attack
+A0CS Geminate Attack
+A0CT Time Lapse
+A0CU 散夜对剑|nSange and Yasha
+A0CV Sange and Yasha move
+A0CW Item Hero Stat Bonus S & Y
+A0CX Staff of Teleportation (item)
+A0CY Grow
+A0CZ Backtrack
+A0D0 Item Hero Stat Bonus
+A0D1 Spirit Lance (Cripple)
+A0D2 Roulette
+A0D3 Item Skeleton Summon lvl 2
+A0D4 Mana Burn
+A0D5 Divine Intervention
+A0D6 Lucky Stars
+A0D7 神出鬼没
+A0D8 Ante Up
+A0D9 Phantom Edge
+A0DA 灵魂之矛
+A0DB 并列
+A0DC DoppelWalk Illusion
+A0DD JuxtaposeIllusions
+A0DE Cant Touch Me!
+A0DF Item Skeleton Summon lvl 3
+A0DG Sphere
+A0DH Echo Slam
+A0DI Aftershock Effect
+A0DJ Aftershock
+A0DK Fissure
+A0DL 强化图腾
+A0DM Echo Slam reverberate
+A0DN Sphere
+A0DO Liberate Soul
+A0DP Shadowraze
+A0DQ Shadowraze
+A0DR 暗影烈焰
+A0DS Liberate Soul
+A0DT Liberate Soul
+A0DU Crushing Wave
+A0DV BlindStrikeBonus
+A0DW 不可侵犯
+A0DX 魅惑
+A0DY 推进
+A0DZ Backstab
+A0E0 Grave Bind
+A0E1 Berserker's Call effect
+A0E2 Culling Blade
+A0E3 Mana Void
+A0E4 Item Attack Speed 5%
+A0E5 解脱
+A0E6 烟幕
+A0E7 Smoke screen effect
+A0E8 Bleed
+A0E9 DiabolicEffect
+A0EA Stout Shield Damage Block
+A0EB 狂暴
+A0EC 血之狂暴
+A0ED Wounding Spear
+A0EE Rupture
+A0EF 战意
+A0EG Demon Fury
+A0EH Demon Fury
+A0EI Rupture
+A0EJ Item Damage Bonus (+22)
+A0EK Maim
+A0EL "Aghanim Bane, Enigma, Tinker, Enchantress"
+A0EM Item Attack Speed 80%
+A0EN Item Hero Stat Bonus +20 all
+A0EO 幻火
+A0EP 法力流失
+A0EQ "Aghanim Earthshaker, Sand King, Bloodseeker, Gambler"
+A0ER 守护天使
+A0ES 神行太保
+A0ET Roar
+A0EU Stoneform
+A0EV Stoneform Armor
+A0EW Roar
+A0EX Item Life Regeneration
+A0EY Shadowraze
+A0EZ Shadowraze
+A0F0 Shadowraze
+A0F1 Burrowstrike
+A0F2 Burrowed effect
+A0F3 地震
+A0F4 Adapt
+A0F5 Naix Lifesteal NEW
+A0F6 Unstable Power
+A0F7 Watery Grasp
+A0F8 SandKing Dust
+A0F9 盛宴
+A0FA 腐尸毒
+A0FB Unstable Intellect
+A0FC Crit 15%
+A0FD 紫怨|nOrchid Malevolence
+A0FE 焦土
+A0FF Scorched Earth MS + Regen - Level 4
+A0FG Scorched earth health
+A0FH Shadowraze
+A0FI 重建
+A0FJ 漩涡|nMaelstrom
+A0FK Maelstrom lightning
+A0FL 肢解
+A0FM Morph Attack
+A0FN Waveform
+A0FO Bottle Regen
+A0FP linken sphere
+A0FQ Disentangle (item2)
+A0FR 75% spell
+A0FS Time Stop caster
+A0FT Spell Damage Reduction Greater
+A0FU 魔王降临
+A0FV 战意
+A0FW 粘稠鼻液
+A0FX Desolate
+A0FY Magic Immunity Container
+A0FZ Snot
+A0G0 Warpath effect
+A0G1 命令光环
+A0G2 秘术异蛇
+A0G3 Item Life bonus
+A0G4 Nether Strike
+A0G5 Greater Bash
+A0G6 Adaptive Strike
+A0G7 火焰吐息
+A0G8 复制
+A0G9 Temporal Drag
+A0GA Necronomicon Command Aura
+A0GB Necronomicon Endurance Aura Level 2
+A0GC Morph Replicate
+A0GD Flying Courier Morph
+A0GE charge 1
+A0GF charge 2
+A0GG charge 3
+A0GH charge 4
+A0GI Charge of Darkness old
+A0GJ 暗影冲刺
+A0GK Brain Sap
+A0GL Poison nova wave
+A0GM Item Int Bonus
+A0GN 变体精灵BUG修复
+A0GO Armor (item)
+A0GP Quill Spray
+A0GQ Holy Light
+A0GR Illusions
+A0GS Charge of Darkness Stun
+A0GT Last Will 1
+A0GU 最后遗愿 等级1
+A0GV Necronomicon Mana Burn lvl 1
+A0GW Necronomicon Mana Break lvl 1
+A0GX 最后遗愿 等级2
+A0GY Necronomicon Endurance Aura Level 1
+A0GZ 最后遗愿 等级3
+A0H0 Sand Storm
+A0H1 Necronomicon Damage Reduction
+A0H2 Necronomicon Spell Damage Reduction
+A0H3 Necronomicon Spell Immunity
+A0H4 Conjure Image
+A0H5 Item Mana Bonus +500
+A0H6 Bottle Empty
+A0H7 Bottle Rune
+A0H8 Stout Shield Damage Block Vanguard (melee)
+A0H9 Haunt
+A0HA Reality
+A0HB Item Skeleton Summon lvl 1
+A0HC sandking invis
+A0HD Item Attack Speed 
+A0HE Requiem of Souls
+A0HF 食腐甲虫
+A0HG Requiem of Souls Effect
+A0HH Requiem of Souls Cripple Far
+A0HI Requiem of Souls Cripple Close
+A0HJ Requiem of Souls Cripple Moderate
+A0HK Cripple
+A0HL Necronomicon Reveal
+A0HM Sand Storm Damage
+A0HN Necronomicon Endurance Aura Level 3
+A0HO 沙尘暴掩护
+A0HP Item Hero Stat Bonus +15 all
+A0HQ Burrow
+A0HR Burrow
+A0HS Burrow
+A0HT Burrow
+A0HU Leaver Freeze
+A0HV 食腐甲虫
+A0HW 幽鬼之刃
+A0HX Leaver Unfreeze
+A0HY 幽鬼之刃
+A0HZ Sphere
+A0I0 Sphere
+A0I1 Sphere
+A0I2 幽鬼之刃
+A0I3 Death Coil
+A0I4 Inventory (4 SLOT COP)
+A0I5 Berserker's Call Armor Bonus
+A0I6 狂战士的怒吼
+A0I7 憎恶
+A0I8 嗜血渴望
+A0I9 BreakPers
+A0IA Item Mana Regeneration
+A0IB Sphere
+A0IC Sphere
+A0ID Sphere
+A0IE Orchid Intel Stat Bonus
+A0IF 精气光环
+A0IG Ares' Resistance
+A0IH Rupture
+A0II Mask of Madness Life Steal
+A0IJ Restless Dead
+A0IK 永久献祭
+A0IL 酸性喷雾
+A0IM 烈焰之拳
+A0IN Nether Swap
+A0IO Item Life Regeneration
+A0IP Item Mana Regeneration 150%
+A0IQ 烈焰之拳
+A0IR Item Cooldown Reset 0 cooldown
+A0IS 烈焰之拳
+A0IT 时间漫游
+A0IU Time Walk Effect
+A0IV Time Walk Effect 2
+A0IW Time Walk Effect 3
+A0IX Sphere
+A0IY 永久献祭
+A0IZ Point Target
+A0J0 Time Travel
+A0J1 Chronosphere
+A0J2 Chronosphere unit effect
+A0J3 永久献祭
+A0J4 酸性喷雾
+A0J5 致命连接
+A0J6 不稳定化合物
+A0J7 不稳定化合物
+A0J8 剧变
+A0J9 致命连接
+A0JA AOE damage upon death
+A0JB Storm Bolt
+A0JC Lightning Bolt
+A0JD 不稳定化合物
+A0JE 剧变
+A0JF 暗言术
+A0JG Item Agility Bonus
+A0JH 雷神之锤|nMjollnir
+A0JI 真视
+A0JJ 击晕
+A0JK 雷神之锤|nMjollnir
+A0JL Static Charge
+A0JM Static Charge
+A0JN Roshan's Animation
+A0JO Item Move Roshan's
+A0JP Corrosive Skin
+A0JQ 盛宴
+A0JR Heart Booster
+A0JS 秘法指环|nArcane Ring
+A0JT Item Summon Flying Courier
+A0JU 变形
+A0JV Necronomicon Mana Burn lvl 2
+A0JW Necronomicon Mana Burn lvl 3
+A0JX Bottle Rune of Recall
+A0JY 魔棒|nMagic Stick
+A0JZ 爆发
+A0K0 奶酪|nCheese
+A0K1 Item Life bonus (+300)
+A0K2 Inventory (1 SLOT)
+A0K3 Fervor
+A0K4 永久隐身
+A0K5 Disassemble
+A0K6 雷神之锤|nMjollnir
+A0K7 秘法指环|nArcane Ring
+A0K8 流浪法师斗篷|nPlaneswalker's Cloak
+A0K9 Blink Strike
+A0KA 吸血鬼的祭品|nVladmir's Offering
+A0KB Roshan's Item Damage Bonus (+500)
+A0KC Vladmir's Offering (mana)
+A0KD 静默诅咒
+A0KE 时间漫游
+A0KF Time Walk (Degen Aura)
+A0KG Avalanche (effect)
+A0KH Earth Bind
+A0KI Corrosive Skin Effect
+A0KJ 魔法免疫
+A0KK 信仰
+A0KL Channel
+A0KM 赎罪
+A0KN Vladmir's Offering (armor)
+A0KO Faith Effect
+A0KP Faith Effect
+A0KQ Faith Effect
+A0KR Faith Effect
+A0KS Item Hero Stat Bonus
+A0KT Moonlight Shadow
+A0KU Moonlight Shadow
+A0KV Starfall
+A0KW Morph
+A0KX Morph
+A0KY 法术护盾
+A0KZ Teleport Armor Buff
+A0L0 Zeal
+A0L1 Item Attack Speed 3%
+A0L2 沉默
+A0L3 Global Silence
+A0L4 Mute
+A0L5 法术护盾
+A0L6 Enrage
+A0L7 Basic Stun
+A0L8 月神之箭
+A0L9 Faith Effect
+A0LA 时间漫游
+A0LB Avalanche
+A0LC Enrage
+A0LD Avalanche
+A0LE Blood Bath
+A0LF 嗜血渴望
+A0LG Thirst speed buff
+A0LH Rupture
+A0LI Phoenix
+A0LJ Summon Golem
+A0LK 时间漫游
+A0LL Avalanche
+A0LM Dummy Model Loader
+A0LN Leap
+A0LO Leap (effect)
+A0LP Liberate Soul
+A0LQ "Aghanim Lucifer, Keeper"
+A0LR Soul Assumption FX Level 1
+A0LS Last Word Effect
+A0LT Hand of God
+A0LU Chen Spell Damage Reduction
+A0LV Test of Faith
+A0LW Exorcise Spirit
+A0LX Chen - Staff of Persv on Hero
+A0LY Chen - Staff of Persv on Units
+A0LZ 智慧之刃
+A0M0 Fissure
+A0M1 Omnislash
+A0M2 Necronomicon Mana Break lvl 2
+A0M3 刚背兽
+A0M4 Necronomicon Mana Break lvl 3
+A0M5 Necronomicon Sight
+A0M6 Item Agility Bonus
+A0M7 Item Strength Bonus
+A0M8 Track move bonus
+A0M9 鱼人碎击
+A0MA Stout Shield Damage Block Aegis
+A0MB 永久隐身
+A0MC 最后遗言
+A0MD Soul Assumption FX Level 6
+A0ME Blink
+A0MF Aphotic Shield
+A0MG 霜之哀伤
+A0MH Mark effect
+A0MI 深渊印记
+A0MJ Aphotic Shield Damage
+A0MK Borrowed Time
+A0ML 暗影冲刺
+A0MM Corrosive Skin
+A0MN Voodoo
+A0MO 幻火
+A0MP 魔法盾
+A0MQ Primal Split
+A0MR Mekansm Aura
+A0MS 瘟疫守卫
+A0MT Nether Blast
+A0MU 末日
+A0MV 变形
+A0MW Divided We Stand
+A0MX Drunken Brawler
+A0MY 毒刺
+A0MZ Chest of Gold
+A0N0 Take Flight
+A0N1 Inventory (2 SLOT)
+A0N2 Item Int Bonus
+A0N3 Item Int Bonus
+A0N4 Item Int Bonus
+A0N5 Static Field
+A0N6 相位行走
+A0N7 地之突袭
+A0N8 Poof
+A0N9 Haunt Helper
+A0NA Dispersion
+A0NB 地之束缚
+A0NC Earthbind Helper
+A0ND Inventory
+A0NE 巫毒回复术
+A0NF Soul Assumption FX Level 5
+A0NG Icon Placer
+A0NH Rupture Buff
+A0NI 暗杀
+A0NJ Blowdart
+A0NK BlowDart
+A0NL Paralyzing casks effect
+A0NM Paralyzing Cask
+A0NN Dispersion Stun
+A0NO Maledict
+A0NP Death Ward 3 target
+A0NQ Poison Touch
+A0NR Attribute Bonus
+A0NS Borrowed Time
+A0NT 死亡守卫
+A0NU NEWABILITY
+A0NV 编织
+A0NW NEWABILITY
+A0NX 死亡守卫
+A0NY Beast Roar (Side Effect)
+A0NZ Beast Rage
+A0O0 Fervor
+A0O1 野性之斧
+A0O2 Primal Roar
+A0O3 地精的贪婪
+A0O4 毒性攻击
+A0O5 烈焰焚身
+A0O6 Ice Path
+A0O7 冰火交加
+A0O8 Liquid Fire
+A0O9 Ice Path Slow Aura
+A0OA Dual Breath Slow
+A0OB Dual Breath Frost
+A0OC Dual Breath Fire
+A0OD Auto Fire Flame
+A0OE Macropyre Flame
+A0OF Ice Path Freeze
+A0OG Soul Assumption FX Level 3
+A0OH 精气光环
+A0OI 奥术法球
+A0OJ Astral Imprisonment
+A0OK Sanity's Eclipse
+A0OL 精气光环
+A0OM 精气光环
+A0ON 精气光环
+A0OO Call of the Wild
+A0OP 豪猪毒刺
+A0OQ 豪猪毒刺
+A0OR Shadow Wave
+A0OS Shallow Grave
+A0OT Change Courier Type
+A0OU Icon Placer
+A0OV Shallow Grave
+A0OW Blow Dart
+A0OX 编织
+A0OY 编织
+A0OZ Modified Trap 
+A0P0 暗言术
+A0P1 Static Charge
+A0P2 致命连接
+A0P3 ThisSphere
+A0P4 Marker Allow Neutral Spawn
+A0P5 变形
+A0P6 沉默
+A0P7 Scepter (QOP)
+A0P8 Scepter (Rhasta)
+A0P9 Scepter (Ogre Magi)
+A0PA Scepter (Lion)
+A0PB Scepter (Pugna)
+A0PC Scepter (Lina)
+A0PD Scepter (KOTL)
+A0PE Scepter (Lich)
+A0PF Scepter (Zeus)
+A0PG 变形
+A0PH 撒旦之邪力|nSatanic
+A0PI Item Agility Bonus
+A0PJ Item Attack Speed 30%
+A0PK Item Damage Bonus (+30)
+A0PL Phantom Strike
+A0PM Hero Glow
+A0PN Magebane Trident
+A0PO Magebane Trident
+A0PP Item Hero Stat Bonus +10 agi/int
+A0PQ Crit
+A0PR Item Mana Regen 110%
+A0PS Item Life Regeneration
+A0PT Spell Damage Reduction
+A0PU Item Life Regeneration
+A0PV Tango Buff
+A0PW Spell Damage Reduction
+A0PX 专注光环
+A0PY BasSwap
+A0PZ 小型晕眩
+A0Q0 Vladmir Damage
+A0Q1 Assault Cuirass +Armor Aura
+A0Q2 Assault Cuirass -Armor Aura
+A0Q3 Item Attack Speed 40%
+A0Q4 Assault Cuirass IAS Aura
+A0Q5 强袭装甲|nAssault Cuirass
+A0Q6 Inventory (2 SLOT ROSHAN)
+A0Q7 暗影突袭
+A0Q8 Scepter (CM1)
+A0Q9 Scepter (CM2)
+A0QA Scepter (CM3)
+A0QB 沉默
+A0QC Scepter (Lucifer1)
+A0QD Detector
+A0QE Vacuum
+A0QF Vacuum Stun
+A0QG Ion Shell
+A0QH 奔腾
+A0QI Surge Buff
+A0QJ 奔腾
+A0QK 复制之墙
+A0QL Wall of Replicate Image
+A0QM Attribute Bonus
+A0QN Burning Spear
+A0QO Inner Vitality
+A0QP Inner Vitality
+A0QQ Berserker's Blood
+A0QR 牺牲
+A0QS Berserker's Blood
+A0QT Expulsion
+A0QU Soul Eater
+A0QV Raise Dead
+A0QW 超负荷
+A0QX 超负荷
+A0QY 电子咆哮
+A0QZ Item Attack Speed Bonus
+A0R0 黑暗之门
+A0R1 球形闪电
+A0R2 Fear
+A0R3 瘟疫
+A0R4 Plague (slow)
+A0R5 Soul Rip
+A0R6 Barrier
+A0R7 奔腾
+A0R8 Zombify 
+A0R9 Generic_Ministun
+A0RA 怨念深渊
+A0RB 暗影突袭
+A0RC Insta
+A0RD Price of Reflex
+A0RE Refraction
+A0RF Refraction Damage Bonus
+A0RG 烟幕
+A0RH 火焰风暴
+A0RI Cage
+A0RJ Expulsion
+A0RK 信使之盾
+A0RL 隐匿
+A0RM Refraction Damage
+A0RN Refraction Prevention
+A0RO Psi Blades
+A0RP 灵能陷阱
+A0RQ 灵能陷阱
+A0RR Berserker's Blood Damage Bonus
+A0RS Berserker's Blood Attack Speed
+A0RT 灵能陷阱
+A0RU Psionic Trap Slow
+A0RV 隐匿
+A0RW Reality Rift
+A0RX Voodoo
+A0RY Frenzy
+A0RZ Storm Bolt
+A0S0 Battle Hunger
+A0S1 Battle Hunger
+A0S2 天神下凡
+A0S3 天神下凡
+A0S4 Maim
+A0S5 超负荷
+A0S6 魔法免疫
+A0S7 Psionic Trap Mana Burn
+A0S8 Dream Coil
+A0S9 幻像法球
+A0SA Ethereal Jaunt
+A0SB 相形变换
+A0SC Waning Rift
+A0SD 沉默
+A0SE Dream Coil
+A0SF PrismaticPrison_Ministun
+A0SG PrismaticPrison_Ministun Main
+A0SH Item Hero Stat Bonus
+A0SI MAGE ARMOR
+A0SJ Fissure_Stun
+A0SK Fissure
+A0SL Item Life Regeneration
+A0SM BIGHAND1
+A0SN BIGHAND2
+A0SO BIGHAND1
+A0SP ICEARMOR
+A0SQ Rage
+A0SR Rage Attack Speed
+A0SS 盛宴
+A0ST Magic Immunity Container
+A0SU 魔法免疫
+A0SV Rage
+A0SW Infest
+A0SX 消耗
+A0SY ICEARMOR
+A0SZ Item Armor Bonus
+A0T0 MageArmor
+A0T1 Item Attack Speed Bonus
+A0T2 Rage
+A0T3 Item Attack Speed Bonus
+A0T4 ICEARMORNEW
+A0T5 BIGHAND1New
+A0T6 BIGHAND2New
+A0T7 BIGHAND1New
+A0T8 BIGHAND2New
+A0T9 ICEARMORNEW (NEW)
+A0TA Item Damage Bonus (+33)
+A0TB Select Hero
+A0TC Item Attack Speed Bonus
+A0TD TreadsSwap
+A0TE Orchid Spell Book
+A0TF Item Hero Stat Bonus
+A0TG Item Hero Stat Bonus
+A0TH Wound
+A0TI 撕裂伤口
+A0TJ BIGHAND2
+A0TK Aghanims Spell Book
+A0TL Aghanim KOTL
+A0TM BreakScepter
+A0TN 阿哈利姆神杖（光之守卫）
+A0TO Aghanim Lina
+A0TP 阿哈利姆神杖（秀逗魔导士）
+A0TQ Aghanim Lion
+A0TR 阿哈利姆神杖（恶魔巫师）
+A0TS 阿哈利姆神杖（食人魔魔法师）
+A0TT Aghanim Ogre
+A0TU Aghanim Pugna
+A0TV 阿哈利姆神杖（遗忘法师）
+A0TW Aghanim QoP
+A0TX 阿哈利姆神杖（痛苦女王）
+A0TY Aghanim Rhasta
+A0TZ 阿哈利姆神杖（暗影萨满）
+A0U0 Aghanim Zeus
+A0U1 阿哈利姆神杖（众神之王）
+A0U2 Aghanim Rylai
+A0U3 阿哈利姆神杖（水晶室女）
+A0U4 Aghanim Lich
+A0U5 阿哈利姆神杖（巫妖）
+A0U6 Aghanim Leshrac
+A0U7 阿哈利姆神杖（受折磨的灵魂）
+A0U8 Aghanim Furion
+A0U9 阿哈利姆神杖（先知）
+A0UA Aghanim Veno
+A0UB 阿哈利姆神杖（剧毒术士）
+A0UC Aghanim Necro
+A0UD 阿哈利姆神杖（死灵法师）
+A0UE Aghanim Luna
+A0UF 阿哈利姆神杖（月之骑士）
+A0UG Aghanim Witch Doctor
+A0UH 阿哈利姆神杖（巫医）
+A0UI Aghanim Lucifer
+A0UJ 阿哈利姆神杖（末日使者）
+A0UK Armlet Effect
+A0UL Arctic Blast
+A0UM Orb - Wex
+A0UN Orb - Quas
+A0UO Extort
+A0UP OpenWounds
+A0UQ FrogWex
+A0UR Lightning Attack (Wex)
+A0US Phoenix Fire (Extort)
+A0UT FrogSphere
+A0UU Invoker Sphere
+A0UV Crit 100%
+A0UW Item Move faster (max)
+A0UX Item Mana Regen 200
+A0UY Item Mana Regen 75
+A0UZ Euls Movement Buff
+A0V0 Euls movement
+A0V1 Item Int Bonus
+A0V2 Item Mana Regen 250
+A0V3 Item Mana Regen 225
+A0V4 末日
+A0V5 紫怨|nOrchid Malevolence
+A0V6 Quas - 13
+A0V7 Exort - Effect
+A0V8 Wex -Effect
+A0V9 Exort
+A0VA Wex
+A0VB Quas
+A0VC Marksmanship
+A0VD Wex - MS 5
+A0VE Wex - AS
+A0VF Invoke
+A0VG Invoke - 9a
+A0VH Ghostwalk Slow
+A0VI Cold Snap ministun
+A0VJ Invoke 1
+A0VK Invoke - 2a
+A0VL Healing Well
+A0VM Invoke - 5a
+A0VN Invoke - 6a
+A0VO Invoke - 7a
+A0VP Invoke - 8a
+A0VQ Invoke - 3a
+A0VR Mana Upgrade
+A0VS Invoke - 1a
+A0VT Invoke5 - NoAtck
+A0VU Item Mana Bonus (400)
+A0VV 灼烧攻击
+A0VW Melting Strike - Armor Reduction
+A0VX Gravekeeper's Cloak
+A0VY 灵魂超度
+A0VZ Invoke - 10a
+A0W0 Wex - MS 9
+A0W1 Wex - MS 10
+A0W2 Wex - MS 11
+A0W3 Wex - MS 12
+A0W4 Wex - MS 13
+A0W5 Wex - MS 14
+A0W6 Wex - MS 15
+A0W7 Wex - MS 16
+A0W8 Wex - MS 17
+A0W9 Wex - MS 18
+A0WA Wex - MS 19
+A0WB Wex - MS 20
+A0WC Wex - MS 21
+A0WD Wex - MS Book
+A0WE God's Strength Caster lvl 2
+A0WF Wex - MS 8
+A0WG Wex - MS 1
+A0WH Wex - MS 2
+A0WI Wex - MS 4
+A0WJ Wex - MS 6
+A0WK Wex - MS 7
+A0WL Wex - MS 3
+A0WM God's Strength Caster lvl 1
+A0WN God's Strength Caster lvl 3
+A0WO God's Strength Container
+A0WP 神之力量
+A0WQ 极度饥渴
+A0WR Insatiable Hunger Container
+A0WS Insatiable Hunger - Damage Level 3
+A0WT Insatiable Hunger - Damage Level 2
+A0WU Insatiable Hunger - Damage Level 1
+A0WV Insatiable Hunger - Lifesteal Level 2
+A0WW Insatiable Hunger - Lifesteal Level 1
+A0WX Insatiable Hunger - Lifesteal Level 3
+A0WY Paralyzing casks effect fast
+A0WZ 雷霆一击
+A0X0 Item Damage Bonus
+A0X1 Item Agility Bonus
+A0X2 Quilbeast Spell Damage Reduction
+A0X3 Blackhole effect - sent
+A0X4 Blackhole effect - scourge
+A0X5 Impale
+A0X6 Generic_Stun
+A0X7 Impale
+A0X8 Item Hero Stat Bonus
+A0X9 Guinsoo Stat Bonus
+A0XA Land Mines
+A0XB 永久隐身
+A0XC Item Life Steal 40%
+A0XD 霜冻攻击
+A0XE Rampage Container
+A0XF Rampage caster lvl 1
+A0XG Rampage caster lvl 2
+A0XH Rampage caster lvl 3
+A0XI 暴走
+A0XJ Rampage Effect
+A0XK Invoke Tornado Cyclone
+A0XL Invoke - 4a
+A0XM Soul Assumption - Effect
+A0XN Invoke Icy Path
+A0XO Quas - Regen Book
+A0XP Quas - 21
+A0XQ Quas - 4
+A0XR Quas - 20
+A0XS Quas - 8
+A0XT Quas - 7
+A0XU Quas - 10
+A0XV Quas - 15
+A0XW Quas - 17
+A0XX Quas - 16
+A0XY Quas - 2
+A0XZ Quas - 5
+A0Y0 Quas - 6
+A0Y1 Quas - 12
+A0Y2 Quas - 18
+A0Y3 Quas - 11
+A0Y4 Quas - 9
+A0Y5 Quas - 19
+A0Y6 Quas - 3
+A0Y7 Quas - 14
+A0Y8 Quas - 1
+A0Y9 Invoke - 3b
+A0YA Invoke - 10b
+A0YB Invoke - 2b
+A0YC Invoke - 1b
+A0YD Invoke - 4b
+A0YE Invoke - 5b
+A0YF Invoke - 6b
+A0YG Invoke - 7b
+A0YH Invoke - 8b
+A0YI Invoke - 9b
+A0YJ Dummy AOE Stun
+A0YK Phantom Edge
+A0YL Stifling Knife Slow
+A0YM Stifling Dagger
+A0YN Item Attack Speed Bonus
+A0YO Soul Assumption FX Level 4
+A0YP Soul Assumption FX Level 2
+A0YQ Flaming Hand new
+A0YR HERO GLOW
+A0YS Item Agility Bonus
+A0YT Storm Seeker
+A0YU 永久献祭
+A0YV Summon Ancestral Spirit
+A0YW Range Epi
+A0YX Frost Shock
+A0YY Inner Frost
+A0YZ Mark of Fire Stun
+A0Z0 Winter's Call
+A0Z1 Global AS (effect0
+A0Z2 Permanent Invisibility (Wraith)
+A0Z3 Spirit Damage Block
+A0Z4 Battery Assault
+A0Z5 能量齿轮
+A0Z6 照明火箭
+A0Z7 Battery Assault
+A0Z8 Hookshot
+A0Z9 Hookshot Stun
+A0ZA Power Cog Damage Block
+A0ZB Select Hero
+A0ZC 狼形态
+A0ZD Permanent Invisibility Wolves
+A0ZE Feral Heart Damage Container
+A0ZF 嗥叫
+A0ZG Feral Heart Caster lvl 4
+A0ZH Feral Heart Caster lvl 3
+A0ZI Feral Heart Caster lvl 2
+A0ZJ Feral Heart Caster lvl 1
+A0ZK Lycan Damage - Hero - 3
+A0ZL Lycan Damage - Hero - 1
+A0ZM Lycan Damage - Hero - 2
+A0ZN Lycan Damage - Hero - 4
+A0ZO Lycan Damage - Hero - 2 (negative)
+A0ZP Lycan Damage - Hero - 3 (negative)
+A0ZQ Lycan Damage - Hero - 1 (negative)
+A0ZR Lycan Damage - Hero - 4 (negative)
+A0ZS Grow
+A0ZT Lycan Damage - Creep - 1
+A0ZU Lycan Damage - Creep - 2
+A0ZV Lycan Damage - Creep - 3
+A0ZW Lycan Damage - Creep - 4
+A0ZX Lycan Damage - Creep - 4 (negative)
+A0ZY Lycan Damage - Creep - 3 (negative)
+A0ZZ Lycan Damage - Creep - 1 (negative)
+A100 Lycan Damage - Creep - 2 (negative)
+A101 Howl Caster - Heroes - 2
+A102 Howl Caster - Heroes - 3
+A103 Howl Caster - Heroes - 4
+A104 Howl Caster - Heroes - 1
+A105 Howl Caster - Creep - 3
+A106 Howl Caster - Creep - 2
+A107 Howl Caster - Creep - 1
+A108 Howl Caster - Creep - 4
+A109 Alacrity Damage Bonus
+A10A Grow
+A10B Grow
+A10C Spirit Lance Slow
+A10D 灵魂之矛
+A10E Select Hero (RD)
+A10F Spirit Lance Image lvl 4
+A10G Spirit Lance Image lvl 2
+A10H Spirit Lance Image lvl 1
+A10I Spirit Lance Image lvl 3
+A10J Avalanche Stomp
+A10K Avalanche Stomp
+A10L Shallow Grave
+A10M Avalanche (effect-correct)
+A10N Battle Hunger
+A10O Battle Hunger
+A10P Battle Hunger
+A10Q 编织
+A10R 吞噬
+A10S 吞噬
+A10T Freezing Field Slow
+A10U Recall
+A10V 致盲之光
+A10W 致盲之光
+A10X 法力流失
+A10Y 法力流失
+A10Z 法力流失
+A110 法力流失
+A111 法力流失
+A112 Chakra Magic
+A113 致盲之光
+A114 致盲之光
+A115 Track Speed
+A116 Night Stalker FX 1
+A117 Night Stalker FX 2
+A118 天神下凡
+A119 天神下凡
+A11A 天神下凡
+A11B 天神下凡
+A11C 天神下凡
+A11D 天神下凡
+A11E 天神下凡
+A11F 天神下凡
+A11G 天神下凡
+A11H 天神下凡
+A11I Undead Crown
+A11J Orb of Dummy
+A11K 幽灵船
+A11L Ghost Ship Slow
+A11M Tide Bringer
+A11O Water Sword Damage
+A11P Ghost Ship FX 1
+A11Q Ghost Ship FX 2
+A11R Water Sword FX
+A11S Water Sword Cleave 3
+A11T 灵魂形态
+A11U Water Sword Container 3
+A11V 致盲之光
+A11W 致盲之光
+A11X 致盲之光
+A11Y Recall
+A11Z Recall
+A120 Illuminate
+A121 Illuminate End
+A122 CoCo船长的酒
+A123 CoCo船长的酒
+A124 致命一击
+A125 Captain CoCo's Rum FX
+A126 Captain CoCo's Rum Container
+A127 鱼人夜行者
+A128 Nightcrawler WindWalk
+A129 Fear of the Dark - Vision
+A12A Fear of the Dark
+A12B Fear of the Dark - Slow
+A12C Fear of the Dark Container
+A12D Captain Coco's Rum - MS
+A12E Item Mana Bonus (50)
+A12F Poison Powder
+A12G Marker - Dispellable
+A12H Item Strength Bonus
+A12I Shackleshot Stun
+A12J Shackleshot
+A12K Powershot
+A12L Windrunner Cyclone
+A12M Windrunner MS
+A12N 风行者
+A12O Windrunner Container - 2
+A12P 集中火力
+A12Q Focus Fire AS
+A12R Focus Fire Container
+A12S Focus Fire FX
+A12T Windrunner FX
+A12U Wind Arrow FX
+A12V Phase Boots Speed Bonus
+A12W Phase Boots - Phase
+A12X Item Armor Bonus
+A12Y Item Damage Bonus (+14)
+A12Z Select Hero
+A130 风行者
+A131 Windrunner Slow - 2
+A132 Windrunner Slow - 3
+A133 Windrunner Slow - 1
+A134 Windrunner Container - 3
+A135 Windrunner Container - 1
+A136 洪流
+A137 回城卷轴|nScroll of Town Portal
+A138 Drop Items
+A139 Windrunner Container - 4
+A13A Windrunner Slow - 4
+A13B Item Armor Bonus
+A13C Item Damage Bonus (+16)
+A13D X Marks The Spot
+A13E 魔棒|nMagic Stick
+A13F Blur
+A13G Blur
+A13H Blur
+A13I Blur
+A13J Magic Stick (old)
+A13K Power Treads Click Old
+A13L Item Life Regeneration
+A13M Item Damage Bonus (+31)
+A13N Maim
+A13O 散夜对剑|nSange and Yasha
+A13P 隐身
+A13Q 魔棒|nMagic Stick
+A13R Shackleshot Stun
+A13S Avalanche (effect-correct-test)
+A13T Tidebringer
+A13U 洪流
+A13V 龙卷风
+A13W 洪流
+A13X Ghostship
+A13Y Gargoyle Spell Damage Reduction Greater
+A13Z 隐身
+A140 Permanent Invisibility (rexxar)
+A141 Glyph of Fortification
+A142 Roshan Aura
+A143 Item Damage Bonus
+A144 Water Sword Cleave 4
+A145 Water Sword Cleave 2
+A146 Water Sword Cleave 1
+A147 Water Sword Container 1
+A148 Water Sword Container 2
+A149 Water Sword Container 4
+A14A 动力鞋|nPower Treads
+A14B 击晕
+A14C Drop Items
+A14D Pickup Items
+A14E Blank
+A14F Blank
+A14G Blank
+A14H Blank
+A14I 风行者
+A14J CoP Mana Degen
+A14K Detector
+A14L 静默诅咒
+A14M Glyph Scourge
+A14N Glyph Sent
+A14O 球形闪电
+A14P 残影
+A14Q Electric Vortext
+A14R 电子涡流
+A14S 电子涡流
+A14T Tombstone
+A14U Decay
+A14V Death Stench Slow
+A14W Death Stench MS
+A14X Death Stench MS
+A14Y Death Stench MS
+A14Z Death Stench MS
+A150 Death Stench MS
+A151 Death Stench MS
+A152 Death Stench MS
+A153 Death Stench MS
+A154 Death Stench MS
+A155 Death Stench MS
+A156 Death Stench MS
+A157 Death Stench MS
+A158 Death Stench MS
+A159 Death Stench MS
+A15A Death Stench MS
+A15B Death Stench MS
+A15C Death Stench MS
+A15D Death Stench MS
+A15E Death Stench MS
+A15F Death Stench MS
+A15G Death Stench MS
+A15H Death Stench
+A15I Living Dead Spell Damage Reduction
+A15J 血肉傀儡
+A15K 瘟疫
+A15L Undying Aura
+A15M Undying Aura HP Buff
+A15N Undying Aura HP Buff
+A15O Undying Aura HP Buff
+A15P Undying Aura HP Buff
+A15Q Undying Aura HP Buff
+A15R Undying Aura HP Buff
+A15S Decay
+A15T Death Stench MS
+A15U Death Stench Slow
+A15V Tombstone
+A15W Blademail
+A15X Wake
+A15Y Heart Regen
+A15Z 死亡突袭
+A160 Flesh Golem HP - 1
+A161 Flesh Golem HP - 13
+A162 Flesh Golem HP - 6
+A163 Flesh Golem HP - 2
+A164 Flesh Golem HP - 20
+A165 Flesh Golem HP - 23
+A166 Flesh Golem HP - 12
+A167 Flesh Golem HP - 1
+A168 Flesh Golem HP - 1
+A169 Flesh Golem HP - 1
+A16A Flesh Golem HP - 21
+A16B Flesh Golem HP - 1
+A16C Flesh Golem HP - 1
+A16D Flesh Golem HP - 1
+A16E Flesh Golem HP - 1
+A16F Flesh Golem HP - 25
+A16G Flesh Golem HP - 16
+A16H Flesh Golem HP - 3
+A16I Flesh Golem HP - 8
+A16J Flesh Golem HP - 9
+A16K Flesh Golem HP - 10
+A16L Flesh Golem HP - 19
+A16M Flesh Golem HP - 14
+A16N Flesh Golem HP - 11
+A16O Flesh Golem HP - 1
+A16P Flesh Golem HP - 1
+A16Q Flesh Golem HP - 5
+A16R Flesh Golem HP - 7
+A16S Flesh Golem HP - 1
+A16T Flesh Golem HP - 15
+A16U Flesh Golem HP - 17
+A16V Flesh Golem HP - 18
+A16W Flesh Golem HP - 22
+A16X Flesh Golem HP - 24
+A16Y Flesh Golem HP - 4
+A16Z Flesh Golem HP - 1
+A170 Play Sound
+A171 Item Damage Bonus (+80)
+A172 Item Damage Bonus (+75)
+A173 瘴气
+A174 Cranium Basher Container
+A175 碎骨锤|nCranium Basher
+A176 Tombstone Bonus
+A177 瘟疫
+A178 瘟疫
+A179 魔法免疫
+A17A Plague Aura Container
+A17B Epicenter Slow
+A17C Damage Bonus System - 8
+A17D Damage Bonus System - 16
+A17E Damage Bonus System - 32
+A17F Damage Bonus System - 1
+A17G Damage Bonus System - 2
+A17H Damage Bonus System - 4
+A17I Damage Bonus System - 128
+A17J Damage Bonus System - 64
+A17K 暗言术
+A17L Damage Bonus System - 256
+A17M Version Check
+A17N 暗影突袭
+A17O Wave of Terror
+A17P Sprout
+A17Q Item Agility Bonus
+A17R Fortification Armor Bonus
+A17S SiegeUnit
+A17T Bloodlust Multi
+A17U Fireblast Multi
+A17V Ignite Multi
+A17W Ignite 1 Multi
+A17X Ignite 2 Multi
+A17Y Ignite 3 Multi
+A17Z Demonic Conversion
+A180 Demonic Conversion
+A181 Item Summon Totem - Earth
+A182 Totem of Water
+A183 Item Summon Totem - Water
+A184 Item Summon Totem - Fire
+A185 Item Summon Totem - Wind
+A186 法术护盾
+A187 Item Strength Bonus
+A188 Axe of the Chieftain
+A189 Totem of Fire
+A18A Totem of Wind
+A18B Totem of Earth
+A18C Borrowed Time
+A18D Shock
+A18E Unholy Fervor (bonus-6)
+A18F Unholy Fervor (bonus-7)
+A18G Unholy Fervor (bonus-8)
+A18H Unholy Fervor (bonus-9)
+A18I Unholy Fervor (bonus-10)
+A18J Unholy Fervor (bonus-11)
+A18K Unholy Fervor (bonus-12)
+A18L Unholy Fervor (bonus-13)
+A18M Unholy Fervor (bonus-14)
+A18N Unholy Fervor (bonus-15)
+A18O Unholy Fervor (bonus-16)
+A18P Unholy Fervor Container
+A18Q Unholy Fervor (bonus-18)
+A18R Unholy Fervor (bonus-5)
+A18S Unholy Fervor (bonus-20)
+A18T Unholy Fervor MS
+A18U Unholy Fervor MS
+A18V Unholy Fervor MS
+A18W Unholy Fervor MS
+A18X 炽魂
+A18Y Fiery Soul Bonus - 1a
+A18Z Fiery Soul Bonus - 1b
+A190 Storm Bolt
+A191 Rush
+A192 Rush Bonus
+A193 坚韧光环
+A194 撕裂伤口
+A195 Fiery Soul Bonus - 4c
+A196 Fiery Soul Bonus - 4b
+A197 Unholy Fervor (bonus-17)
+A198 Unholy Fervor (bonus-3)
+A199 Unholy Fervor (bonus-1)
+A19A Unholy Fervor (bonus-2)
+A19B Unholy Fervor (bonus-4)
+A19C Unholy Fervor (bonus-19)
+A19D Fiery Soul Bonus - 3c
+A19E Fiery Soul Bonus - 3b
+A19F Shrapnel Slow
+A19G Fiery Soul Bonus - 2c
+A19H Fiery Soul Bonus - 2b
+A19I Fiery Soul Bonus - 2a
+A19J Fiery Soul Bonus - 1c
+A19K Fiery Soul Bonus - 3a
+A19L Fiery Soul Bonus - 4a
+A19M 弹射法杖|nForce Staff
+A19N 枷锁
+A19O 火焰枷锁
+A19P Mana Leak Slow
+A19Q Craggy Exterior
+A19R 永久献祭
+A19S 永久献祭
+A19T Fire Trail
+A19U Firefly Slow
+A19V Flamebreak
+A19W Incinerate
+A19X Single Ignite
+A19Y Mass Ignite
+A19Z 火焰之径
+A1A0 Lasso No Attack
+A1A1 Earth Splitter
+A1A2 法术护盾
+A1A3 Nethertoxin
+A1A4 Linken Sphere Dummy
+A1A5 战吼
+A1A6 Rush Armor
+A1A7 Ancestral Charge Banish
+A1A8 Ancestral Spirit
+A1A9 Great Stomp Effect
+A1AA 回音重踏
+A1AB Demolish BASIC
+A1AC 幽魂药剂|nGhost Potion
+A1AD Demolish BASIC
+A1AE Demolish UPGRADED
+A1AF Demolish UPGRADED
+A1AG Item Hero Stat Bonus Leveler
+A1AH Piercing Damage
+A1AI Shock Slow
+A1AJ Lightning Sentry
+A1AK Lightning Sentry Bolt
+A1AL Spell Damage Reduction Lightning Sentry
+A1AM Lightning Sentry Container
+A1AN Reverberate
+A1AO Eye of the Storm
+A1AP Eye of the Storm - 2
+A1AQ Eye of the Storm - 1
+A1AR Scepter CM
+A1AS Return Home
+A1AT 石化凝视
+A1AU Assassinate upgrade
+A1AV Amplify Damage upgrade
+A1AW Nether Swap upgrade
+A1AX Omnislash upgrade
+A1AY Phantasm upgraded
+A1AZ Reincarnation upgrade
+A1B0 Darkness upgrade
+A1B1 Macropyre upgrade
+A1B2 Macropyre Flame upgrade
+A1B3 Life Break upgrade
+A1B4 Epicenter upgrade
+A1B5 Invoke upgrade
+A1B6 Primal Split upgrade
+A1B7 Natural Order - Armor 4
+A1B8 阿哈利姆神杖（矮人火枪手）
+A1B9 阿哈利姆神杖（发条地精）
+A1BA 阿哈利姆神杖（复仇之魂）
+A1BB 阿哈利姆神杖（剑圣）
+A1BC 阿哈利姆神杖（沙王）
+A1BD 阿哈利姆神杖（召唤师）
+A1BE 阿哈利姆神杖（熊猫酒仙）
+A1BF Aghanim's Scepter (Leoric)
+A1BG 阿哈利姆神杖（暗夜魔王）
+A1BH 阿哈利姆神杖（混沌骑士）
+A1BI 阿哈利姆神杖（神灵武士）
+A1BJ 阿哈利姆神杖（双头龙）
+A1BK Aghanim Invoker
+A1BL Aghanim Huskar
+A1BM Aghanim Sand King
+A1BN Aghanim Jakiro
+A1BO Aghanim Nightstalker
+A1BP Aghanim Leoric
+A1BQ Aghanim Chaos Knight
+A1BR Aghanim Juggernaut
+A1BS Aghanim Panda
+A1BT Aghanim Vengeful Spirit
+A1BU Aghanim Slardar
+A1BV Aghanim Sniper
+A1BW Item Damage Bonus (+20)
+A1BX 黑洞
+A1BY True Strike
+A1BZ 闪避
+A1C0 Splitshot
+A1C1 Item Damage Bonus (+24)
+A1C2 Natural Order - Spell 3
+A1C3 Natural Order - Armor 2
+A1C4 Natural Order - Armor 3
+A1C5 Natural Order - Armor 1
+A1C6 Natural Order - Spell 1
+A1C7 Natural Order - Spell 2
+A1C8 Natural Order - Spell 4
+A1C9 Natural Order 2
+A1CA Natural Order 1
+A1CB Natural Order 3
+A1CC Natural Order 4
+A1CD 自然秩序
+A1CE Earthsplitter Slow
+A1CF Negative Armor System -4
+A1CG Negative Armor System -16
+A1CH Negative Armor System -32
+A1CI Negative Armor System -8
+A1CJ Item Agility Bonus
+A1CK Negative Armor System -2
+A1CL Diffusal Burn Level 2
+A1CM Negative Armor System -1
+A1CN Item Life Steal 175%
+A1CO Phantom Strike
+A1CP Great Stomp
+A1CQ Natural Order Aura Art
+A1CR 永久献祭
+A1CS Hand of God upgraded
+A1CT Aghanim Chen
+A1CU 阿哈利姆神杖（圣骑士）
+A1CV Hookshot Upgrade
+A1CW Aghanim Clockwerk
+A1CX Dismember Upgraded
+A1CY 阿哈利姆神杖（屠夫）
+A1CZ 阿哈利姆神杖（SB）
+A1D0 阿哈利姆神杖（痛苦之源）
+A1D1 阿哈利姆神杖（虚空假面）
+A1D2 阿哈利姆神杖（风行者）
+A1D3 阿哈利姆神杖（地狱领主）
+A1D4 阿哈利姆神杖（暗影牧师）
+A1D5 Aghanim Pudge
+A1D6 Focus Fire Upgraded
+A1D7 Chronosphere Upgraded
+A1D8 Nether Strike Upgrade
+A1D9 Fiend's Grip Upgrade
+A1DA Borrowed Time Upgrade
+A1DB Weave Upgrade
+A1DC Aghanim Windrunner
+A1DD Aghanim Faceless Void
+A1DE Aghanim Abaddon
+A1DF Aghanim Dazzle
+A1DG Aghanim Spirit Breaker
+A1DH Aghanim Bane Elemental
+A1DI Stout Shield Damage Block PMS
+A1DJ Eye of the Storm Lightning
+A1DK Eye Of The Storm Negative Armor System -1
+A1DL Eye Of The Storm Negative Armor System -2
+A1DM Eye Of The Storm Negative Armor System -8
+A1DN Eye Of The Storm Negative Armor System -4
+A1DO Eye Of The Storm Negative Armor System -16
+A1DP 静电连接
+A1DQ Static Link Damage Positive 2
+A1DR Static Link Damage Positive 4
+A1DS Static Link Damage Positive 8
+A1DT Static Link Damage Positive 16
+A1DU Static Link Damage Positive 32
+A1DV Static Link Damage Positive 1
+A1DW Static Link Damage Positive 64
+A1DX Static Link Damage Positive 128
+A1DY Static Link Damage Negative 128
+A1DZ Static Link Damage Negative 64
+A1E0 Static Link Damage Negative 16
+A1E1 Static Link Damage Negative 8
+A1E2 Static Link Damage Negative 4
+A1E3 Static Link Damage Negative 2
+A1E4 Static Link Damage Negative 1
+A1E5 Static Link Damage Negative 32
+A1E6 不稳定电流
+A1E7 等离子场
+A1E8 黏性燃油
+A1E9 Crystal Nova
+A1EA Refraction
+A1EB Autofire
+A1EC 战争咆哮
+A1ED 战争咆哮
+A1EE 狂猛
+A1EF 狂猛
+A1EG 狂猛
+A1EH 狂猛
+A1EI 狂猛
+A1EJ 战斗专注
+A1EK 致盲
+A1EL 黏性燃油
+A1EM Napalm Slow 3
+A1EN Napalm Slow 2
+A1EO Napalm Slow 1
+A1EP Napalm Slow 4
+A1EQ Split Shot Reduction Level 3
+A1ER Split Shot Reduction Level 4
+A1ES Split Shot Reduction Level 2
+A1ET Split Shot Reduction Level 1
+A1EU Ancestral Switch
+A1EV Pipe of Insight barrier
+A1EW 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+A1EX 火焰枷锁
+A1EY Orb Shop Effect 3
+A1EZ Orb Shop Effect 1
+A1F0 Orb Shop Effect 2
+A1F1 Orb Shop Effect 4
+A1F2 Support Shop Effect 1
+A1F3 Warcry Container - Level 3
+A1F4 Warcry - MS
+A1F5 Warcry Container - Level 4
+A1F6 Warcry Container - Level 1
+A1F7 Warcry Container - Level 2
+A1F8 Liquid Fire - 3
+A1F9 Liquid Fire - 4
+A1FA Liquid Fire - 2
+A1FB Liquid Fire - 1
+A1FC Autofire FX
+A1FD Tree Chop
+A1FE Warcry FX
+A1FF Liquid Fire Container - 1
+A1FG Liquid Fire Container - 2
+A1FH Liquid Fire Container - 4
+A1FI Liquid Fire Container - 3
+A1FJ Focus Fire Reductio Level 3
+A1FK Focus Fire Reductio Level 1
+A1FL Focus Fire Reductio Level 2
+A1FM Arc Lightning
+A1FN Napalm Slow Constant
+A1FO MKBSwap
+A1FP Satanic this
+A1FQ MKB Spell Book
+A1FR Item Armor Bonus
+A1FS Item Armor Bonus
+A1FT Stout Shield Damage Block
+A1FU Stout Shield Damage Block PMS
+A1FV Stout Shield Damage Block PMS
+A1FW Stout Shield Damage Block PMS
+A1FX Item Hero Stat Bonus
+A1FY Remote Mines
+A1FZ Detonate
+A1G0 Aghanim Techies
+A1G1 阿哈利姆神杖（地精工程师）
+A1G2 Item Attack Speed Bonus
+A1G3 Liquid Fire Slow 2
+A1G4 Liquid Fire Slow 4
+A1G5 Liquid Fire Slow 1
+A1G6 Liquid Fire Slow 3
+A1G7 丛林斥候
+A1G8 Ancestral MS
+A1G9 先祖冲锋
+A1GA 永久隐身
+A1GB 大自然的掩护
+A1GC Burrow
+A1GD Suicide
+A1GE 沉默
+A1GF 传染
+A1GG Scarab Silence
+A1GH 鬼魂
+A1GI Bonus Attack Speed - 128
+A1GJ Bonus Attack Speed - 4
+A1GK Bonus Attack Speed - 1
+A1GL Bonus Attack Speed - 2
+A1GM Bonus Attack Speed - 16
+A1GN Bonus Attack Speed - 32
+A1GO Bonus Attack Speed - 64
+A1GP Bonus Attack Speed - 8
+A1GQ Bonus Attack Speed - 256
+A1GR Wex
+A1GS Quas
+A1GT Exort
+A1GU Invoke
+A1GV Invoke upgrade
+A1GW Item Life Regeneration
+A1GX Item Attack Speed Bonus
+A1GY Item Damage Bonus (+10)
+A1GZ Entangle Buff 2
+A1H0 Echo Slam reverberate half
+A1H1 Time Slow (day)
+A1H2 Item Hero Stat Bonus
+A1H3 Item Hero Stat Bonus
+A1H4 Item Hero Stat Bonus
+A1H5 Mana Burn
+A1H6 Item Hero Stat Bonus
+A1H7 Item Hero Stat Bonus
+A1H8 Item Hero Stat Bonus
+A1H9 Item Hero Stat Bonus
+A1HA Item Hero Stat Bonus
+A1HB Item Damage Bonus (+12)
+A1HC Item Damage Bonus (+46)
+A1HE Item Attack Speed Bonus
+A1HF Item Hero Stat Bonus
+A1HG Item Damage Bonus (+26)
+A1HH 传染
+A1HI Item Damage Bonus (+45)
+A1HJ Item Strength Bonus
+A1HK Item Strength Bonus
+A1HL Frost Barrier
+A1HM Ice Cube Launcher
+A1HN 寒冰之触
+A1HO Dark Pact
+A1HP 鱼人夜行者
+A1HQ 寒冰之触
+A1HR Essence Shift
+A1HS 冰霜漩涡
+A1HT Slow Aura
+A1HU Building Damage Aura
+A1HV 暗影之舞
+A1HW Shadow Dance 1
+A1HX Shadow Dance 2
+A1HY Silence Attack - Silence
+A1HZ Ice Vortex 1
+A1I0 Ice Vortex - Spell 3
+A1I1 Ice Vortex - Spell 2
+A1I2 Ice Vortex - Spell 1
+A1I3 Ice Vortex 3
+A1I4 Ice Vortex 2
+A1I5 Ice Vortex - Spell 4
+A1I6 Ice Vortex 4
+A1I7 Nightcrawler FX
+A1I8 Nightcrawler MS - 1
+A1I9 Nightcrawler MS - 2
+A1IA Nightcrawler MS - 3
+A1IB Nightcrawler - 3
+A1IC Nightcrawler - 1
+A1ID Nightcrawler - 2
+A1IE Nightcrawler Container - 1
+A1IF Nightcrawler Container - 2
+A1IG Nightcrawler Container - 3
+A1IH 鱼人夜行者
+A1II Tornado MS - 1
+A1IJ Tornado MS - 3
+A1IK Tornado MS - 4
+A1IL Tornado MS - 2
+A1IM Dark Pact
+A1IN 暗影之舞
+A1IO RadSwap
+A1IP 寒冰之触
+A1IQ 忍术
+A1IR Jinada Damage
+A1IS Jinada FX
+A1IT Jinada Critical - 2
+A1IU Jinada Container - 4
+A1IV Grow
+A1IW Jinada Maim
+A1IX Jinada MS
+A1IY PhantasmStrike Helper
+A1IZ Chaotic Strength
+A1J0 Jinada Critical - 4
+A1J1 Jinada Critical - 3
+A1J2 Jinada Critical - 1
+A1J3 Jinada Container - 2
+A1J4 Jinada Container - 1
+A1J5 Jinada Container - 3
+A1J6 Pounce FX
+A1J7 Pounce
+A1J8 Spell Damage Reduction Greater 50%
+A1J9 寒霜之足
+A1JA 冰晶爆轰
+A1JB Ice Shell
+A1JC "IceShell - 1,4"
+A1JD "IceShell - 1,5"
+A1JE "IceShell - 1,6"
+A1JF "IceShell - 2,1"
+A1JG "IceShell - 2,2"
+A1JH "IceShell - 2,3"
+A1JI "IceShell - 2,4"
+A1JJ "IceShell - 3,1"
+A1JK "IceShell - 2,6"
+A1JL "IceShell - 3,2"
+A1JM "IceShell - 3,3"
+A1JN "IceShell - 3,4"
+A1JO "IceShell - 3,5"
+A1JP "IceShell - 3,6"
+A1JQ "IceShell - 4,1"
+A1JR "IceShell - 4,2"
+A1JS "IceShell - 4,6"
+A1JT "IceShell - 1,1"
+A1JU "IceShell - 1,2"
+A1JV "IceShell - 1,3"
+A1JW "IceShell - 2,5"
+A1JX "IceShell - 4,3"
+A1JY "IceShell - 4,4"
+A1JZ "IceShell - 4,5"
+A1K0 "IceShell Magic 4,3"
+A1K1 "IceShell Book - 2,1"
+A1K2 "IceShell Magic 4,6"
+A1K3 "IceShell Magic 4,4"
+A1K4 "IceShell Magic 3,2"
+A1K5 "IceShell Magic 2,4"
+A1K6 "IceShell Magic 1,1"
+A1K7 "IceShell Magic 1,2"
+A1K8 "IceShell Magic 1,3"
+A1K9 "IceShell Magic 1,4"
+A1KA "IceShell Magic 1,6"
+A1KB "IceShell Magic 2,1"
+A1KC "IceShell Magic 2,2"
+A1KD "IceShell Magic 2,3"
+A1KE "IceShell Magic 4,5"
+A1KF "IceShell Magic 2,5"
+A1KG "IceShell Magic 2,6"
+A1KH "IceShell Magic 3,1"
+A1KI "IceShell Magic 3,3"
+A1KJ "IceShell Magic 3,4"
+A1KK "IceShell Magic 3,5"
+A1KL "IceShell Magic 3,6"
+A1KM "IceShell Magic 4,1"
+A1KN "IceShell Magic 4,2"
+A1KO "IceShell Magic 1,5"
+A1KP "IceShell Book - 1,4"
+A1KQ "IceShell Book - 1,3"
+A1KR "IceShell Book - 1,1"
+A1KS "IceShell Book - 1,2"
+A1KT "IceShell Book - 2,6"
+A1KU "IceShell Book - 1,5"
+A1KV "IceShell Book - 1,6"
+A1KW "IceShell Book - 2,2"
+A1KX "IceShell Book - 2,3"
+A1KY "IceShell Book - 2,4"
+A1KZ "IceShell Book - 2,5"
+A1L0 "IceShell Book - 3,5"
+A1L1 "IceShell Book - 3,4"
+A1L2 "IceShell Book - 3,3"
+A1L3 "IceShell Book - 3,2"
+A1L4 "IceShell Book - 3,1"
+A1L5 "IceShell Book - 3,6"
+A1L6 "IceShell Book - 4,6"
+A1L7 "IceShell Book - 4,2"
+A1L8 "IceShell Book - 4,1"
+A1L9 "IceShell Book - 4,3"
+A1LA "IceShell Book - 4,5"
+A1LB "IceShell Book - 4,4"
+A1LC Gust
+A1LD Gust Container
+A1LE Ice Blast FX
+A1LF "IceShell Magic 4,7"
+A1LG "IceShell - 4,7"
+A1LH "IceShell Book - 4,7"
+A1LI IceShellEnemy - Armor 1
+A1LJ IceShellEnemy - Armor 2
+A1LK IceShellEnemy - Armor 3
+A1LL IceShellEnemy - Armor 6
+A1LM IceShellEnemy - Armor 8
+A1LN IceShellEnemy - Armor 10
+A1LO IceShellEnemy - Armor 4
+A1LP IceShellEnemy - Armor 5
+A1LQ IceShellEnemy - Armor 9
+A1LR IceShellEnemy - Armor 7
+A1LS IceShellEnemy - Armor 1
+A1LT IceShellEnemy - Magic 1
+A1LU IceShellEnemy - Magic 2
+A1LV IceShellEnemy - Magic 3
+A1LW IceShellEnemy - Magic 5
+A1LX IceShellEnemy - Magic 6
+A1LY IceShellEnemy - Magic 9
+A1LZ IceShellEnemy - Magic 8
+A1M0 IceShellEnemy - Magic 7
+A1M1 IceShellEnemy - Magic 4
+A1M2 IceShellEnemy - Magic 10
+A1M3 IceShellEnemy Book - 1
+A1M4 IceShellEnemy Book - 2
+A1M5 IceShellEnemy Book - 8
+A1M6 IceShellEnemy Book - 10
+A1M7 IceShellEnemy Book - 4
+A1M8 IceShellEnemy Book - 5
+A1M9 IceShellEnemy Book - 6
+A1MA IceShellEnemy Book - 7
+A1MB IceShellEnemy Book - 9
+A1MC IceShellEnemy Book - 3
+A1MD Freeze
+A1ME Gust
+A1MF Boomerang
+A1MG 寒霜之足
+A1MH Chilling Rage
+A1MI 冰晶爆轰
+A1MJ Cold Feed Stun
+A1MK Gust
+A1ML 幻象法杖
+A1MM Staff of Healing
+A1MN Ice Blast Helper
+A1MO Staff of Healing (real)
+A1MP Requiem of Souls
+A1MQ Aghanim Nevermore
+A1MR Culling Blade
+A1MS Aghanim Axe
+A1MT 阿哈利姆神杖（斧王）
+A1MU Aghanim's Scepter (Nevermore)
+A1MV 火焰枷锁
+A1MW Aghanim Batrider
+A1MX Aghanim's Scepter (Batrider)
+A1MY 化学狂暴
+A1MZ Aghanim Earthshaker
+A1N0 阿哈利姆神杖（撼地神牛）
+A1N1 Recall
+A1N2 灵魂形态
+A1N3 超强力量
+A1N4 超强力量
+A1N5 Overpower FX
+A1N6 Overpower Container
+A1N7 超强力量
+A1N8 Gust
+A1N9 灵魂超度
+A1NA 灵魂超度
+A1NB 石像形态
+A1NC 石像形态
+A1ND 石像形态
+A1NE Familiars
+A1NF Stone Form Stun
+A1NG Breath of the Necro'lic
+A1NH 不稳定化合物
+A1NI 不稳定化合物
+A1NJ Soul Assumption FX Level Final
+A1NK 石像形态
+A1NL 石像形态
+A1NM 石像形态
+A1NN 石像形态
+A1NO Stout Shield Damage Block Vanguard (ranged)
+A1NP Spirit Echo
+A1NQ Scepter (Luna)
+A1NR Scepter (Vengeful Spirit)
+A1NS Scepter (Huskar)
+A1NT Scepter ALT (Luna)
+A1NU Scepter ALT (Huskar)
+A1NV Spell Damage Reduction FULL
+A1NW Scepter (Leshrac)
+A1NX Scepter (Sandking)
+A1NY 灵魂超度
+A1NZ 灵魂超度
+A1O0 灵魂超度
+A1O1 灵魂超度
+A1O2 灵魂超度
+A1O3 灵魂超度
+A1O4 Santa Hat Small
+A1O5 Flying Courier Fire
+A1O6 灵魂超度
+A1O7 灵魂超度
+A1O8 灵魂超度
+A1O9 Spell Damage Reduction almost FULL
+A1OA Roshan Fire
+A1OB Echo Slam
+A1OC Scepter (Earthshaker)
+A1OD Scorched Earth Damage - 4
+A1OE Scorched Earth Damage - 1
+A1OF Scorched Earth Damage - 2
+A1OG Scorched Earth Damage - 3
+A1OH Scorched Earth MS + Regen - Level 2
+A1OI Scorched earth MS - 1
+A1OJ Scorched Earth MS + Regen - Level 1
+A1OK Scorched Earth MS + Regen - Level 3
+A1OL Scorched Earth Container - 1
+A1OM Scorched Earth Container - 4
+A1ON Scorched Earth Container - 2
+A1OO Scorched Earth Container - 3
+A1OP 焦土
+A1OQ Chain Lightning
+A1OR 冰霜护甲
+A1OS 雷霆一击
+A1OT Mana Burn
+A1OU 净化
+A1OV Shockwave
+A1OW 邪恶光环
+A1OX 命令光环
+A1OY 致命一击
+A1OZ Heal
+A1P0 War Stomp
+A1P1 淬毒武器
+A1P2 霜冻攻击
+A1P3 坚韧光环
+A1P4 强袭飓风
+A1P5 Raise Dead
+A1P6 捕获
+A1P7 Frost Attack (Lucy)
+A1P8 暗影冲刺
+A1P9 超强力量
+A1PA 霜冻攻击
+A1PB Capture Point - Ability HP 3a - Creeps
+A1PC Capture Point - Ability MP 3a - Creeps
+A1PD Capture Point - Ability HP 3b
+A1PE Capture Point - Ability MP 3b
+A1PF Capture Point - Ability MP 3a
+A1PG Capture Point - Ability MP 3b - Creeps
+A1PH Soul Steal
+A1PI Empower Cleave 2
+A1PJ Capture Point - Ability Damage 2b
+A1PK Capture Point - Ability Damage 2b - Creeps
+A1PL Capture Point - Ability Damage 2a
+A1PM Capture Point - Ability Damage 2a - Creeps
+A1PN Capture Point - Ability Armor 2b
+A1PO Capture Point - Ability Armor 2a
+A1PP Capture Point - Ability Armor 2a - Creeps
+A1PQ Capture Point - Ability Armor 2b - Creeps
+A1PR 据点占据模式|r(|cffff0303CP|r)
+A1PS 静默诅咒
+A1PT Capture Point - Ability 1a
+A1PU Capture Point - Ability 1b
+A1PV Capture Point - Ability HP 3a
+A1PW Capture Point - Ability HP 3b - Creeps
+A1PX Empower Cleave 4
+A1PY Empower Cleave 3
+A1PZ Empower Cleave 1
+A1Q0 Empower Cleave Container 1
+A1Q1 Empower Cleave Container 2
+A1Q2 Empower Cleave Container 3
+A1Q3 Empower Cleave Container 4
+A1Q4 獠牙冲刺
+A1Q5 Skewer MS
+A1Q6 Skewer Maim
+A1Q7 Echostep
+A1Q8 灵魂之戒|nSoul Ring
+A1Q9 Ethereal Blast
+A1QA Ethereal Blade Stats
+A1QB Ethereal Blade MS
+A1QC Etherblast Container
+A1QD 以太冲击
+A1QE HP Bonus System - 1
+A1QF HP Bonus System - 2
+A1QG HP Bonus System - 512
+A1QH HP Bonus System - 32
+A1QI HP Bonus System - 4
+A1QJ HP Bonus System - 16
+A1QK HP Bonus System - 8
+A1QL Scepter (Jugg)
+A1QM HP Bonus System - 256
+A1QN HP Bonus System - 128
+A1QO HP Bonus System - 64
+A1QP Dream Coil
+A1QQ HP Bonus System - 1024
+A1QR Aghanim Puck
+A1QS 阿哈利姆神杖（仙女龙）
+A1QT Jinada Container - Main
+A1QU Jinada Critical - 0
+A1QV 近卫军团
+A1QW The Swarm
+A1QX Swarm Damage Block
+A1QY Swarm Strike
+A1QZ Swarm - Armor Reduction
+A1R0 死亡契约
+A1R1 Scepter (VS)
+A1R2 Scepter (Invoker)
+A1R3 Scepter (Void)
+A1R4 Sentinel_Stun
+A1R5 Scroll of Teleporation (fixed)
+A1R6 风行者
+A1R7 地精工程师
+A1R8 痛苦之源
+A1R9 死灵法师
+A1RA Soulsteal End
+A1RB Marker - No Hook
+A1RC 近卫军团
+A1RD 獠牙冲刺
+A1RE Swarm Damage Block
+Aabs Absorb Mana
+Aadm Abolish Magic
+Aaha Gather
+Aakb War Drums
+Aall Shop Sharing, Allied Bldg.
+Aalr Alarm
+Aami Item Anti-Magic Shell
+Aamk Attribute Bonus
+Aams 反魔法盾
+Aap1 Disease Cloud
+Aap2 Disease Cloud
+Aapl Disease Cloud
+Aarm Mana Regeneration Aura
+Aasl Slow Aura
+Aast Ancestral Spirit
+Aatk Attack
+Aave Destroyer Form
+Aawa Revive Hero Instantly
+Abdl Blight Dispel Large
+Abds Blight Dispel Small
+Abdt Burrow Detection
+Abgl Blight Growth Large
+Abgm Blighted Gold Mine Ability
+Abgs Blight Growth Small
+Abli Blight
+Ablo 嗜血
+Ablp Blight Placement
+Abof Burning Oil
+Abrf Bear Form
+Absk 狂暴
+Abtl Battle Stations
+Abu5 Burrow
+Abun Cargo Hold (Orc Burrow)
+Abur Burrow
+ACac 命令光环
+Acan Cannibalize
+Acar Cargo Hold
+ACav 专注光环
+ACbf Breath of Frost
+ACbr Berserker Rage
+ACce 狂战斧|nBattle Fury
+ACch 支配头盔|nHelm of the Dominator
+ACcl Chain Lightning
+ACcr Cripple
+ACct 致命一击
+ACcy 龙卷风
+Acdh 醉酒云雾
+ACen 捕获
+ACes 闪避
+ACev 闪避
+ACf2 冰霜护甲
+Acha Chaos
+Achd Cargo Hold Death
+AChx Guinsoo's Scythe
+ACif Inner Fire
+Aclf Cloud
+ACm2 魔法免疫
+ACm3 魔法免疫
+Acmg Control Magic
+ACmi 魔法免疫
+Acn2 Cannibalize
+ACnr Healing Well
+Acor 毒性攻击
+Acpf Corporeal Form
+ACps Possession
+ACpu 净化
+ACpv 粉碎击
+ACrd Raise Dead
+ACrf Rain of Fire
+Acri Cripple
+ACrk 抗性皮肤
+Acrs Curse
+ACsh Shockwave
+ACsk 抗性皮肤
+ACsp 沉睡
+ACtb Hurl Boulder
+ACtc 雷霆一击
+ACua 邪恶光环
+ACvs 淬毒武器
+Acyc 龙卷风
+Adcn Disenchant
+Adda AOE damage upon death
+Adef Defend
+Adet Detector
+Adev 吞噬
+Adis Dispel Magic
+Adri Unload Instant
+Adro Unload
+Adsm Dispel Magic
+Adt1 Detector
+Adta Reveal
+Adtg 真视
+Adtn Detonate
+Adts Tower Truesight
+Advc Devour Cargo
+Advm Devour Magic
+AEah Thorns Aura
+AEar 强击光环
+Aeat Eat Tree
+AEbl Blink
+AEbu Build (Night Elf)
+AEer 根须缠绕
+AEev 闪避
+AEfk Nether Blast
+AEfn 自然之力
+Aegm Entangled Gold Mine Ability
+AEim 献祭
+AEmb Mana Burn
+AEme 变形
+Aenc Load
+Aens 捕获
+Aent Entangle Gold Mine
+AEpa Poison Arrows
+AEsf Starfall
+AEsh 暗影突袭
+Aesn 近卫军团
+AEsv 幻火
+Aeth 鬼魂
+Aetl Ethereal
+AEvi 变形
+Aeye 岗哨守卫
+Afa2 Faerie Fire
+Afae Faerie Fire
+Afak Orb of Annihilation
+Afbk 幻影斧|nManta Style
+Afbt 散失之刃|nDiffusal Blade
+Afih On Fire (Human)
+Afin On Fire (Night Elf)
+Afio On Fire (Orc)
+Afir On Fire
+Afiu On Fire (Undead)
+Afla Flare
+Aflk Flak Cannons
+Afr2 Skadi Ranged
+Afra 霜冻攻击
+Afrb Frost Breath
+Afsh Fragmentation Shards
+Afzy Frenzy
+AGbu Build (Naga)
+Agho 鬼魂
+Agld Gold Mine ability
+Agra War Club
+Agyb Flying Machine Bombs
+Agyd Create Corpse
+Agyv 真视
+AHab 辉煌光环
+AHad 专注光环
+Ahar Harvest
+AHav 天神下凡
+AHbh 击晕
+AHbn Banish
+AHbu Build (Human)
+AHbz Nether Blast
+AHca 寒冰箭
+AHdr 汲取魔法
+AHds Divine Shield
+Ahea Heal
+AHer Hero
+AHfa Searing Arrows
+AHfs Flame Strike
+AHhb Holy Light
+AHmt Mass Teleport
+AHre Resurrection
+Ahrl Harvest
+Ahrp Repair
+AHta Reveal
+AHtb Hellfire Blast
+AHtc 雷霆一击
+Ahwd 治疗守卫
+AHwe Summon Water Elemental
+AIa1 Item Hero Stat Bonus
+AIa3 Item Hero Stat Bonus
+AIa6 Item Hero Stat Bonus
+AIaa Item Attack Damage Gain
+AIab Item Hero Stat Bonus
+AIae 夜叉|nYasha
+AIam Item Agility Gain
+AIan Item Animate Dead
+AIas Item Attack Speed Bonus
+AIat Item Damage Bonus
+AIau Headdress of Rejuvenation Aura
+AIbg Build Tiny Great Hall
+AIbk Blink (Item Version)
+AIbl Build Tiny Castle
+AIbm Item Mana Bonus
+AIbt Build Tiny Scout Tower
+AIcb Item Attack Corruption Bonus
+AIcf Item Immolation
+AIct Change Time of Day
+AIcy 龙卷风
+AId0 Item Armor Bonus
+AId1 Item Armor Bonus
+AId2 Item Armor Bonus
+AId3 Item Armor Bonus
+AId4 Item Armor Bonus
+AId5 Item Armor Bonus
+AIda Item Temporary Area Armor Bonus
+AIdb Headdress Heal
+AIdd Passive Defense
+AIde Item Armor Bonus
+AIdi Item Dispel
+AIds Item Dispel
+Aien 单位背包
+AIev 闪避
+AIfb Item Attack Fire Bonus
+AIfc Flying Carpet
+AIfi Item Firebolt
+AIfs Item Skeleton Summon
+AIft Melee Cold Damage Bonus
+AIgo Chest of Gold
+AIh1 Item Healing
+AIh3 Least Healing
+AIha Item Area Healing
+AIhe Item Healing
+Aihn 单位背包
+AIi1 Item Hero Stat Bonus
+AIi3 Item Hero Stat Bonus
+AIi6 Item Hero Stat Bonus
+AIil Item Illusions
+AIl1 Item Life Bonus
+AIl2 Item Life Bonus
+AIll Orb of Lightning (new)
+AIlz Item Life Bonus
+AIm1 Item Mana Regain
+AIma Item Mana Regain
+AImb Item Mana Bonus
+AImi Item Life Gain
+AIml Item Life Bonus
+AImm Item Mana Bonus
+Aimp Vorpal Blades
+AImr Item Area Mana Regain
+AIms Item Move Speed Bonus
+AImt Staff of Teleportation
+AImz Item Mana Bonus (100)
+Ainf Inner Fire
+AInv Inventory
+AIob Item Attack Frost Bonus
+Aion 单位背包
+AIos Maim
+AIp2 Generic Item-Rejuv Effect
+AIpb Item Attack Poison Bonus
+AIpg Item Purge
+AIpl Lesser Clarity Potion
+AIpm Item Place Goblin Land Mine
+AIpr Sapphire Water
+AIpv Vampiric Potion
+AIra Item Area Heal/Mana Regain
+AIrc Item Reincarnation
+AIrd Raise Dead (Item)
+AIre Item Heal/Mana Regain
+AIrl 治疗药膏|nHealing Salve
+AIrm Item Mana Regeneration
+AIrr Roar
+AIs1 Item Hero Stat Bonus
+AIs2 Item Attack Speed Bonus
+AIs3 Item Hero Stat Bonus
+AIs6 Item Hero Stat Bonus
+AIsa Scroll of Haste
+AIsb Orb of Slow
+AIsi Item Sight Range Bonus
+AIsl Scroll of Regeneration
+AIsp Item Temporary Speed Bonus
+AIsr Spell Damage Reduction
+AIsw 岗哨守卫
+AIsx Item Attack Speed Bonus
+AIsz 减速毒药
+AIt6 Item Damage Bonus
+AIt9 Item Damage Bonus
+AIta Item Area Detection
+AItb 显影之尘|nDust of Appearance
+AItc Item Damage Bonus
+AItf Item Damage Bonus
+AIti Item Damage Bonus
+AItj Item Damage Bonus
+AItn Item Damage Bonus
+AItp Item Town Portal
+AItx Item Damage Bonus
+Aiun 单位背包
+AIv1 Item Temporary Invisibility
+AIva Item Life Steal
+AIvi Item Temporary Invisibility
+AIvl Item Temporary Invulnerability
+Aivs 隐身
+AIvu Item Temporary Invulnerability
+AIx1 Item Hero Stat Bonus
+AIx2 Item Hero Stat Bonus
+AIx5 Item Hero Stat Bonus
+AIxk 狂暴
+AIxs Item Anti-Magic Shell
+Alam Sacrifice
+Aliq Liquid Fire
+Alit Lightning Attack
+Aloa Load
+Aloc Locust
+Alsh Lightning Shield
+Ambd Mana Burn
+Ambt Replenish Mana and Life
+Amec 机械生物
+Amfl 魔力闪光
+Amgl Moon Glaive
+Amic Call To Arms
+Amil Call to Arms
+Amim 魔法免疫
+Amin Mine - exploding
+Amls Aerial Shackles
+Amnx AOE damage upon death
+Amnz AOE damage upon death
+Amou Mount
+Amov Move
+Amrf Crow Form
+Amtc Cargo Hold
+ANab Acid Bomb
+ANba Black Arrow
+ANbf 火焰吐息
+ANbr 战争吼叫
+ANbu Build (Neutral)
+ANc1 集束导弹
+ANc2 集束导弹
+ANc3 集束导弹
+ANca Cleaving Attack
+ANch Charm
+ANcl Channel
+ANcr 化学狂暴
+ANcs 集束导弹
+ANd1 粉碎击|n(Demolish)
+ANd2 粉碎击|n(Demolish)
+ANd3 粉碎击|n(Demolish)
+ANdb Drunken Brawler
+ANde 粉碎击|n(Demolish)
+ANdh 醉酒云雾
+ANdo 末日
+Ane2 Select Unit
+ANef "Storm, Earth, And Fire"
+ANeg 工程升级
+Anei Select User
+Aneu Select Hero
+ANf1 Factory
+ANf2 Factory
+ANf3 Factory
+ANfb Firebolt
+ANfd Finger of Death
+ANfl Forked Lightning
+ANg1 Robo-Goblin
+ANg2 Robo-Goblin
+ANg3 Robo-Goblin
+ANgl Exchange Gold for Lumber
+Anh1 Heal
+Anh2 Heal
+ANha Harvest
+Anhe Heal
+ANht Howl of Terror
+ANic 怒意狂击
+ANin Inferno
+Anit Tracking
+ANlg Exchange Lumber for Gold
+ANlm Summon Lava Spawn
+ANms 魔法盾
+ANpa 寄生
+ANpi 永久献祭
+ANpr Staff of Preservation
+ANre Life Regeneration Aura
+ANrf Rain of Fire
+ANrg Robo-Goblin
+ANrl Life Regeneration
+ANs1 口袋工厂
+ANs2 口袋工厂
+ANs3 口袋工厂
+ANsa Staff of Sanctuary
+ANse 法术护盾
+ANsg Summon Bear
+ANsi 沉默
+ANso 灵魂燃烧
+ANsq Summon Quilbeast
+ANss 法术护盾
+ANst Stampede
+ANsw Summon Hawk
+ANsy 口袋工厂
+ANtm Hand Of Midas
+ANto 强袭飓风
+ANtr 真视
+ANwk 疾风步
+AOac 命令光环
+AOae 耐久光环
+Aoar 治疗守卫光环
+AObu Build (Orc)
+AOcl Chain Lightning
+AOcr 致命一击
+AOeq 地震
+AOfs Far Sight
+AOhx 变形
+AOmi 镜像
+AOre Reincarnation
+AOsf Feral Spirit
+AOsh Shockwave
+AOwk 疾风步
+AOws War Stomp
+AOww Bladestorm
+Apak Pack Mule
+Apig 永久献祭
+Apit Shop Purchase Item
+Apiv 永久隐身
+Aply Polymorph
+Apo2 毒刺
+Apoi 毒刺
+Apos Possession
+APra Rune Area Heal/Mana Regain
+Aprg 净化
+Apsh 相形变换
+Apxf Phoenix Fire
+Arai Raise Dead
+ARal Rally
+Arav Storm Crow Form
+Arbr Reinforced Burrows Upgrade
+Arel Item Life Regeneration
+Aren Renew
+Arep Repair
+Arev Revive Hero
+Argd Return Gold
+Argl Return Gold and Lumber
+Arll Item Life Regeneration
+Arlm Return Lumber
+Arng Revenge
+Aro1 Root
+Aro2 Root
+Aroa Roar
+Aroc Barrage
+Aroo Root
+Arpl Essence of Blight
+Arpm Spirit Touch
+Arsk 抗性皮肤
+Arst Restore
+Artn 反击
+Asal Pillage
+Asd2 Kaboom!
+Asd3 Kaboom!
+Asdg Kaboom!
+Asds Kaboom!
+Ashm Shadow Meld
+Asid 贩卖物品
+Aslo Slow
+Aspb Spell Book
+Asph Sphere
+Aspi Spiked Barricades
+Aspl Spirit Link
+Aspo 减速毒药
+Asps Spell Steal
+Assk 硬化皮肤
+Asta 麻痹陷阱
+Astd Stand Down
+Asth Storm Hammers
+Astn 石像形态
+Asud 贩卖单位
+Atdg Building Damage Aura
+Atol Tree of Life upgrade ability
+Atru 真视
+Atwa Tornado Wander
+AUau 邪恶光环
+AUav 吸血光环
+AUbu Build (Undead)
+AUcb 食腐甲虫
+Auco 不稳定化合物
+AUcs Carrion Swarm
+AUdd Death And Decay
+AUfa 冰霜护甲
+AUfn Frost Nova
+AUfu 冰霜护甲
+Auhf Frenzy
+AUim Impale
+AUin Inferno
+AUls Locust Swarm
+Ault Ultravision
+AUmd Dark Summoning (Malganis)
+Auns Unsummon Building
+AUsl 沉睡
+AUts Spiked Carapace
+Aven 毒刺
+Avng Spirit of Vengeance
+Avul Invulnerable
+Awan Wander
+Awar 粉碎击
+Awha Gather
+Awhe Heal
+Awrp Waygate ability
+Awrs War Stomp
+B000 变身
+B001 蝮蛇突袭
+B002 火枪升级
+B003 加速
+B004 Ultimate
+B005 加速
+B006 永久隐身
+B007 Lightning Reflexes
+B008 枷锁
+B009 神之力量
+B00A 巫术精研
+B00B 战斗专注
+B00C 致盲
+B00D 坚韧光环
+B00E 野性之心
+B00F 遥控炸弹
+B00G 守护天使
+B00H 变形
+B00I 毒性攻击
+B00J Shock
+B00K 复仇
+B00L 追踪
+B00M 反击
+B00N Static Field
+B00O 嗥叫
+B00P 虚空假面
+B00Q 晕眩
+B00R 死亡契约
+B00S 扫射
+B00T 伤害加深
+B00U 授予力量
+B00V 狼之魂
+B00W Feral Rage
+B00X 地精的贪婪
+B00Y 真龙形态
+B00Z 真龙形态
+B010 真龙形态
+B011 Weaken Aura
+B012 幻象
+B013 冲刺
+B014 驱逐
+B016 狂猛
+B017 冰封禁制
+B019 战争咆哮
+B01A One
+B01B 退化光环
+B01C 隐匿于蛛网
+B01D 麻痹之咬
+B01E 极度饥渴
+B01F Pyre
+B01H Shroud of Flames
+B01I Troll's Regeneration
+B01J 夜叉|nYasha
+B01K Eclipse
+B01L Diffusion
+B01M 衰老
+B01N 衰老
+B01O 幽冥守卫
+B01P |c00ff0000双倍|r
+B01Q |c0000ff00隐身|r
+B01R |c00ffff00加速|r
+B01S |c000000ff回复|r
+B01T 沉默术士
+B01U Spellsteal
+B01V Caught in a Web
+B01W 月之祝福
+B01X 血之狂暴
+B01Y 暗影冲刺
+B01Z 暗影冲刺
+B020 活体护甲
+B021 大自然的掩护
+B022 Passion of the Forest
+B023 回复头巾|nHeaddress of Rejuvenation
+B024 脉冲新星
+B025 代谢性狂暴
+B026 盛宴
+B027 剧毒新星
+B028 剧毒新星
+B029 Targetted
+B02A Fury of the Tides
+B02B 幽冥守卫
+B02C Webbed
+B02D 衰弱
+B02E 辉耀|nRadiance
+B02F 噩梦
+B02G 震撼大地
+B02H 激怒
+B02I 残废
+B02J 海妖之歌
+B02K Necrogenesis
+B02L 夜晚中的狩猎者
+B02M 伤残恐惧
+B02N 怒意狂击
+B02O 超强力量
+B02P 失明
+B02Q Warsong
+B02R 施虐之心
+B02S 死神镰刀
+B02T 腐烂
+B02U 粘稠鼻液
+B02V 地震
+B02W 恐怖嚎叫
+B02X Chakra Magic
+B02Y 幻火
+B02Z 治疗药膏|nHealing Salve
+B030 复制
+B031 紫怨|nOrchid Malevolence
+B032 Exort
+B033 超震声波
+B034 Soul Reaver
+B035 Soul Blaze
+B036 Portal
+B037 Soul Blast
+B038 Ante Up
+B039 神出鬼没
+B03A 幻象
+B03B 并列
+B03C 灵魂之矛
+B03D 晕眩
+B03E 强袭装甲-荒芜光环
+B03F 腐尸毒
+B03G Wounding Spear
+B03H Can't Touch Dis
+B03I 肢解
+B03J 引燃
+B03K Wither
+B03L Wither
+B03M 暗影烈焰
+B03O Battle Hunger
+B03P 反击螺旋
+B03Q Bleed
+B03R 魔王降临
+B03S Fury
+B03T 酸性喷雾
+B03U 推进
+B03V 法力流失
+B03W 幽鬼之刃
+B03X 不稳定电流
+B03Y 神行太保
+B03Z Roar
+B040 |cffff0000Battle Hunger|r
+B041 天神下凡
+B042 Gaze
+B043 不可侵犯
+B044 引力
+B045 散夜对剑|nSange and Yasha
+B046 Power Word
+B047 幽鬼之刃
+B048 致命连接
+B049 |cff00ff00Static Charge|r
+B04A 瓶子
+B04B 恶魔的掌握
+B04C Ostracize
+B04D 龙族血统
+B04E 长大！ |n|cff4F4F4F等级：|r 1
+B04F Headdress of regen
+B04G 冰封禁制
+B04H Unstable Power
+B04I Unstable Focus
+B04J 焦土
+B04K 焦土
+B04L Quill Spray
+B04M 战意
+B04N Anti-Backdoor
+B04O 毒刺
+B04P Pacisfism
+B04Q 魂之挽歌
+B04R 沙尘暴掩护
+B04S Sand Storm Immolation
+B04T 
+B04U 
+B04V 晕眩
+B04W 速度光环
+B04X Exort
+B04Y Exort
+B04Z Ares' Presence
+B050 献祭
+B051 时间漫游
+B052 时间漫游
+B053 晕眩
+B054 Chronosphere
+B055 Nuclear Effect
+B056 寒冰之墙
+B057 暴风雪
+B058 Invisibility Aura
+B059 Arcane Arts
+B05A Disarm
+B05B Meteor Crush
+B05C Meteor Fire
+B05D 静默诅咒
+B05E Shroud of Flames
+B05F Time Walk Slow effect
+B05G 信仰
+B05H 赎罪
+B05I Prayer
+B05J 信仰
+B05K 信仰
+B05L 信仰
+B05M 静默诅咒
+B05N 静默诅咒
+B05O 静默诅咒
+B05P Repenting
+B05Q 时间漫游
+B05R 嗜血渴望
+B05S Aphotic Shield
+B05T Flame Strike
+B05U 雷霆一击
+B05V 最后遗言
+B05W Exorcise Spirit
+B05X 智慧之刃
+B05Y 治疗
+B05Z Inner Fire 
+B060 Animate Dead
+B061 邪恶光环
+B062 追踪
+B063 鱼人碎击
+B064 Gravekeeper's Cloak
+B065 深渊印记
+B066 霜之哀伤
+B067 Rupture
+B068 疾风步
+B069 Breath of Frost
+B06A 梅肯斯姆|nMekansm
+B06B 梅肯斯姆
+B06C 晕眩
+B06D 毒性攻击
+B06E Phased
+B06F Vengeance
+B06G 召唤生物
+B06H 暗杀
+B06I Reality
+B06K 晕眩
+B06L 幻象
+B06M 晕眩
+B06N Directed Vengeance
+B06O Haunt
+B06P 死亡守卫
+B06Q 野性之吼
+B06R 冰火交加
+B06S 冰冻
+B06T Ice Path
+B06U Auto Fire
+B06V 烈焰焚身
+B06W 冰火交加
+B06X 精气光环
+B06Y 奥术法球
+B06Z 毒性攻击
+B070 酸性喷雾
+B071 剧变
+B072 不稳定化合物
+B073 |cff00ff00暗言术|r
+B074 爆发
+B075 吸血鬼的祭品|nVladmir's Offering
+B076 疾风步
+B077 霜虎之吼
+B078 地之束缚
+B079 地之突袭
+B07A Blow Dart
+B07B |cff00ff00Positive Buff|r
+B07C |cffff0000Negative Buff|r
+B07D |cff00ff00薄葬|r
+B07E |cffff0000毒针|r
+B07F |cffff0000编织|r
+B07G |cff00ff00编织|r
+B07H Geomancer Trap
+B07I |cffff0000剧毒之触|r
+B07J Rifle Upgrade 2
+B07K 邪恶狂热
+B07L |cff00ff00艾西菲的远古祭祀|r
+B07M 辉煌光环
+B07N 小型晕眩
+B07O 吸血鬼的祭品|nVladmir's Offering
+B07P 侦察守卫
+B07Q 强袭装甲-狂热光环
+B07R Assault Cuirass Positive Armor
+B07S 狂暴
+B07T 疾风步
+B07U 沉默
+B07V 沉默
+B07W 奔腾
+B07X 净化
+B07Y |cff00ff00Surge|r
+B07Z 复制之墙
+B080 |cff00ff00活血术|r
+B081 
+B082 |cff00ff00Berserker's Blood|r
+B083 牺牲
+B084 竭心光环
+B085 瘟疫
+B086 Barrier
+B087 Barrier
+B088 Zombie
+B08A 电子咆哮
+B08B 超负荷
+B08C Fear
+B08D Insta
+B08E 怨念深渊
+B08F 怨念深渊
+B08G 怨念深渊
+B08H 信使之盾
+B08I |cff00ff00折光|r
+B08J |cff00ff00折光|r
+B08K 隐匿
+B08L |cffff0000割裂|r
+B08M 灵能陷阱
+B08N 残废
+B08O 沉默
+B08P |cffff0000希瓦的守护|r
+B08Q |cffff0000极寒冲击|r
+B08R |cffff0000撕裂伤口|r
+B08S 撕裂伤口
+B08T Wex
+B08U 强袭飓风
+B08V 黑洞
+B08W 幽灵漫步
+B08X 幽灵漫步
+B08Y 超震声波
+B08Z 寒冰之墙
+B091 灼烧攻击
+B092 |cffff0000窒息之刃|r
+B093 Frost Shock
+B094 Winter's Call
+B095 晕眩
+B096 野性驱使
+B097 野性驱使 |n|cff4f4f4f等级：|r 3
+B098 幻象
+B099 晕眩
+B09A 野性驱使 |n|cff4f4f4f等级：|r 2
+B09B 野性驱使 |n|cff4f4f4f等级：|r 1
+B09C 长大！ |n|cff4F4F4F等级：|r 2
+B09D 野性驱使 |n|cff4f4f4f等级：|r 4
+B09E 长大！ |n|cff4F4F4F等级：|r 3
+B09F |cffff0000战斗饥渴|r |n|cff4F4F4F等级：|r 3
+B09G |cffff0000战斗饥渴|r |n|cff4F4F4F等级：|r 1
+B09H |cffff0000战斗饥渴|r |n|cff4F4F4F等级：|r 2
+B09I |cffff0000战斗饥渴|r |n|cff4F4F4F等级：|r 4
+B09J 极寒领域
+B09K 致盲之光
+B09L |cffff0000法力流失|r |n|cff4F4F4F等级：|r 4
+B09M |cffff0000法力流失|r |n|cff4F4F4F等级：|r 1
+B09N |cffff0000法力流失|r |n|cff4F4F4F等级：|r 2
+B09O |cffff0000法力流失|r |n|cff4F4F4F等级：|r 3
+B09P 灵魂形态
+B09Q 洪流
+B09R CoCo船长的酒
+B09S 鱼人夜行者
+B09T Fear of the Dark
+B09U CoCo船长的酒
+B09V 灵魂形态
+B09W 风行者
+B09X 集中火力
+B09Y 相位行走
+B09Z 风行者
+B0A0 |cff00ff00模糊|r |n|cff4F4F4F等级：|r 4
+B0A1 |cff00ff00模糊|r |n|cff4F4F4F等级：|r 2
+B0A2 |cff00ff00模糊|r |n|cff4F4F4F等级：|r 1
+B0A3 |cff00ff00模糊|r |n|cff4F4F4F等级：|r 3
+B0A4 风行者
+B0A5 隐身
+B0A6 Glyph of Fortification
+B0A7 洪流
+B0A8 洪流
+B0A9 Roshan升级
+B0AA 灵魂形态
+B0AB Glyph of Fortification
+B0AC Glyph of Fortification
+B0AD 电子涡流
+B0AF 电子涡流
+B0AG Death Stench
+B0AH 血肉傀儡
+B0AI 瘟疫
+B0AJ 活死人
+B0AK Tombstone
+B0AL 魔龙之心|nHeart of Tarrasque
+B0AM 死亡突袭
+B0AN 死亡渴望
+B0AO Undying Aura
+B0AP 暗言术
+B0AQ 瘴气
+B0AR 精神体转化
+B0AS Totem
+B0AT Totem of Water
+B0AU Totem of Fire
+B0AV Totem of Wind
+B0AW Totem of Earth
+B0AX Shock
+B0AY 炽魂
+B0AZ Rush
+B0B0 炽魂
+B0B1 炽魂
+B0B2 炽魂
+B0B3 炽魂
+B0B4 炽魂
+B0B5 炽魂
+B0B6 炽魂
+B0B7 炽魂
+B0B8 炽魂
+B0B9 炽魂
+B0BA 炽魂
+B0BB 榴霰弹
+B0BC 法力流失
+B0BD 火焰之径
+B0BE 火焰枷锁
+B0BG 火焰之径
+B0BH 火焰枷锁
+B0BI 林肯法球
+B0BJ Rush
+B0BK 先祖冲锋
+B0BL Piercing Damage
+B0BM 回音重踏
+B0BN 不稳定电流
+B0BO Eye of the Storm
+B0BP 自然秩序
+B0BQ 石化凝视
+B0BR 裂地者
+B0BS 黏性燃油
+B0BT 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+B0BU 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+B0BV 战吼
+B0BX 先祖冲锋
+B0BY 传染
+B0BZ Exort Fake
+B0C1 根须缠绕
+B0C2 晕眩
+B0C3 寒冰之触
+B0C4 |cff00ff00Nightcrawler|r
+B0C5 冰霜漩涡
+B0C6 Frost Barrier
+B0C7 Frost Barrier
+B0C8 沉默
+B0C9 鱼人夜行者
+B0CA 忍术
+B0CB 幻象
+B0CC 寒霜之足
+B0CD 冰晶爆轰
+B0CE Chilling Rage
+B0CF 寒霜之足
+B0CG 影之灵龛|nUrn of Shadows
+B0CH 超强力量
+B0CI Breath of the Necro'lic
+B0CJ 寒冰之触
+B0CK 占据点4加成
+B0CL 占据点4加成
+B0CM 占据点2加成
+B0CN 占据点2加成
+B0CO 占据点2技能
+B0CP 占据点2技能
+B0CQ 静默诅咒
+B0CR Capture Point Ability 1
+B0CS Capture Point Ability 1
+B0CT 占据点3技能
+B0CU 占据点3技能
+B0CV 占据点3技能
+B0CW 占据点3技能
+B0CX 獠牙冲刺
+B0CY 以太冲击
+B0CZ 熊
+B0D0 Level 3
+B0D1 等级4
+B0D2 Level 2
+B0D3 等级1
+B0D4 Swarm Strike
+B0D5 死亡契约
+Bakb War Drums
+Bam2 反魔法盾
+Bams 反魔法盾
+Bapl Disease
+Barm Mana Regeneration Aura
+Basl 腐烂
+Bbar Barkskin
+Bblo 嗜血
+Bbof 解脱
+Bbsk 狂暴
+BCbf 剧毒新星
+Bclf Dust Trail
+Bcmg 缩地
+Bcor 毒性攻击
+Bcri 黄泉颤抖
+Bcrs 黄泉颤抖
+Bcsd 寒冰箭
+BCtc 雷霆一击
+Bcy2 龙卷风
+Bcyc 龙卷风
+Bdbb Drain Life & Mana (Bonus)
+Bdbl Drain Life (Bonus)
+Bdbm Siphon Mana (Bonus)
+Bdef 玄冥盾牌|nNathrezim Buckler
+Bdet 显影之尘|nDust of Appearance
+Bdvv 吞噬
+BEah Thorns Aura
+BEar 强击光环
+BEer 根须缠绕
+BEfn 自然之力
+BEim 献祭
+BEme 变形
+Bena 捕获
+Beng 捕获
+BEsh 暗影突袭
+BEsi 暗影突袭
+BEsv Vengeance
+Beye 岗哨守卫
+Bfae 追踪
+BFig 召唤生物
+Bfro 缓慢
+Bfzy Frenzy
+BHab 辉煌光环
+BHad 专注光环
+BHav 天神下凡
+BHbd 暴风雪
+BHbh 击晕
+BHbn Banish
+BHca 寒冰箭
+BHds Protect
+Bhea 烟幕
+BHfs 缩地
+BHtb Storm Bolt
+BHtc 雷霆一击
+Bhwd 治疗守卫
+BHwe 狂战士的怒吼
+BIcb 黯灭|nStygian Desolator
+BIcf Cloak of Flames
+BIil 幻象
+Binf 狂战士的怒吼
+Binv 隐身
+BIpb Venom
+BIpd Venom
+BIpv Vampiric Potion
+BIrg 回春
+BIrl 恢复
+BIrm 净化药水|nClarity Potion
+Blsh Lightning Shield
+Bmec 机械生物
+Bmfa 魔力闪光
+Bmfl 魔力闪光
+Bmil Militia
+Bmlt Aerial Shackles
+BNab 巨浪
+BNba 灵魂超度
+BNbf 火焰吐息
+BNbr 战争吼叫
+BNcg 发条地精
+BNcr 化学狂暴
+BNcs 集束导弹
+BNdh 醉酒云雾
+BNdm 暗黑之奴
+BNdo 末日
+BNef 元素熊猫
+BNeg 工程升级
+BNfy 口袋工厂
+BNhe Neutral Heal
+BNht Howl of Terror
+BNic Grave Bind
+BNin 地狱火
+BNlm Lava Spawn
+BNmo Monsoon
+BNms 魔法盾
+BNpa 寄生
+BNrd 火焰风暴
+BNsa Sanctuary
+BNsg 熊
+BNsi 沉默
+BNso 灵魂燃烧
+BNsp Soul Preservation
+BNsq 豪猪
+BNss 法术护盾
+BNsw 鹰
+BNtm 炼金
+BNto 强袭飓风
+BNwm Watery Minion
+Boac 命令光环
+BOae 耐久光环
+Boar 治疗守卫光环
+BOeq 地震
+BOhx 变形
+BOmi 镜像
+BOsf 召唤狼
+BOvd 分裂箭
+BOwd 守卫
+BOwk 疾风步
+BOws War Stomp
+Bphx Phoenix
+Bply Polymorph
+Bpoi 毒性攻击
+Bpos Possession
+Bprg 净化
+Bpsd 毒性攻击
+BPSE 晕眩
+Bpsh 相形变换
+Bpxf Rupture
+Brai 小骷髅
+Broa 强化图腾
+Brpl 自然之助
+Brpm Spirit Touch
+Bslo 魅惑
+Bspe Speed Bonus
+Bspl Anonymous Dead
+Bspo 减速毒药
+Bssd 减速毒药
+Bsta 麻痹陷阱
+BSTN 晕眩
+Bstt 麻痹陷阱
+Btau Taunt
+Btlf 有时限的生命
+BUan 憎恶
+BUau Aphotic Field
+BUav 吸血光环
+BUcb 食腐甲虫
+BUdd 午夜凋零
+BUfa 冰霜护甲
+Buhf Frenzy
+BUim Impale
+BUlo Locust
+Buns Conversion
+BUsl 沉睡
+Bvng Spirit of Vengeance
+Bvul Invulnerable
+dust 显影之尘|nDust of Appearance
+e000 闪电柱
+e001 指令：AttackToUD
+E002 闪电幽魂
+e003 烟幕
+E004 骷髅射手
+E005 月之骑士
+e006 Dark Pillar
+e007 Dummy
+e008 指令：AttackToSent
+e009 霜冻飞弹
+e00A 指令：AttackToRight
+e00B 指令：AttackToMid
+e00C Self Caster
+e00D 指令：AttackToLeft
+e00E Spellcaster
+e00F 暗影烈焰
+e00G OMG LION TEST
+e00H Fissure Unit
+e00I 幻火
+e00J ScatterDebrei
+e00K 幻火
+e00L 幻火
+e00M Liberated Soul
+e00N Liberated Soul
+e00O Liberated Soul
+E00P 双头龙
+e00Q 沙尘暴
+e00R 远古守护者 - 等级1
+e00S 远古守护者 - 等级3
+e00T Object Only Summon unit
+e00U 棱光之牢
+e00V 树人
+e00W 猛禽德鲁伊
+e00X 施法者
+e00Y Spellcaster #2
+e00Z Soul Assumption Effect
+e010 消耗
+e011 远古守护者 - 等级2
+e012 Joke_Extort_FX1
+e013 Joke_Wex_FX1
+e014 Joke_Quas_FX1
+E015 狼人
+e016 Joke_Extort_FX2
+e017 Nova Missile
+e018 Joke_Quas_FX2
+e019 远古守护者 - 等级4
+E01A 巫医
+E01B 幽鬼
+E01C 术士
+e01D Joke_Wex_FX2
+e01E Acid Spray Model
+e01F 道具持有者
+e01G Upheaval Model
+e01H 乌鸦
+e01I Liberated Soul
+e01J 幻火
+e01K Meteor (Falling Down)
+e01L Meteor (Moving)
+e01M EMP Main
+e01N Caster with Truesight and for Following
+e01O EMP FX
+E01P Dummy: SlowTurn-Range
+e01Q Vengeance Death caster
+e01R 攻击特效
+e01S Invis Caster
+e01T 野性之斧
+e01U Dummy Ice
+e01V Spellcaster #3
+e01W Preloader
+e01X Test Caster
+E01Y 圣堂刺客
+e01Z 小秃鹫
+e020 灵能陷阱
+E021 Dummy: FastTurn-Melee
+e022 Spellcaster (vision)
+E023 Dummy: SlowTurn-Melee
+E024 Dummy: FastTurn-Range
+e025 奇迹古树
+e026 投刃车
+e027 A Sentinel Player
+e028 A Scourge Player
+e029 DotA Caster
+e02A Spellcaster #4
+e02B Ancestral Charge FX
+e02C Spellcaster Arc Lightning
+e02D 冲刺马甲单位
+e02E 鼻涕马甲单位
+eaoe 知识古树
+eaom 战争古树
+eaow 风之古树
+eate Altar of Elders
+ebal 投刃车
+EC45 虚空假面
+EC57 剧毒术士
+EC77 冥界亚龙
+echm Chimaera
+Edem 敌法师
+eden 奇迹古树
+Edmm Demon Hunter
+edob 猎手大厅
+edos Chimaera Roost
+edot 猛禽德鲁伊
+edry 猛禽德鲁伊
+edtm 猛禽德鲁伊
+Eevi 灵魂守卫
+Eevm 灵魂守卫
+efon 树人
+egol Entangled Gold Mine
+Ekee 受折磨的灵魂
+Emns 先知
+Emoo 魅惑魔女
+emow 月亮井
+esen 树人
+etoa Tree of Ages
+etoe Tree of Eternity
+etol 世界之树
+etrp Ancient Protector
+Ewar 幻影刺客
+ewsp Wisp
+H000 半人马酋长
+H001 流浪剑客
+h002 暗影之径
+h003 暗影匕首
+H004 秀逗魔导士
+h005 月神之箭
+h006 恐怖精神体
+h007 编织
+H008 刚背兽
+h009 DummyNet
+H00A 圣骑士
+h00B IceArmor Caster
+h00C Net Projectile
+H00D 兽王
+H00E 龙骑士
+H00F 龙骑士
+H00G 龙骑士
+H00H 遗忘法师
+H00I 地卜师
+H00J 地卜师
+H00K 地精工程师
+h00L Shallow Grave
+H00M 血符
+H00N 黑暗贤者
+h00O 复制之墙
+h00P 复制之墙侦测
+H00Q 神灵武士
+H00R 不朽尸王
+H00S 风暴之灵
+H00T 发条地精
+H00U 召唤师
+H00V 蛇发女妖
+h00W 死灵抛掷体
+h00X AH
+H00Y 预载英雄
+h00Z Battery Assault
+h010 Stifling Dagger Projectile
+h011 速度之靴|nBoots of Speed
+h012 加速手套|nGloves of Haste
+h013 精灵皮靴|nBoots of Elvenskin
+h014 动力鞋|nPower Treads
+h015 贵族圆环|nCirclet of Nobility
+h016 巨人力量腰带|nBelt of Giant Strength
+h017 欢欣之刃|nBlade of Alacrity
+h018 攻击之爪|nBlades of Attack
+h019 阔剑|nBroadsword
+h01A 锁子甲|nChainmail
+h01B 大剑|nClaymore
+h01C 恶魔刀锋|nDemon Edge
+h01D 鹰角弓|nEaglehorn
+h01E 能量之球|nEnergy Booster
+h01F 力量手套|nGauntlets of Strength
+h01G 真视宝石|nGem of True Sight
+h01H 铁意头盔|nHelm of Iron Will
+h01I 振奋宝石|nHyperstone
+h01J 铁树枝干|nIronwood Branch
+h01K 科勒的匕首|nKelen's Dagger
+h01L 智力斗篷|nMantle of Intelligence
+h01M 死亡面具|nMask of Death
+h01N 希梅斯特的掠夺|nMesserschmidt's Reaver
+h01O 秘银锤|nMithril Hammer
+h01P 神秘法杖|nMystic Staff
+h01Q 食人魔之斧|nOgre Axe
+h01R 流浪法师斗篷|nPlaneswalker's Cloak
+h01S 板甲|nPlate Mail
+h01T 精气之球|nPoint Booster
+h01U 短棍|nQuarterstaff
+h01V 治疗指环|nRing of Health
+h01W 守护指环|nRing of Protection
+h01X 回复戒指|nRing of Regeneration
+h01Y 法师长袍|nRobe of the Magi
+h01Z 圣者遗物|nSacred Relic
+h020 敏捷便鞋|nSlippers of Agility
+h021 艺人面罩|nSobi Mask
+h022 魔力法杖|nStaff of Wizardry
+h023 圆盾|nStout Shield
+h024 极限法球|nUltimate Orb
+h025 活力之球|nVitality Booster
+h026 虚无宝石|nVoid Stone 
+h027 标枪|nJavelin
+h028 净化药水|nClarity Potion
+h029 治疗药膏|nHealing Salve
+h02A 艾西菲的远古祭祀|nAncient Tango of Essifation
+h02B 魔瓶|nEmpty Bottle
+h02C 侦察守卫
+h02D 岗哨守卫
+h02E 回城卷轴|nScroll of Town Portal
+h02F 动物信使|nAnimal Courier
+h02G 坚韧球|nPerseverance
+h02H 回复头巾|nHeaddress of Rejuvenation
+h02I 玄冥盾牌|nNathrezim Buckler
+h02J 圣殿指环|nRing of Basilius
+h02K 远行鞋|nBoots of Travel
+h02L 迈达斯之手|nHand of Midas
+h02M 空明杖|nOblivion Staff
+h02N 护腕|nBracer
+h02O 幽灵系带|nWraith Band
+h02P 无用挂件|nNull Talisman
+h02Q 夜叉|nYasha
+h02R 散华|nSange
+h02S 碎骨锤|nCranium Basher
+h02T 刃甲|nBlade Mail
+h02U 漩涡|nMaelstrom
+h02V 散失之刃|nDiffusal Blade
+h02W 支配头盔|nHelm of the Dominator
+h02X 疯狂面具|nMask of Madness
+h02Y Eul的神圣法杖|nEul's Scepter of Divinity
+h02Z 振魂石|nSoul Booster
+h030 梅肯斯姆|nMekansm
+h031 散夜对剑|nSange and Yasha
+h032 黯灭|nStygian Desolator
+h033 狂战斧|nBattle Fury
+h034 水晶剑|nCrystalys
+h035 黑皇杖|nBlack King Bar
+h036 幻影斧|nManta Style
+h037 洛萨之锋|nLothar's Edge
+h038 Dagon之神力|nDagon
+h039 死灵书|nNecronomicon
+h03A 林肯法球|nLinken's Sphere
+h03B 不朽之守护|nAegis of the Immortal
+h03C 圣剑|nDivine Rapier
+h03D 大炮|nBuriza-do Kyanon
+h03E 金箍棒|nMonkey King Bar
+h03F 辉耀|nRadiance
+h03G 魔龙之心|nHeart of Tarrasque
+h03H 撒旦之邪力|nSatanic
+h03I 斯嘉蒂之眼|nEye of Skadi
+h03J 蝴蝶|nThe Butterfly
+h03K 阿哈利姆神杖|nAghanim's Scepter
+h03L 刷新球|nRefresher Orb
+h03M Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+h03N 先锋盾|nVanguard
+h03O 秘法指环|nArcane Ring
+h03P 雷神之锤|nMjollnir
+h03Q 飞行信使|nFlying Courier
+h03R 吸血鬼的祭品|nVladmir's Offering
+h03S 强袭装甲|nAssault Cuirass
+h03T 血精石|nBloodstone
+h03U 挑战头巾|nHood of Defiance
+h03V 食尸鬼王的臂章|nArmlet of Mordiggian
+h03W 希瓦的守护|nShiva's Guard
+h03X 紫怨|nOrchid Malevolence
+h03Y 照明火箭
+h03Z 复仇之魂
+h040 宙斯
+h041 魅惑魔女
+h042 变体精灵
+h043 水晶室女
+h044 斯温
+h045 司里希丝
+h046 撼地神牛
+h047 力丸
+h048 悉拉贝尔
+h049 秀逗魔导士
+h04A 尤涅若
+h04B 诺崇
+h04C 鲁夫特伦
+h04D 谜团
+h04E 艾萨罗
+h04F 熊战士
+h04G 食人魔魔法师
+h04H 地精修补匠
+h04I 法里奥
+h04J 幻影长矛手
+h04K 小小
+h04L 地精工程师
+h04M 陈
+h04N 月之骑士
+h04O 矮人狙击手
+h04P 巨魔战将
+h04Q 风暴之灵
+h04R 杰奇洛
+h04S 雷克萨
+h04T 玛吉纳
+h04U 刚背兽
+h04V 达维安爵士
+h04W 月之女祭司
+h04X 半人马酋长
+h04Y 哈斯卡
+h04Z 全能骑士
+h050 帕克
+h051 发条地精
+h052 刚铎
+h053 熊猫酒仙
+h054 炼金术士
+h055 崔希丝
+h056 恐怖利刃
+h057 罗斯塔
+h058 拉娜娅
+h059 受折磨的灵魂
+h05A 巫妖
+h05B 克萝贝露丝
+h05C 莱恩
+h05D 剧毒术士
+h05E 马格纳斯
+h05F 维萨吉
+h05G 涅沙
+h05H 狼人
+h05I 育母蜘蛛
+h05J 茉崔蒂
+h05K 美杜莎
+h05L 巴拉那
+h05M 骷髅王
+h05N 路西法
+h05O 地穴刺客
+h05P 斯拉达
+h05Q 阿卡莎
+h05R 克林克兹
+h05S 虚空假面
+h05T 蝮蛇
+h05U 剃刀
+h05V 奈克斯
+h05W 帕格纳
+h05X 潮汐猎人
+h05Y 阿特洛波斯
+h05Z 死灵法师
+h060 帕吉
+h061 巴拉森
+h062 地穴编织者
+h063 奈门摩尔
+h064 克里瑟历斯
+h065 斧王
+h066 史德利古尔
+h067 亚巴顿
+h068 幽鬼
+h069 巫医
+h06A 黑曜毁灭者
+h06B 召唤师
+h06C 术士
+h06D 地卜师
+h06E 戴泽
+h06F 深渊领主
+h06G 不朽尸王
+h06H 黑暗贤者
+h06I 阴影单位
+h06J BlinkStrike CK
+h06K Magina Dummy
+h06L 灵魂之矛
+h06M Illuminate Vision
+h06N 选择英雄[|cffffcc00E|r]
+h06O 幻像法球
+h06P 致盲之光
+h06Q Black Hole FX
+h06R Blackhole Shadow
+H06S 海军上将
+h06T 昆卡
+h06U 幽灵船
+h06V Ghost Ship Trail
+H06W 光之守卫
+H06X 光之守卫
+H06Y 光之守卫
+h06Z Ezalor Dummy
+h070 Coco's Rum
+H071 鱼人夜行者
+h072 斯拉克
+h073 Nightcrawler Shadow
+h074 魔棒|nMagic Stick
+h075 Poison Powder
+h076 显影之尘|nDust of Appearance
+h077 Shackleshot Arrow
+h078 Power Shot Arrow
+h079 相位鞋|nPhase Boots
+h07A 风行者
+h07B Fight in the Shade Shadow
+h07C Glyph of Fortification
+h07D Ghost Ship Death
+h07E Glyph of Fortification
+h07F 残影
+H07G 风暴之灵
+h07H 墓碑侍僧
+H07I 血肉傀儡
+h07J Decay Visual
+h07K Shadowstrike Model
+h07L Version Check
+h07M Venomous Gale FX1
+h07N Venomous Gale FX2
+h07O Venomous Gale FX3
+h07P 牛头人酋长
+h07Q 风暴之锤
+h07R 蝙蝠骑士
+h07S 魔杖|nMagic Wand
+h07T 弹射法杖|nForce Staff
+h07U Tauren Chieftain Dummy
+h07V 幽魂药剂|nGhost Potion
+h07W 压制之刃|nQuelling Blade
+h07X 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+h07Y Raise Dead Projectile
+h07Z Great Stomp FX
+h080 Stormseeker FX - 2
+h081 Stormseeker FX - 1
+h082 Stormseeker FX - 3
+h083 闪避护符|nTalisman of Evasion
+H084 蛇发女妖
+h085 运输物品
+h086 穷鬼盾|nPoor Man's Shield
+h087 幽魂权杖|nGhost Scepter
+h088 静电连接
+h089 Voltage Caster
+h08A 榴霰弹
+H08B 蛇发女妖
+H08C 蛇发女妖
+H08D 蛇发女妖
+h08E 敏捷便鞋|nSlippers of Agility
+h08F 压制之刃|nQuelling Blade
+h08G 治疗指环|nRing of Health
+h08H 回城卷轴|nScroll of Town Portal
+h08I 魔棒|nMagic Stick
+h08J 艺人面罩|nSobi Mask
+h08K 圆盾|nStout Shield
+h08L 回复戒指|nRing of Regeneration
+h08M 流浪法师斗篷|nPlaneswalker's Cloak
+h08N 铁意头盔|nHelm of Iron Will
+h08O 死亡面具|nMask of Death
+h08P 精灵皮靴|nBoots of Elvenskin
+h08Q 巨人力量腰带|nBelt of Giant Strength
+h08R 法师长袍|nRobe of the Magi
+h08S 加速手套|nGloves of Haste
+h08T 攻击之爪|nBlades of Attack
+h08U 短棍|nQuarterstaff
+h08V 闪避护符|nTalisman of Evasion
+h08W 科勒的匕首|nKelen's Dagger
+h08X 极限法球|nUltimate Orb
+h08Y 火焰枷锁
+h08Z Refraction
+h090 秘术异蛇
+h091 希瓦的守护|nShiva's Guard
+h092 等离子场
+h093 能量之球|nEnergy Booster
+h094 Aura
+h095 Gem_large
+h096 Gem_small
+h097 Gem_small
+h098 黑暗之门
+h099 复活英雄（450）
+h09A 复活英雄（500）
+h09B 复活英雄（400）
+h09C 复活英雄（350）
+h09D 复活英雄（300）
+h09E 复活英雄（250）
+h09F 复活英雄（150）
+h09G 复活英雄（50）
+h09H 复活英雄（200）
+h09I 复活英雄（1050）
+h09J 复活英雄（550）
+h09K 复活英雄（600）
+h09L 复活英雄（650）
+h09M 复活英雄（700）
+h09N 复活英雄（750）
+h09O 复活英雄（800）
+h09P 复活英雄（850）
+h09Q 复活英雄（900）
+h09R 复活英雄（950）
+h09S 复活英雄（1000）
+h09T 复活英雄（100）
+h09U 复活英雄（1600）
+h09V 复活英雄（1500）
+h09W 复活英雄（2650）
+h09X 复活英雄（1150）
+h09Y 复活英雄（1450）
+h09Z 复活英雄（1100）
+h0A0 复活英雄（1550）
+h0A1 复活英雄（1200）
+h0A2 复活英雄（1250）
+h0A3 复活英雄（1350）
+h0A4 复活英雄（1400）
+h0A5 回城卷轴颜色 - 暗绿色
+h0A6 复活英雄（1300）
+h0A7 复活英雄（2050）
+h0A8 复活英雄（2750）
+h0A9 复活英雄（1950）
+h0AA 复活英雄（1900）
+h0AB 复活英雄（1850）
+h0AC 复活英雄（1800）
+h0AD 复活英雄（1700）
+h0AE 复活英雄（1750）
+h0AF 复活英雄（1650）
+h0AG 复活英雄（2000）
+h0AH 复活英雄（2200）
+h0AI 复活英雄（2250）
+h0AJ 复活英雄（2300）
+h0AK 复活英雄（2450）
+h0AL 复活英雄（2550）
+h0AM 复活英雄（2700）
+h0AN 复活英雄（2900）
+h0AO 复活英雄（2100）
+h0AP 复活英雄（2350）
+h0AQ 复活英雄（2400）
+h0AR 复活英雄（2500）
+h0AS 复活英雄（2600）
+h0AT 复活英雄（2800）
+h0AU 复活英雄（2850）
+h0AV 复活英雄（2950）
+h0AW 复活英雄（3000）
+h0AX 回城卷轴颜色效果
+h0AY 复活英雄（2150）
+h0AZ Ice Cube
+h0B0 极寒幽魂
+h0B1 暗影之舞
+h0B2 DarkPact FX
+h0B3 Gust FX
+h0B4 Chilling Touch Projectile
+h0B5 Boomerang FX
+h0B6 Ice Blast FX
+h0B7 Ice Blast Fake FX
+H0B8 冰晶爆轰
+h0B9 幻象法杖
+h0BA 影之灵龛|nUrn of Shadows
+h0BB 爆炸
+H0BC 光之守卫
+h0BD 不稳定化合物
+h0BE Gravekeeper's Cloak Projectile
+h0BF 回城卷轴颜色 - 黄色
+h0BG 回城卷轴颜色 - 紫色
+h0BH 回城卷轴颜色 - 粉色
+h0BI 回城卷轴颜色 - 蓝色
+h0BJ 回城卷轴颜色 - 灰色
+h0BK 回城卷轴颜色 - 青色
+h0BL 回城卷轴颜色 - 橙色
+h0BM 回城卷轴颜色 - 亮蓝色
+h0BN 回城卷轴颜色 - 棕色
+h0BO 速度之靴|nBoots of Speed
+h0BP Scream of Pain Projectile
+h0BQ 灵魂之戒|nSoul Ring
+h0BR 虚灵刀|nEthereal Blade
+h0BS 以太冲击弹
+h0BT 丛林斥候
+h0BU 丛林斥候
+halt Altar of Kings
+Hamg 树精卫士
+Hapm Paladin
+Harf 全能骑士
+harm Workshop
+hars 秘法圣所
+hatw Arcane Tower
+hbar Barracks
+hbla Blacksmith
+Hblm 光之守卫
+HC49 娜迦海妖
+HC92 隐形刺客
+hC95 奎尔瑟兰的密室
+hcas Castle
+hctw Cannon Tower
+hdhw Dragonhawk Rider
+HERO A Hero
+hfoo Footman
+hgra Gryphon Aviary
+hgry Gryphon Rider
+hgtw Guard Tower
+hgyr Flying Machine
+Hhkl Paladin
+hhou Farm
+Hjai 水晶室女
+hkee Keep
+hkni Knight
+Hlgr 龙骑士
+hlum Lumber Mill
+Hmbr 众神之王
+hmil Militia
+Hmkg 食人魔魔法师
+hmpr Priest
+hmtm Mortar Team
+hmtt Siege Engine
+Hpal Paladin
+Hpb1 Paladin
+hpea Peasant
+hrif Rifleman
+hrtt Siege Engine
+hslv 治疗药膏|nHealing Salve
+hsor Sorceress
+hspt Spell Breaker
+htow Town Hall
+Huth 熊战士
+hvlt Arcane Vault
+Hvsh 血魔
+Hvwd 复仇之魂
+hwat 弱精神体
+hwt2 精神体
+hwt3 巨型精神体
+hwtw Scout Tower
+I000 阿哈利姆神杖（水晶室女）
+I001 阿哈利姆神杖（死灵法师）
+I002 阿哈利姆神杖（月之骑士）
+I003 阿哈利姆神杖（末日使者）
+I004 阿哈利姆神杖（恶魔巫师）
+I005 阿哈利姆神杖（巫妖）
+I006 |c00ff0303极速|r
+I007 |c00fffc01幻象|r
+I008 |cff00ff00回复|r
+I009 阿哈利姆神杖（受折磨的灵魂）
+I00A 速度之靴|nBoots of Speed
+I00B 阿哈利姆神杖|nAghanim's Scepter
+I00C 秘法指环|nArcane Ring
+I00D 阿哈利姆神杖（光之守卫）
+I00E 变体精灵BUG修复
+I00F 阿哈利姆神杖（光之守卫）
+I00G 阿哈利姆神杖（秀逗魔导士）
+I00H 阿哈利姆神杖（遗忘法师）
+I00I 阿哈利姆神杖（食人魔魔法师）
+I00J |cff99ccff隐形|r
+I00K |c000042ff双倍伤害|r
+I00L 魔瓶|nEmpty Bottle
+I00M 食尸鬼王的臂章|nArmlet of Mordiggian
+I00N 食尸鬼王的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+I00O 阿哈利姆神杖（众神之王）
+I00P 阿哈利姆神杖（痛苦女王）
+I00Q 食尸鬼王的臂章|nArmlet of Mordiggian
+I00R 食尸鬼王的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+I00S 食尸鬼王的臂章|nArmlet of Mordiggian
+I00T 食尸鬼王的臂章|nArmlet of Mordiggian
+I00U 阿哈利姆神杖（暗影萨满）
+I00V 食尸鬼王的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+I00W 食尸鬼王的臂章（信使版）|nArmlet of Mordiggian (Courier Edition)
+I00X 希瓦的守护|nShiva's Guard
+I00Y 希瓦的守护 （信使版）|nShiva's Guard (Courier Edition)
+I00Z 希瓦的守护|nShiva's Guard
+I010 希瓦的守护 （信使版）|nShiva's Guard (Courier Edition)
+I011 阿哈利姆神杖（先知）
+I012 紫怨|nOrchid Malevolence
+I013 紫怨|nOrchid Malevolence
+I014 飞行信使|nFlying Courier
+I015 Disassembler
+I016 阿哈利姆神杖（剧毒术士）
+I017 阿哈利姆神杖（巫医）
+I018 阿哈利姆神杖（受折磨的灵魂）
+I019 阿哈利姆神杖（巫妖）
+I01A 阿哈利姆神杖（秀逗魔导士）
+I01B 阿哈利姆神杖（恶魔巫师）
+I01C 食尸鬼王的臂章（开启状态）|nArmlet of Mordiggian (On)
+I01D 飞行信使|nFlying Courier
+I01E 食尸鬼王的臂章（关闭状态）|nArmlet of Mordiggian (Off)
+I01F "食尸鬼王的臂章（信使版，开启状态）|nArmlet of Mordiggian(On,Courier)"
+I01G Dagon之神力 等级1|nDagon Level 1
+I01H 阿哈利姆神杖（末日使者）
+I01I 阿哈利姆神杖（月之骑士）
+I01J 坚韧球|nPerseverance
+I01K 回复头巾|nHeaddress of Rejuvenation
+I01L 玄冥盾牌|nNathrezim Buckler
+I01M 圣殿指环|nRing of Basilius
+I01N Freeze Hero
+I01O Unfreeze Hero
+I01P 远行鞋|nBoots of Travel
+I01Q 动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+I01R 动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+I01S 动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+I01T 迈达斯之手|nHand of Midas
+I01U 空明杖|nOblivion Staff
+I01V 护腕|nBracer
+I01W 幽灵系带|nWraith Band
+I01X 无用挂件|nNull Talisman
+I01Y 夜叉|nYasha
+I01Z 散华|nSange
+I020 碎骨锤|nCranium Basher
+I021 刃甲|nBlade Mail
+I022 漩涡|nMaelstrom
+I023 散失之刃 等级1|nDiffusal Blade Level 1
+I024 支配头盔|nHelm of the Dominator
+I025 疯狂面具|nMask of Madness
+I026 Eul的神圣法杖|nEul's Scepter of Divinity
+I027 振魂石|nSoul Booster
+I028 梅肯斯姆|nMekansm
+I029 散夜对剑|nSange and Yasha
+I02A 黯灭|nStygian Desolator
+I02B 狂战斧|nBattle Fury
+I02C 水晶剑|nCrystalys
+I02D 黑皇杖（7）|nBlack King Bar (7)
+I02E 幻影斧|nManta Style
+I02F 洛萨之锋|nLothar's Edge
+I02G Dagon之神力 等级2|nDagon Level 2
+I02H 死灵书 等级1|nNecronomicon Level 1
+I02I 死灵书 等级2|nNecronomicon Level 2
+I02J 死灵书 等级3|nNecronomicon Level 3
+I02K 阿哈利姆神杖（死灵法师）
+I02L 阿哈利姆神杖（食人魔魔法师）
+I02M 物品模型
+I02N 精灵皮靴|nBoots of Elvenskin
+I02O 速度之靴|nBoots of Speed
+I02P 加速手套|nGloves of Haste
+I02Q 速度之靴|nBoots of Speed
+I02R 精灵皮靴|nBoots of Elvenskin
+I02S 加速手套|nGloves of Haste
+I02T 动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+I02U 动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+I02V Power Treads Recipe
+I02W Power Treads Recipe
+I02X 贵族圆环|nCirclet of Nobility
+I02Y 贵族圆环|nCirclet of Nobility
+I02Z 巨人力量腰带|nBelt of Giant Strength
+I030 欢欣之刃|nBlade of Alacrity
+I031 攻击之爪|nBlades of Attack
+I032 阔剑|nBroadsword
+I033 锁子甲|nChainmail
+I034 大剑|nClaymore
+I035 恶魔刀锋|nDemon Edge
+I036 鹰角弓|nEaglehorn
+I037 能量之球|nEnergy Booster
+I038 力量手套|nGauntlets of Strength
+I039 真视宝石|nGem of True Sight
+I03A 圆盾（近程）|nStout Shield (melee)
+I03B 铁意头盔|nHelm of Iron Will
+I03C 振奋宝石|nHyperstone
+I03D 铁树枝干|nIronwood Branch
+I03E 科勒的匕首|nKelen's Dagger
+I03F 智力斗篷|nMantle of Intelligence
+I03G 死亡面具|nMask of Death
+I03H 希梅斯特的掠夺|nMesserschmidt's Reaver
+I03I 秘银锤|nMithril Hammer
+I03J 神秘法杖|nMystic Staff
+I03K 食人魔之斧|nOgre Axe
+I03L 流浪法师斗篷|nPlaneswalker's Cloak
+I03M 板甲|nPlate Mail
+I03N 精气之球|nPoint Booster
+I03O 动力鞋（|cffff8000敏捷|r）|nPower Treads (Agility)
+I03P 短棍|nQuarterstaff
+I03Q 治疗指环|nRing of Health
+I03R 守护指环|nRing of Protection
+I03S 回复戒指|nRing of Regeneration
+I03T 法师长袍|nRobe of the Magi
+I03U 圣者遗物|nSacred Relic
+I03V 敏捷便鞋|nSlippers of Agility
+I03W 艺人面罩|nSobi Mask
+I03X 魔力法杖|nStaff of Wizardry
+I03Y 极限法球|nUltimate Orb
+I03Z 活力之球|nVitality Booster
+I040 虚无宝石|nVoid Stone 
+I041 标枪|nJavelin
+I042 净化药水|nClarity Potion
+I043 巨人力量腰带|nBelt of Giant Strength
+I044 欢欣之刃|nBlade of Alacrity
+I045 攻击之爪|nBlades of Attack
+I046 阔剑|nBroadsword
+I047 锁子甲|nChainmail
+I048 大剑|nClaymore
+I049 恶魔刀锋|nDemon Edge
+I04A 鹰角弓|nEaglehorn
+I04B 能量之球|nEnergy Booster
+I04C 力量手套|nGauntlets of Strength
+I04D 真视宝石|nGem of True Sight
+I04E 铁意头盔|nHelm of Iron Will
+I04F 振奋宝石|nHyperstone
+I04G 铁树枝干|nIronwood Branch
+I04H 科勒的匕首|nKelen's Dagger
+I04I 科勒的匕首 - |cffff0303禁用|r
+I04J 智力斗篷|nMantle of Intelligence
+I04K 死亡面具|nMask of Death
+I04L 希梅斯特的掠夺|nMesserschmidt's Reaver
+I04M 秘银锤|nMithril Hammer
+I04N 神秘法杖|nMystic Staff
+I04O 食人魔之斧|nOgre Axe
+I04P 流浪法师斗篷|nPlaneswalker's Cloak
+I04Q 板甲|nPlate Mail
+I04R 精气之球|nPoint Booster
+I04S 短棍|nQuarterstaff
+I04T 治疗指环|nRing of Health
+I04U 守护指环|nRing of Protection
+I04V 回复戒指|nRing of Regeneration
+I04W 法师长袍|nRobe of the Magi
+I04X 圣者遗物|nSacred Relic
+I04Y 敏捷便鞋|nSlippers of Agility
+I04Z 艺人面罩|nSobi Mask
+I050 魔力法杖|nStaff of Wizardry
+I051 圆盾（近程）|nStout Shield (melee)
+I052 极限法球|nUltimate Orb
+I053 活力之球|nVitality Booster
+I054 虚无宝石|nVoid Stone 
+I055 标枪|nJavelin
+I056 治疗药膏|nHealing Salve
+I057 艾西菲的远古祭祀|nAncient Tango of Essifation
+I058 侦察守卫
+I059 岗哨守卫
+I05A 回城卷轴|nScroll of Town Portal
+I05B 动物信使|nAnimal Courier
+I05C 艾西菲的远古祭祀|nAncient Tango of Essifation
+I05D 净化药水|nClarity Potion
+I05E 魔瓶|nEmpty Bottle
+I05F 治疗药膏|nHealing Salve
+I05G 侦察守卫
+I05H 岗哨守卫
+I05I 回城卷轴|nScroll of Town Portal
+I05J 动物信使|nAnimal Courier
+I05K 护腕卷轴|nBracer Recipe
+I05L 回复头巾卷轴|nHeaddress of Rejuvenation Recipe
+I05M 玄冥盾牌卷轴|nNathrezim Buckler Recipe
+I05N 幽灵系带卷轴|nWraith Band Recipe
+I05O 远行鞋卷轴|nBoots of Travel Recipe
+I05P 迈达斯之手卷轴|nHand of Midas Recipe
+I05Q 无用挂件卷轴|nNull Talisman Recipe
+I05R 回复头巾卷轴|nHeaddress of Rejuvenation Recipe
+I05S 玄冥盾牌卷轴|nNathrezim Buckler Recipe
+I05T 远行鞋卷轴|nBoots of Travel Recipe
+I05U 迈达斯之手卷轴|nHand of Midas Recipe
+I05V 护腕卷轴|nBracer Recipe
+I05W 幽灵系带卷轴|nWraith Band Recipe
+I05X 无用挂件卷轴|nNull Talisman Recipe
+I05Y 动力鞋（|cffff8000力量|r）|nPower Treads (Strength)
+I05Z 动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+I060 动力鞋（|cffff8000智力|r）|nPower Treads (Intelligence)
+I061 坚韧球|nPerseverance
+I062 坚韧球|nPerseverance
+I063 回复头巾|nHeaddress of Rejuvenation
+I064 回复头巾|nHeaddress of Rejuvenation
+I065 玄冥盾牌|nNathrezim Buckler
+I066 玄冥盾牌|nNathrezim Buckler
+I067 圣殿指环(|cffff0000普通|r)
+I068 圣殿指环|nRing of Basilius
+I069 圣殿指环（英雄）|nRing of Basilius (Heroes)
+I06A 圣殿指环(|cffff0000英雄|r)
+I06B 远行鞋|nBoots of Travel
+I06C 远行鞋|nBoots of Travel
+I06D 迈达斯之手|nHand of Midas
+I06E 迈达斯之手|nHand of Midas
+I06F 空明杖|nOblivion Staff
+I06G 空明杖|nOblivion Staff
+I06H 护腕|nBracer
+I06I 护腕|nBracer
+I06J 幽灵系带|nWraith Band
+I06K 幽灵系带|nWraith Band
+I06L 无用挂件|nNull Talisman
+I06M 无用挂件|nNull Talisman
+I06N 夜叉卷轴|nYasha Recipe
+I06O 夜叉卷轴|nYasha Recipe
+I06P 散华卷轴|nSange Recipe
+I06Q 散华卷轴|nSange Recipe
+I06R 碎骨锤卷轴|nCranium Basher Recipe
+I06S 碎骨锤卷轴|nCranium Basher Recipe
+I06T Blade Mail Recipe
+I06U Blade Mail Recipe
+I06V 漩涡卷轴|nMaelstrom Recipe
+I06W 漩涡卷轴|nMaelstrom Recipe
+I06X 散失之刃卷轴|nDiffusal Blade Recipe
+I06Y 散失之刃卷轴|nDiffusal Blade Recipe
+I06Z 疯狂面具卷轴|nMask of Madness Recipe
+I070 疯狂面具卷轴|nMask of Madness Recipe
+I071 Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+I072 Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+I073 梅肯斯姆卷轴|nMekansm Recipe
+I074 梅肯斯姆卷轴|nMekansm Recipe
+I075 Sange and Yasha Recipe
+I076 黯灭卷轴|nStygian Desolator Recipe
+I077 水晶剑卷轴|nCrystalys Recipe
+I078 黑皇杖卷轴|nBlack King Bar Recipe
+I079 幻影斧卷轴|nManta Style Recipe
+I07A 洛萨之锋卷轴|nLothar's Edge Recipe
+I07B Dagon之神力卷轴|nDagon Recipe
+I07C 死灵书卷轴|nNecronomicon Recipe
+I07D 林肯法球卷轴|nken's Sphere Recipe
+I07E 大炮卷轴|nBuriza-do Kyanon Recipe
+I07F 辉耀卷轴|nRadiance Recipe
+I07G 辉耀卷轴|nRadiance Recipe
+I07H 魔龙之心卷轴|nHeart of Tarrasque Recipe
+I07I The Butterfly Recipe
+I07J 刷新球卷轴|nRefresher Orb Recipe
+I07K Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+I07L 雷神之锤卷轴|nMjollnir Recipe
+I07M 秘法指环卷轴|nArcane Ring Recipe
+I07N 斯嘉蒂之眼卷轴|nEye of Skadi Recipe
+I07O 撒旦之邪力卷轴|nSatanic Recipe
+I07P 飞行信使卷轴|nFlying Courier Recipe
+I07Q 吸血鬼的祭品卷轴|nVladmir's Offering Recipe
+I07R 强袭装甲卷轴|nAssault Cuirass Recipe
+I07S 食尸鬼王的臂章卷轴|nArmlet of Mordiggian Recipe
+I07T 希瓦的守护卷轴|nShiva's Guard Recipe
+I07U Sange and Yasha Recipe
+I07V 黯灭卷轴|nStygian Desolator Recipe
+I07W 水晶剑卷轴|nCrystalys Recipe
+I07X 黑皇杖卷轴|nBlack King Bar Recipe
+I07Y 幻影斧卷轴|nManta Style Recipe
+I07Z 洛萨之锋卷轴|nLothar's Edge Recipe
+I080 Dagon之神力卷轴|nDagon Recipe
+I081 死灵书卷轴|nNecronomicon Recipe
+I082 林肯法球卷轴|nken's Sphere Recipe
+I083 大炮卷轴|nBuriza-do Kyanon Recipe
+I084 魔龙之心卷轴|nHeart of Tarrasque Recipe
+I085 撒旦之邪力卷轴|nSatanic Recipe
+I086 斯嘉蒂之眼卷轴|nEye of Skadi Recipe
+I087 The Butterfly Recipe
+I088 刷新球卷轴|nRefresher Orb Recipe
+I089 秘法指环卷轴|nArcane Ring Recipe
+I08A 飞行信使卷轴|nFlying Courier Recipe
+I08B 吸血鬼的祭品卷轴|nVladmir's Offering Recipe
+I08C 强袭装甲卷轴|nAssault Cuirass Recipe
+I08D 食尸鬼王的臂章卷轴|nArmlet of Mordiggian Recipe
+I08E 希瓦的守护卷轴|nShiva's Guard Recipe
+I08F 夜叉|nYasha
+I08G 夜叉|nYasha
+I08H 散华|nSange
+I08I 散华|nSange
+I08J 碎骨锤|nCranium Basher
+I08K 碎骨锤|nCranium Basher
+I08L 碎骨锤（远程）|nCranium Basher (Ranged)
+I08M 碎骨锤（远程）|nCranium Basher (Ranged)
+I08N 刃甲|nBlade Mail
+I08O 刃甲|nBlade Mail
+I08P 漩涡|nMaelstrom
+I08Q 漩涡|nMaelstrom
+I08R 散失之刃 等级1|nDiffusal Blade Level 1
+I08S 散失之刃 等级1|nDiffusal Blade Level 1
+I08T 支配头盔|nHelm of the Dominator
+I08U 支配头盔|nHelm of the Dominator
+I08V 支配头盔（信使版）|nHelm of the Dominator (Courier Edition)
+I08W 支配头盔（信使版）|nHelm of the Dominator (Courier Edition)
+I08X 疯狂面具|nMask of Madness
+I08Y 疯狂面具|nMask of Madness
+I08Z Eul的神圣法杖|nEul's Scepter of Divinity
+I090 Eul的神圣法杖|nEul's Scepter of Divinity
+I091 振魂石|nSoul Booster
+I092 振魂石|nSoul Booster
+I093 梅肯斯姆|nMekansm
+I094 梅肯斯姆|nMekansm
+I095 散夜对剑|nSange and Yasha
+I096 散夜对剑|nSange and Yasha
+I097 黯灭|nStygian Desolator
+I098 黯灭|nStygian Desolator
+I099 狂战斧|nBattle Fury
+I09A 狂战斧|nBattle Fury
+I09B 水晶剑|nCrystalys
+I09C 水晶剑|nCrystalys
+I09D 黑皇杖（6）|nBlack King Bar (6)
+I09E 黑皇杖（8）|nBlack King Bar (8)
+I09F 幻影斧|nManta Style
+I09G 幻影斧|nManta Style
+I09H 洛萨之锋|nLothar's Edge
+I09I 洛萨之锋|nLothar's Edge
+I09J Dagon之神力 等级2|nDagon Level 2
+I09K Dagon之神力 等级1|nDagon Level 1
+I09L Dagon之神力 等级5|nDagon Level 5
+I09M Dagon之神力 等级1|nDagon Level 1
+I09N Dagon之神力 等级3|nDagon Level 3
+I09O Dagon之神力 等级4|nDagon Level 4
+I09P Dagon之神力 等级2|nDagon Level 2
+I09Q Dagon之神力 等级3|nDagon Level 3
+I09R Dagon之神力 等级5|nDagon Level 5
+I09S Dagon之神力 等级4|nDagon Level 4
+I09T 死灵书 等级1|nNecronomicon Level 1
+I09U 死灵书 等级1|nNecronomicon Level 1
+I09V 死灵书 等级2|nNecronomicon Level 2
+I09W 死灵书 等级3|nNecronomicon Level 3
+I09X 死灵书 等级2|nNecronomicon Level 2
+I09Y 死灵书 等级3|nNecronomicon Level 3
+I09Z 林肯法球|nLinken's Sphere
+I0A0 林肯法球|nLinken's Sphere
+I0A1 |cff999900圣剑|r
+I0A2 |cff999900圣剑|r
+I0A3 大炮|nBuriza-do Kyanon
+I0A4 大炮|nBuriza-do Kyanon
+I0A5 金箍棒(克敌机先 |cff00ff00激活|r)
+I0A6 金箍棒|nMonkey King Bar
+I0A7 辉耀|nRadiance
+I0A8 辉耀(|cff00ff00开启|r)
+I0A9 魔龙之心|nHeart of Tarrasque
+I0AA 魔龙之心|nHeart of Tarrasque
+I0AB 撒旦之邪力|nSatanic
+I0AC 撒旦之邪力|nSatanic
+I0AD 斯嘉蒂之眼|nEye of Skadi
+I0AE 斯嘉蒂之眼|nEye of Skadi
+I0AF 斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+I0AG 斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+I0AH 蝴蝶|nThe Butterfly
+I0AI 蝴蝶|nThe Butterfly
+I0AJ 刷新球|nRefresher Orb
+I0AK 刷新球|nRefresher Orb
+I0AL Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+I0AM 魔瓶|nEmpty Bottle
+I0AN 魔瓶 - 1/3|nMagical Bottle - 1/3
+I0AO 魔瓶 - 2/3|nMagical Bottle - 2/3
+I0AP 魔瓶 - 3/3|nMagical Bottle - 3/3
+I0AQ 魔瓶 - 隐形|nMagical Bottle - Invisibility
+I0AR 魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+I0AS 魔瓶 - 2/3|nMagical Bottle - 2/3
+I0AT 魔瓶 - 3/3|nMagical Bottle - 3/3
+I0AU 魔瓶 - 1/3|nMagical Bottle - 1/3
+I0AV 空瓶子|nEmpty Bottle Store
+I0AW 不朽之守护|nAegis of the Immortal
+I0AX 不朽之守护|nAegis of the Immortal
+I0AY 阿哈利姆神杖（基础）
+I0AZ 阿哈利姆神杖（先知）
+I0B0 奶酪|nCheese
+I0B1 奶酪|nCheese
+I0B2 阿哈利姆神杖（遗忘法师）
+I0B3 阿哈利姆神杖（痛苦女王）
+I0B4 阿哈利姆神杖（暗影萨满）
+I0B5 阿哈利姆神杖（巫医）
+I0B6 阿哈利姆神杖（剧毒术士）
+I0B7 阿哈利姆神杖（水晶室女）
+I0B8 阿哈利姆神杖（基础）
+I0B9 阿哈利姆神杖（众神之王）
+I0BA 先锋盾（近程）|nVanguard (melee)
+I0BB 先锋盾|nVanguard
+I0BC 秘法指环|nArcane Ring
+I0BD 秘法指环|nArcane Ring
+I0BE 雷神之锤|nMjollnir
+I0BF 雷神之锤|nMjollnir
+I0BG 吸血鬼的祭品|nVladmir's Offering
+I0BH 吸血鬼的祭品|nVladmir's Offering
+I0BI 强袭装甲|nAssault Cuirass
+I0BJ 强袭装甲|nAssault Cuirass
+I0BK 血精石|nBloodstone
+I0BL 血精石|nBloodstone
+I0BM 挑战头巾|nHood of Defiance
+I0BN 挑战头巾|nHood of Defiance
+I0BO 林肯法球|nLinkin's Sphere
+I0BP 圣剑|nDivine Rapier
+I0BQ 大炮|nBuriza-do Kyanon
+I0BR 金箍棒|nMonkey King Bar
+I0BS 辉耀|nRadiance
+I0BT 魔龙之心|nHeart of Tarrasque
+I0BU 撒旦之邪力|nSatanic
+I0BV 斯嘉蒂之眼|nEye of Skadi
+I0BW 蝴蝶|nThe Butterfly
+I0BX 刷新球|nRefresher Orb
+I0BY Guinsoo的邪恶镰刀|nGuinsoo's Scythe of Vyse
+I0BZ 先锋盾|nVanguard
+I0C0 雷神之锤|nMjollnir
+I0C1 吸血鬼的祭品|nVladmir's Offering
+I0C2 强袭装甲|nAssault Cuirass
+I0C3 血精石|nBloodstone
+I0C4 挑战头巾|nHood of Defiance
+I0C5 敏捷便鞋|nSlippers of Agility
+I0C6 圣殿指环（英雄）|nRing of Basilius (Heroes)
+I0C7 科勒的匕首|nKelen's Dagger
+I0C8 碎骨锤（远程）|nCranium Basher (Ranged)
+I0C9 极限法球|nUltimate Orb
+I0CA 加速手套|nGloves of Haste
+I0CB 紫怨|nOrchid Malevolence
+I0CC 圣者遗物|nSacred Relic
+I0CD 死亡面具|nMask of Death
+I0CE 流浪法师斗篷|nPlaneswalker's Cloak
+I0CF 希瓦的守护|nShiva's Guard
+I0CG 希梅斯特的掠夺|nMesserschmidt's Reaver
+I0CH 鹰角弓|nEaglehorn
+I0CI 恶魔刀锋|nDemon Edge
+I0CJ 力量手套|nGauntlets of Strength
+I0CK 活力之球|nVitality Booster
+I0CL 精气之球|nPoint Booster
+I0CM 智力斗篷|nMantle of Intelligence
+I0CN 神秘法杖|nMystic Staff
+I0CO 支配头盔（信使版）|nHelm of the Dominator (Courier)
+I0CP 法师长袍|nRobe of the Magi
+I0CQ 振奋宝石|nHyperstone
+I0CR 能量之球|nEnergy Booster
+I0CS 精灵皮靴|nBoots of Elvenskin
+I0CT 斯嘉蒂之眼（远程）|nEye of Skadi (Ranged)
+I0CU 铁树枝干|nIronwood Branch
+I0CV 巨人力量腰带|nBelt of Giant Strength
+I0CW 守护指环|nRing of Protection
+I0CX 大剑|nClaymore
+I0CY 短棍|nQuarterstaff
+I0CZ 阔剑|nBroadsword
+I0D0 秘银锤|nMithril Hammer
+I0D1 魔力法杖|nStaff of Wizardry
+I0D2 欢欣之刃|nBlade of Alacrity
+I0D3 Dagon之神力 等级5|nDagon Level 5
+I0D4 贵族圆环|nCirclet of Nobility
+I0D5 攻击之爪|nBlades of Attack
+I0D6 标枪|nJavelin
+I0D7 锁子甲
+I0D8 食人魔之斧|nOgre Axe
+I0D9 圆盾（近程）|nStout Shield (melee)
+I0DA 铁意头盔|nHelm of Iron Will
+I0DB 板甲|nPlate Mail
+I0DC Dagon之神力 等级3|nDagon Level 3
+I0DD Dagon之神力 等级4|nDagon Level 4
+I0DE "食尸鬼王的臂章（信使版，关闭状态）|nArmlet of Mordiggian (Off,Courier)"
+I0DF 希瓦的守护 （信使版）|nShiva's Guard (Courier)
+I0DG 真视宝石|nGem of True Sight
+I0DH 科勒的匕首 - |cffff0303禁用|r
+I0DI 治疗指环|nRing of Health
+I0DJ 回复戒指|nRing of Regeneration
+I0DK 艺人面罩|nSobi Mask
+I0DL 虚无宝石|nVoid Stone 
+I0DM 空瓶子|nEmpty Bottle Store
+I0DN 魔瓶|nEmpty Bottle
+I0DO 魔瓶 - 1/3|nMagical Bottle - 1/3
+I0DP 魔瓶 - 2/3|nMagical Bottle - 2/3
+I0DQ 魔瓶 - 3/3|nMagical Bottle - 3/3
+I0DR 魔瓶 - 回复|nMagical Bottle - Regeneration
+I0DS 回复头巾卷轴|nHeaddress of Rejuvenation Recipe
+I0DT 玄冥盾牌卷轴|nNathrezim Buckler Recipe
+I0DU 远行鞋卷轴|nBoots of Travel Recipe
+I0DV Power Treads Recipe
+I0DW 迈达斯之手卷轴|nHand of Midas Recipe
+I0DX 护腕卷轴|nBracer Recipe
+I0DY 幽灵系带卷轴|nWraith Band Recipe
+I0DZ 无用挂件卷轴|nNull Talisman Recipe
+I0E0 夜叉卷轴|nYasha Recipe
+I0E1 散华卷轴|nSange Recipe
+I0E2 碎骨锤卷轴|nCranium Basher Recipe
+I0E3 Blade Mail Recipe
+I0E4 漩涡卷轴|nMaelstrom Recipe
+I0E5 散失之刃卷轴|nDiffusal Blade Recipe
+I0E6 疯狂面具卷轴|nMask of Madness Recipe
+I0E7 Eul的神圣法杖卷轴|nEul's Scepter of Divinity Recipe
+I0E8 梅肯斯姆卷轴|nMekansm Recipe
+I0E9 Sange and Yasha Recipe
+I0EA 黯灭卷轴|nStygian Desolator Recipe
+I0EB 水晶剑卷轴|nCrystalys Recipe
+I0EC 黑皇杖卷轴|nBlack King Bar Recipe
+I0ED 幻影斧卷轴|nManta Style Recipe
+I0EE 洛萨之锋卷轴|nLothar's Edge Recipe
+I0EF Dagon之神力卷轴|nDagon Recipe
+I0EG 死灵书卷轴|nNecronomicon Recipe
+I0EH 林肯法球卷轴|nken's Sphere Recipe
+I0EI 大炮卷轴|nBuriza-do Kyanon Recipe
+I0EJ 辉耀卷轴|nRadiance Recipe
+I0EK 魔龙之心卷轴|nHeart of Tarrasque Recipe
+I0EL 撒旦之邪力卷轴|nSatanic Recipe
+I0EM 斯嘉蒂之眼卷轴|nEye of Skadi Recipe
+I0EN The Butterfly Recipe
+I0EO 刷新球卷轴|nRefresher Orb Recipe
+I0EP 秘法指环卷轴|nArcane Ring Recipe
+I0EQ 飞行信使卷轴|nFlying Courier Recipe
+I0ER 吸血鬼的祭品卷轴|nVladmir's Offering Recipe
+I0ES 强袭装甲卷轴|nAssault Cuirass Recipe
+I0ET 食尸鬼王的臂章卷轴|nArmlet of Mordiggian Recipe
+I0EU 希瓦的守护卷轴|nShiva's Guard Recipe
+I0EV 散失之刃 等级1（空）|nDiffusal Blade Level 1 (Empty)
+I0EW 散失之刃 等级1（空）|nDiffusal Blade Level 1 (Empty)
+I0EX 散失之刃（空）|nDiffusal Blade (Empty)
+I0EY 阿哈利姆神杖（先知）
+I0EZ 阿哈利姆神杖（光之守卫）
+I0F0 阿哈利姆神杖（受折磨的灵魂）
+I0F1 阿哈利姆神杖（秀逗魔导士）
+I0F2 阿哈利姆神杖（恶魔巫师）
+I0F3 阿哈利姆神杖（末日使者）
+I0F4 阿哈利姆神杖（死灵法师）
+I0F5 阿哈利姆神杖（月之骑士）
+I0F6 阿哈利姆神杖（巫妖）
+I0F7 阿哈利姆神杖（暗影萨满）
+I0F8 阿哈利姆神杖（众神之王）
+I0F9 阿哈利姆神杖（遗忘法师）
+I0FA 阿哈利姆神杖（痛苦女王）
+I0FB 阿哈利姆神杖（巫医）
+I0FC 阿哈利姆神杖（剧毒术士）
+I0FD 阿哈利姆神杖（水晶室女）
+I0FE 阿哈利姆神杖（食人魔魔法师）
+I0FF 临时物品
+I0FG 临时物品
+I0FH Lycan Damage - Hero - 2
+I0FI Lycan Damage - Hero - 4
+I0FJ Lycan Damage - Hero - 4 (negative)
+I0FK Lycan Damage - Hero - 1
+I0FL Lycan Damage - Hero - 3
+I0FM Lycan Damage - Hero - 1 (negative)
+I0FN Lycan Damage - Hero - 2 (negative)
+I0FO Lycan Damage - Hero - 3 (negative)
+I0FP Lycan Damage - Creep - 4 (negative)
+I0FQ Lycan Damage - Creep - 3
+I0FR Lycan Damage - Creep - 2 (negative)
+I0FS 黑皇杖（7）|nBlack King Bar (7)
+I0FT Lycan Damage - Creep - 3 (negative)
+I0FU Lycan Damage - Creep - 1 (negative)
+I0FV Lycan Damage - Creep - 4
+I0FW Lycan Damage - Creep - 1
+I0FX Lycan Damage - Creep - 2
+I0FY 黑皇杖（8）|nBlack King Bar (8)
+I0FZ 黑皇杖（10）|nBlack King Bar (10)
+I0G0 黑皇杖（9）|nBlack King Bar (9)
+I0G1 黑皇杖（5）|nBlack King Bar (5)
+I0G2 黑皇杖（10）|nBlack King Bar (10)
+I0G3 黑皇杖（6）|nBlack King Bar (6)
+I0G4 黑皇杖（5）|nBlack King Bar (5)
+I0G5 黑皇杖（7）|nBlack King Bar (7)
+I0G6 黑皇杖（9）|nBlack King Bar (9)
+I0G7 黑皇杖（8）|nBlack King Bar (8)
+I0G8 黑皇杖（10）|nBlack King Bar (10)
+I0G9 黑皇杖（9）|nBlack King Bar (9)
+I0GA 黑皇杖（5）|nBlack King Bar (5)
+I0GB 黑皇杖（6）|nBlack King Bar (6)
+I0GC 魔棒|nMagic Stick
+I0GD 魔棒|nMagic Stick
+I0GE 魔棒|nMagic Stick
+I0GF Poison Powder
+I0GG Poison Powder
+I0GH 显影之尘|nDust of Appearance
+I0GI 显影之尘|nDust of Appearance
+I0GJ 相位鞋|nPhase Boots
+I0GK 相位鞋|nPhase Boots
+I0GL 相位鞋|nPhase Boots
+I0GM Version Check
+I0GN Totem of Wind
+I0GO Totem of Fire
+I0GP Totem of Water
+I0GQ Totem of Earth
+I0GR Totem of Fire
+I0GS Totem of Earth
+I0GT Totem of Water
+I0GU Totem of Wind
+I0GV 魔瓶 - 极速|nMagical Bottle - Haste
+I0GW 魔瓶 - 幻象|nMagical Bottle - Illusion
+I0GX 魔瓶 - 回复|nMagical Bottle - Regeneration
+I0GY 魔瓶 - 幻象|nMagical Bottle - Illusion
+I0GZ 魔瓶 - 隐形|nMagical Bottle - Invisibility
+I0H0 魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+I0H1 魔瓶 - 极速|nMagical Bottle - Haste
+I0H2 魔瓶 - 回复|nMagical Bottle - Regeneration
+I0H3 魔瓶 - 幻象|nMagical Bottle - Illusion
+I0H4 魔瓶 - 极速|nMagical Bottle - Haste
+I0H5 魔瓶 - 隐形|nMagical Bottle - Invisibility
+I0H6 魔瓶 - 双倍伤害|nMagical Bottle - Double Damage
+I0H7 魔杖卷轴|nMagic Wand Recipe
+I0H8 魔杖卷轴|nMagic Wand Recipe
+I0H9 魔杖卷轴|nMagic Wand Recipe
+I0HA 魔杖|nMagic Wand
+I0HB 魔杖|nMagic Wand
+I0HC 魔杖|nMagic Wand
+I0HD 弹射法杖卷轴|nForce Staff Recipe
+I0HE 弹射法杖卷轴|nForce Staff Recipe
+I0HF 弹射法杖卷轴|nForce Staff Recipe
+I0HG 弹射法杖|nForce Staff
+I0HH 弹射法杖|nForce Staff
+I0HI 弹射法杖|nForce Staff
+I0HJ 林肯法球|nLinken's Sphere
+I0HK 林肯法球|nLinken's Sphere
+I0HL 林肯法球|nLinkin's Sphere
+I0HM 林肯法球|nLinken's Sphere
+I0HN 幽魂药剂|nGhost Potion
+I0HO 幽魂药剂|nGhost Potion
+I0HP 压制之刃（远程）|nQuelling Blade (Ranged)
+I0HQ The Leveler
+I0HR 压制之刃|nQuelling Blade
+I0HS The Leveler (Ranged)
+I0HT 压制之刃|nQuelling Blade
+I0HU 压制之刃（远程）|nQuelling Blade (Ranged)
+I0HV 压制之刃|nQuelling Blade
+I0HW 压制之刃（远程）|nQuelling Blade Ranged
+I0HX 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+I0HY 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+I0HZ 卡嘉之洞察烟斗卷轴|nKhadgar's Pipe of Insight Recipe
+I0I0 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+I0I1 The Leveler (Ranged)
+I0I2 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+I0I3 The Leveler (Ranged)
+I0I4 阿哈利姆神杖卷轴|nAghanim's Scepter Recipe
+I0I5 阿哈利姆神杖卷轴|nAghanim's Scepter Recipe
+I0I6 阿哈利姆神杖（熊猫酒仙）
+I0I7 阿哈利姆神杖（熊猫酒仙）
+I0I8 阿哈利姆神杖（熊猫酒仙）
+I0I9 阿哈利姆神杖（发条地精）
+I0IA 阿哈利姆神杖（剑圣）
+I0IB 阿哈利姆神杖（召唤师）
+I0IC 阿哈利姆神杖（神灵武士）
+I0ID 阿哈利姆神杖（沙王）
+I0IE 阿哈利姆神杖（双头龙）
+I0IF 阿哈利姆神杖（暗夜魔王）
+I0IG 阿哈利姆神杖（圣骑士）
+I0IH 阿哈利姆神杖（混沌骑士）
+I0II 阿哈利姆神杖（复仇之魂）
+I0IJ 阿哈利姆神杖（矮人火枪手）
+I0IK 阿哈利姆神杖（圣骑士）
+I0IL 阿哈利姆神杖（暗夜魔王）
+I0IM 阿哈利姆神杖（双头龙）
+I0IN 阿哈利姆神杖（召唤师）
+I0IO 阿哈利姆神杖（神灵武士）
+I0IP 阿哈利姆神杖（沙王）
+I0IQ 阿哈利姆神杖（混沌骑士）
+I0IR 阿哈利姆神杖（剑圣）
+I0IS 阿哈利姆神杖（复仇之魂）
+I0IT 阿哈利姆神杖（矮人火枪手）
+I0IU 阿哈利姆神杖（发条地精）
+I0IV 阿哈利姆神杖（发条地精）
+I0IW 阿哈利姆神杖（复仇之魂）
+I0IX 阿哈利姆神杖（剑圣）
+I0IY 阿哈利姆神杖（混沌骑士）
+I0IZ 阿哈利姆神杖（圣骑士）
+I0J0 阿哈利姆神杖（暗夜魔王）
+I0J1 阿哈利姆神杖（双头龙）
+I0J2 阿哈利姆神杖（沙王）
+I0J3 阿哈利姆神杖（神灵武士）
+I0J4 阿哈利姆神杖（召唤师）
+I0J5 阿哈利姆神杖（矮人火枪手）
+I0J6 闪避护符|nTalisman of Evasion
+I0J7 闪避护符|nTalisman of Evasion
+I0J8 闪避护符|nTalisman of Evasion
+I0J9 散失之刃 等级2|nDiffusal Blade Level 2
+I0JA 散失之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+I0JB 散失之刃 等级2|nDiffusal Blade Level 2
+I0JC 散失之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+I0JD 散失之刃 等级2|nDiffusal Blade Level 2
+I0JE 散失之刃 等级2（空）|nDiffusal Blade Level 2 (Empty)
+I0JF 穷鬼盾（近程）|nPoor Man's Shield (melee)
+I0JG 穷鬼盾（近程）|nPoor Man's Shield (melee)
+I0JH 穷鬼盾（近程）|nPoor Man's Shield (melee)
+I0JI 幽魂权杖|nGhost Scepter
+I0JJ 幽魂权杖|nGhost Scepter
+I0JK 幽魂权杖|nGhost Scepter
+I0JL 阿哈利姆神杖（风行者）
+I0JM 阿哈利姆神杖（虚空假面）
+I0JN 阿哈利姆神杖（裂魂人）
+I0JO 阿哈利姆神杖（暗影牧师）
+I0JP 阿哈利姆神杖（地狱领主）
+I0JQ 阿哈利姆神杖（痛苦之源）
+I0JR 阿哈利姆神杖（屠夫）
+I0JS 阿哈利姆神杖（屠夫）
+I0JT 阿哈利姆神杖（风行者）
+I0JU 阿哈利姆神杖（虚空假面）
+I0JV 阿哈利姆神杖（痛苦之源）
+I0JW 阿哈利姆神杖（裂魂人）
+I0JX 阿哈利姆神杖（暗影牧师）
+I0JY 阿哈利姆神杖（地狱领主）
+I0JZ 阿哈利姆神杖（屠夫）
+I0K0 阿哈利姆神杖（风行者）
+I0K1 阿哈利姆神杖（虚空假面）
+I0K2 阿哈利姆神杖（SB）
+I0K3 阿哈利姆神杖（痛苦之源）
+I0K4 阿哈利姆神杖（地狱领主）
+I0K5 阿哈利姆神杖（暗影牧师）
+I0K6 卡嘉之洞察烟斗|nKhadgar's Pipe of Insight
+I0K7 金箍棒(克敌机先 |cffff0000未激活|r)
+I0K8 金箍棒|nMonkey King Bar
+I0K9 金箍棒|nMonkey King Bar
+I0KA 圆盾（远程）|nStout Shield (ranged)
+I0KB 圆盾（远程）|nStout Shield (ranged)
+I0KC 圆盾（远程）|nStout Shield (ranged)
+I0KD 穷鬼盾（远程）|nPoor Man's Shield (ranged)
+I0KE 穷鬼盾（远程）|nPoor Man's Shield (ranged)
+I0KF 穷鬼盾（远程）|nPoor Man's Shield (ranged)
+I0KG 阿哈利姆神杖卷轴|nAghanim's Scepter Recipe
+I0KH 阿哈利姆神杖（地精工程师）
+I0KI 阿哈利姆神杖（地精工程师）
+I0KJ 阿哈利姆神杖（地精工程师）
+I0KK Aegis Check
+I0KL 魔龙之心 - |cffff0303禁用|r
+I0KM 魔龙之心 - |cffff0303禁用|r
+I0KN 雷神之锤卷轴|nMjollnir Recipe
+I0KO 雷神之锤|nMjollnir
+I0KP 辉耀(|cffff0000关闭|r)
+I0KQ 辉耀|nRadiance
+I0KR 辉耀|nRadiance
+I0KS 幻象法杖
+I0KT 幻象法杖
+I0KU 影之灵龛卷轴|nUrn of Shadows Recipe
+I0KV 影之灵龛卷轴|nUrn of Shadows Recipe
+I0KW 影之灵龛卷轴|nUrn of Shadows Recipe
+I0KX 影之灵龛|nUrn of Shadows
+I0KY 影之灵龛|nUrn of Shadows
+I0KZ 影之灵龛|nUrn of Shadows
+I0L0 阿哈利姆神杖（斧王）
+I0L1 Aghanim's Scepter (Batrider)
+I0L2 阿哈利姆神杖（撼地神牛）
+I0L3 阿哈利姆神杖（斧王）
+I0L4 阿哈利姆神杖（不朽尸王）
+I0L5 阿哈利姆神杖（不朽尸王）
+I0L6 Aghanim's Scepter (Batrider)
+I0L7 阿哈利姆神杖（撼地神牛）
+I0L8 阿哈利姆神杖（不朽尸王）
+I0L9 阿哈利姆神杖（斧王）
+I0LA 阿哈利姆神杖（撼地神牛）
+I0LB Aghanim's Scepter (Batrider)
+I0LC 先锋盾（远程）|nVanguard (ranged)
+I0LD 先锋盾|nVanguard
+I0LE 先锋盾|nVanguard
+I0LF 影之灵龛（空）|nUrn of Shadows (empty)
+I0LG 影之灵龛（空）|nUrn of Shadows (empty)
+I0LH 影之灵龛（空）|nUrn of Shadows (empty)
+I0LI |cff999900圣剑|r
+I0LJ |cff999900圣剑|r
+I0LK 圣剑|nDivine Rapier
+I0LL 灵魂之戒|nSoul Ring
+I0LM 灵魂之戒卷轴|nSoul Ring Recipe
+I0LN 灵魂之戒卷轴|nSoul Ring Recipe
+I0LO 灵魂之戒卷轴|nSoul Ring Recipe
+I0LP 灵魂之戒|nSoul Ring
+I0LQ 灵魂之戒|nSoul Ring
+I0LR 虚灵刀|nEthereal Blade
+I0LS 虚灵刀|nEthereal Blade
+I0LT 虚灵刀|nEthereal Blade
+I0LU 阿哈利姆神杖（仙女龙）
+I0LV 阿哈利姆神杖（仙女龙）
+I0LW 阿哈利姆神杖（仙女龙）
+I0LX Ethereal Blade Recipe
+I0LY Ethereal Blade Recipe
+I0LZ Ethereal Blade Recipe
+mcri 机械生物
+mdpb Medusa Pebble
+moon Moonstone
+n000 Greater Infernel
+n001 Ancestral Spirit
+n002 支援法衣
+n003 攻城傀儡
+n004 精灵熊
+n005 敏捷（天灾） - 夜色酒馆
+n006 死灵战士 等级3
+n007 敏捷（中立） - 黎明酒馆
+n008 智力（近卫） - 曙光酒馆
+n009 圣物关口
+n00A 死灵战士 等级2
+N00B 仙女龙
+n00C 区域指示器
+n00D 远古九头蛇
+n00E 恐怖怪鱼
+n00F Ancestral Spirit
+n00G 死灵射手 等级2
+n00H 死灵射手 等级1
+n00I 小鸡
+n00J 死灵战士 等级1
+n00K 死灵射手 等级3
+n00L Roshan
+n00M 迷你屠夫
+n00N 地精地雷
+n00O 地精地雷
+n00P 地精地雷
+n00Q 地精地雷
+N00R 深渊领主
+n00S 头狼
+n00T Transportation
+n00U 地狱火
+n00V 秘法圣所
+n00W 远古兵器
+n00X 魅惑遗物
+n00Y 地狱火
+n00Z 地狱火
+n010 土熊猫 等级3
+n011 火熊猫
+n012 风熊猫 等级3
+N013 德鲁伊
+N014 德鲁伊
+N015 德鲁伊
+N016 巨魔战将
+N017 巨魔战将
+n018 精灵熊
+n019 幼蛛
+N01A 沉默术士
+n01B 力量（近卫） - 日出酒馆
+n01C 精灵熊
+n01D 智力（天灾） - 午夜酒馆
+n01E 寄生蛛
+n01F 生产遗物
+n01G 精灵熊
+N01H 炼金术士
+N01I 炼金术士
+N01J 炼金术士
+n01K 武器商人 
+n01L 地精地雷
+n01M 豪猪
+n01N 敏捷（近卫） - 清晨酒馆
+N01O 德鲁伊
+n01P 力量（中立） - 黄昏酒馆
+n01Q 侦查战鹰
+n01R 高等侦查战鹰
+n01S 高等豪猪
+N01T 炼金术士
+n01U 召唤 飓风
+N01V 月之女祭司
+N01W 暗影牧师
+n01X 超震声波
+n01Y Draft Tavern 1
+n01Z Draft Tavern 2
+n020 活死人
+n021 小企鹅
+n022 浣熊
+n023 食腐甲虫
+n024 沙虫
+n025 红皮野猪
+n026 泥土傀儡
+n027 熔炉精灵
+n028 Ancestral Spirit
+n029 Ancestral Spirit
+n02A 英雄选择器
+N02B 巨魔战将
+n02C 你只能携带一个食尸鬼王的臂章
+n02D 离开了游戏  |c006699CC不怕掉线不怕断电，实时加入独家首创 7fgame.com|r
+n02E 自动分配到了
+n02F has been randomly given
+n02G 你不能从敌方商店购买侦查守卫
+n02H 你不用为这个物品购买合成卷轴
+n02I 数值在10-46之间有效
+n02J 你的英雄不能携带这件物品
+n02K 你的信使不能携带这件物品
+n02L 你只能携带一个动力鞋
+n02M 梅肯斯姆不能治疗
+n02N 只能以离开的英雄为目标
+n02O 物品栏已满
+n02P 由于War3的自有bug，不要在一次天神下凡结束前使用另一次
+n02Q 合成所需物品尚未备齐！
+n02R You must have an empty slot to disassemble this item
+n02S ，因为该目标在前25秒内已经被梅肯斯姆治疗过一次
+n02T 死亡模式与已选模式不兼容！
+n02U 无效的游戏组合模式！
+n02V 代码已经被激活
+n02W 只有选择游戏模式的玩家才能使用该命令
+n02X 命令必须在游戏开始后15至60秒内键入
+n02Y Roll的取值必须在1与2000之间
+n02Z 无效的交换对象
+n030 主机禁止重选英雄
+n031 联赛模式与已选模式不兼容！
+n032 全近程模式|r(|cffff0303MO|r)
+n033 你没有足够的黄金选择一个新的英雄
+n034 两边必须拥有相等的人数才能激活这个模式
+n035 你不能从这里攻击Roshan
+n036 不能传送至正在使用雷电牵引的单位
+n037 未发现幻像法球
+n038 该目标拒绝某些友方技能
+n039 Unable to Morph Replicate
+n03A 你已经投过票了
+n03B 不能在这里使用移形换位
+n03C 数值在10-46之间有效
+n03D 无效选项，请从3个选项中作出一个选择
+n03E 1级感染无法作用于敌方单位
+n03F 无效的目标，或者目标已死亡
+n03G 施法英雄不存在或已经死亡
+n03H 附近找不到目标
+n03I 不能在被末日诅咒的单位上施放无光之盾
+n03J 必须以友方建筑为目标。
+n03K 不能在这里使用真空
+n03L Cannot use Lightning Grapple here
+n03M 你已经召唤了精灵熊！
+n03N 近卫军团
+n03O 天灾军团
+n03P 正在
+n03Q 向胜利迈进！！！|c006699CC群雄逐鹿再创奇迹、新版内容抢先体验 7fgame.com|r
+n03R 自杀了！
+n03S has been killed by his teammate
+n03T 被Roshan杀死了
+n03U 被中立生物杀死了
+n03V 妖怪般的杀戮
+n03W 如同神一般
+n03X 超越神的杀戮
+n03Y You cannot teleport there
+n03Z 找不到任何鬼影重重产生的分身
+n040 附近找不到目标
+n041 必须以友方单位或建筑为目标。
+n042 杀死了
+n043 ！
+n044 金钱平分给英雄们
+n045 金钱！
+n046 得到
+n047  的
+n048 终结了
+n049 ！
+n04A ！！
+n04B ！！！
+n04C 得到
+n04D 完成了一次
+n04E 三杀
+n04F 拜托谁去杀了他吧！！！
+n04G 已经
+n04H 已经
+n04I 变态杀戮
+n04J 无人能挡
+n04K 正在
+n04L 大杀特杀
+n04M 杀人如麻
+n04N 主宰比赛
+n04O 近卫军团摧毁了天灾军团所有的生产建筑
+n04P 反补了一座防御塔
+n04Q 's courier has been killed by
+n04R Each Scourge player receives 200 bonus gold
+n04S 双杀
+n04T 一头|cff0000ff远古九头蛇|r现在效忠|cffff0000近卫军团|r，向中路进发！
+n04U Roshan has been slain by the
+n04V Each Sentinel player receives 200 bonus gold
+n04W 拿下了
+n04X 天灾军团摧毁了近卫军团所有的生产建筑
+n04Y 第一滴血
+n04Z 一条|cff0000ff恐怖怪鱼|r现在效忠于|cffff0000近卫军团|r，向中路进发！
+n050 已经太晚，不能重新选择英雄了
+n051 一只|cff0000ff攻城傀儡|r现在效忠于|cffff0000近卫军团|r，向上路进发！
+n052 一只|cff0000ff攻城傀儡|r现在效忠于|cffff0000近卫军团|r，向中路进发！
+n053 一只|cff0000ff攻城傀儡|r现在效忠于|cffff0000近卫军团|r，向下路进发！
+n054 获得了胜利！|c006699CC三国争霸，只为极致游戏乐趣 7fgame.com|r    
+n055 请致信IceFrog@gmail.com。
+n056 一头|cff0000ff远古九头蛇|r现在效忠于|cffff0000近卫军团|r，向上路进发！
+n057 一条|cff0000ff恐怖怪鱼|r现在效忠于|cffff0000近卫军团|r，向下路进发！
+n058 一条|cff0000ff恐怖怪鱼|r现在效忠于|cffff0000近卫军团|r，向上路进发！
+n059 没有足够的黄金重新选择英雄
+n05A 一名对方玩家放弃使用
+n05B 指令在这几秒内无效
+n05C 一头|cff0000ff远古九头蛇|r现在效忠于|cffff0000近卫军团|r，向下路进发！
+n05D 已经离开游戏了
+n05E 因为暂离时间过长而被踢出游戏！
+n05F 分
+n05G 已经离开游戏超过
+n05H 如果你想阅读屏幕当前文字，请先暂停游戏并仔细阅读它
+n05I 掷出了
+n05J 只有在满血满魔的状态下才能重新选择英雄
+n05K 从
+n05L 一名对方玩家放弃使用
+n05M 上限为
+n05N 这个指令带有实验性质。如果在使用中遇到bug，
+n05O 你可以使用
+n05P 将这位玩家踢出游戏
+n05Q 目前没有玩家暂离游戏
+n05R 游戏中出现的暂停并非bug
+n05S 游戏在选择这个模式后将暂停一会
+n05T 提示文字将在不久后被清除
+n05U 没有足够的金钱重新选择并买一个新英雄
+n05V 当你准备好之后，继续进行游戏并选择一个模式
+n05W 这个模式是一个基础模式，只监控小地图
+n05X 只在-mode2 遇到问题时使用此模式
+n05Y 你现在可以选择一个新的英雄
+n05Z 已有票数：
+n060 目前，死亡模式的团队生命总数为
+n061 选择了
+n062 这个模式监控更广的区域，也是|c00ff0303推荐|r模式
+n063 需要获取更多关于游戏模式的信息，请使用
+n064 有20秒的时间选择一个英雄
+n065 近卫军团
+n066 开始，双方按照1-2-2-2-2-1的顺序选择英雄
+n067 和
+n068 |c006699CC使用|r |c00ff0303选择英雄|r |c006699CC键来选择一个英雄|r
+n069 TR has been randomly selected as your mode!
+n06A has defaulted to
+n06B You will get 175 gold refunded when you pick a hero.
+n06C 天灾军团
+n06D 近卫军团将会拥有选项中第一套英雄阵容，它是随机的
+n06E 上述法球效果会导致她的攻击无效
+n06F 提示
+n06G 预读召唤师的技能，将造成短暂的延迟
+n06H 不要为月之骑士买以下物品：
+n06I 请注意，这并不意味着
+n06J AP has been randomly selected as your mode!
+n06K 免死模式已经激活
+n06L 你不需要等待时间即可复活
+n06M 你将会随机分配到一个来自本方酒馆的英雄
+n06N 条命
+n06O 扩展命令：
+n06P 死亡后会掉落的物品不会在相位移动时掉出
+n06Q 在接下来15秒钟之内键入才有效
+n06R AR has been randomly selected as your mode!
+n06S Normal has been randomly selected as your mode!
+n06T 在接下来的30秒内，你可以使用“-option 1/2/3”命令来为下面的选项进行投票
+n06U 在死亡时会出现效果的物品（比如不朽之守护）在相位移动至无法到达的地形时将不会起作用
+n06V 你可以使用任意酒馆里的英雄
+n06W 一分钟之后，两边队伍将获得同样的英雄阵容
+n06X 每个队伍在输掉比赛前，共有
+n06Y 在你的队伍用完
+n06Z 当你死亡后，你将必须选择一个新英雄
+n070 每方阵营的队长可以从酒馆中移除4个英雄
+n071 你将会随机分配到一个来自任意酒馆的英雄
+n072 你将从被系统随机挑选出的英雄中选择一个
+n073 你为你的对手选择他将使用的英雄
+n074 你将随机分配到一个英雄，该英雄来自你们所选举出的团队阵容
+n075 两边将轮流选取英雄
+n076 系统侦测到你在使用单机模式。 |c006699CC群雄逐鹿再创奇迹、新版内容抢先体验 7fgame.com|r 你可以使用下列单机命令：
+n077 WTF模式已经被激活。在这个模式下使用技能不需要消耗魔法并且没有冷却时间
+n078 此模式仅供娱乐
+n079 不能为你随机选择英雄
+n07A 你马上会得到一个随机选择的英雄
+n07B 两边将轮流选取英雄
+n07C 位英雄后，你们就输掉了这场比赛
+n07D 你为你的对手选择他将使用的英雄
+n07E 重新分配两个阵营的玩家
+n07F 当你死亡后，会随机掉落物品栏某一格的物品
+n07G 你可以从系统提供的3个选项中选择一个英雄
+n07H 重新分配两个阵营的玩家
+n07I 同样的英雄可以被多次选择
+n07J 只允许选择智力英雄
+n07K 只允许选择力量英雄
+n07L 只允许选择敏捷英雄
+n07M 神符被禁止了
+n07N 攻城傀儡，恐怖怪鱼和远古九头蛇
+n07O 将随机加入双方阵营
+n07P 没有选择模式
+n07Q 禁止玩家重选英雄
+n07R 上路将不会出兵
+n07S 中路将不会出兵
+n07T 削弱防御塔的攻击力和生命，提升英雄所得到的经验值以及周期性的金钱供应
+n07U 所有的玩家都将得到
+n07V 下路将不会出兵
+n07W 所选的英雄
+n07X 禁止玩家之间交换英雄
+n07Y 允许为队友养人
+n07Z 禁止显示裁判的额外信息
+n080 只能中路塔能够被摧毁
+n081 来接受请求
+n082 想和你交换英雄
+n083 输入
+n084 的APM为
+n085 请求与你交换
+n086 来做一个选择 或者
+n087 来取消交换请求
+n088 被禁止了
+n089 离开游戏
+n08A 你还没有选择英雄
+n08B 交换英雄选项：
+n08C 你请求同以下玩家进行交换
+n08D You cannot use
+n08E after 120 seconds have elapsed.
+n08F 你必须有一个活着的英雄才能选择和别人交换
+n08G 已经太晚，不能使用
+n08H 没有可供交换的英雄
+n08I 正在使用-recreate指令
+n08J 请耐心等待约2分钟的时间
+n08K 你在使用-unstuck命令，在60秒后，你将会被传送回基地
+n08L 等级
+n08M 控制
+n08N 的移动速度为
+n08O 允许队友对自己施放一些特定的友方技能
+n08P 正补：
+n08Q 反补：
+n08R 拒绝友方一些特定的技能
+n08S 消灭中立单位数量：
+n08T 打开特殊音效
+n08U 隐藏信息
+n08V 复活剩余时间
+n08W 在你死后，将会出现等待复活计时器
+n08X 在你死后，不会出现等待复活计时器
+n08Y 月之骑士
+n08Z 显示信息
+n090 聊天中的英雄名称将被隐藏
+n091 关闭特殊音效
+n092 to choose
+n093 This command is only available in SD mode
+n094 罗斯塔
+n095 秒
+n096 斯温
+n097 诺崇
+n098 变体精灵
+n099 魅惑魔女
+n09A 宙斯
+n09B 没有选择英雄，系统将随机分配一位英雄给他们！
+n09C Courier icon will now be hidden.
+n09D 撼地神牛
+n09E 在那之前，请不要买物品
+n09F 鲁夫特伦
+n09G 艾萨罗
+n09H 你所使用的英雄可能在第60秒后被替换
+n09I 移除了
+n09J Terrain has been transformed. This is a very experimental mode.
+n09K 将有20秒的时间来选择从酒馆内移除任意4个英雄
+n09L Courier icon will now be shown.
+n09M 你已经选择了
+n09N from the available hero pool.
+n09O 移除英雄阶段已经结束
+n09P 司里希丝
+n09Q Normal Mode
+n09R 你从腐肉技能中获得了
+n09S 点力量
+n09T 没有英雄
+n09U 复仇之魂
+n09V 熊战士
+n09W 水晶室女
+n09X 力丸
+n09Y 悉拉贝尔
+n09Z 秀逗魔导士
+n0A0 没有选择英雄，因此将无英雄可用
+n0A1 食人魔魔法师
+n0A2 马格纳斯
+n0A3 幻影长矛手
+n0A4 法里奥
+n0A5 尤涅若
+n0A6 谜团
+n0A7 小小
+n0A8 巨魔战将
+n0A9 地精工程师
+n0AA 地精修补匠
+n0AB 陈
+n0AC 刚背兽
+n0AD 矮人狙击手
+n0AE 帕克
+n0AF 拉娜娅
+n0AG 哈斯卡
+n0AH 月之女祭司
+n0AI 炼金术士
+n0AJ 杰奇洛
+n0AK 雷克萨
+n0AL 崔希丝
+n0AM 刚铎
+n0AN 半人马酋长
+n0AO 熊猫酒仙
+n0AP $dead的信使被$killer杀死了！
+n0AQ 达维安爵士
+n0AR 玛吉纳
+n0AS 全能骑士
+n0AT 风暴之灵
+n0AU 发条地精
+n0AV 恐怖利刃
+n0AW 受折磨的灵魂
+n0AX 巫妖
+n0AY 克萝贝露丝
+n0AZ 莱恩
+n0B0 剧毒术士
+n0B1 维萨吉
+n0B2 涅沙
+n0B3 狼人
+n0B4 育母蜘蛛
+n0B5 茉崔蒂
+n0B6 美杜莎
+n0B7 巴拉那
+n0B8 死灵法师
+n0B9 幽鬼
+n0BA 黑曜毁灭者
+n0BB 术士
+n0BC 深渊领主
+n0BD 矮人狙击手
+n0BE 月之骑士
+n0BF 召唤师
+n0BG 黑暗贤者
+n0BH 不朽尸王
+n0BI 戴泽
+n0BJ 地卜师
+n0BK 巫医
+n0BL 亚巴顿
+n0BM 斧王
+n0BN 奈门摩尔
+n0BO 阿特洛波斯
+n0BP 潮汐猎人
+n0BQ 奈克斯
+n0BR 蝮蛇
+n0BS 虚空假面
+n0BT 帕格纳
+n0BU 地穴刺客
+n0BV 路西法
+n0BW 克林克兹
+n0BX 地穴编织者
+n0BY 剃刀
+n0BZ 史德利古尔
+n0C0 骷髅王
+n0C1 斯拉达
+n0C2 阿卡莎
+n0C3 巴拉森
+n0C4 克里瑟历斯
+n0C5 帕吉
+n0C6 急速冷却
+n0C7 现在近卫军团的兵力将远远超过对手并会出动超级士兵
+n0C8 $dead被队友$killer杀死了！
+n0C9 现在天灾军团的兵力将远远超过对手并会出动超级士兵
+n0CA Roshan被$team杀死了！  |c006699CC精致画面古朴韵味，三国烽烟群雄纷争 7fgame.com|r  每个$team的玩家获得200金钱
+n0CB 散华、散夜对剑、黯灭、漩涡和雷神之锤
+n0CC 一只|cff0000ff攻城傀儡|r现在效忠于|cff004000天灾军团|r，向下路进发！
+n0CD 一只|cff0000ff攻城傀儡|r现在效忠于|cff004000天灾军团|r，向上路进发！
+n0CE 一只|cff0000ff攻城傀儡|r现在效忠于|cff004000天灾军团|r，向中路进发！
+n0CF 一条|cff0000ff恐怖怪鱼|r现在效忠于|cff004000天灾军团|r，向下路进发！
+n0CG 一条|cff0000ff恐怖怪鱼|r现在效忠于|cff004000天灾军团|r，向上路进发！
+n0CH 一条|cff0000ff恐怖怪鱼|r现在效忠于|cff004000天灾军团|r，向中路进发！
+n0CI 一头|cff0000ff远古九头蛇|r现在效忠于|cff004000天灾军团|r，向下路进发！
+n0CJ 一头|cff0000ff远古九头蛇|r现在效忠于|cff004000天灾军团|r，向上路进发！
+n0CK 一头|cff0000ff远古九头蛇|r现在效忠于|cff004000天灾军团|r，向中路进发！
+n0CL 幽灵漫步
+n0CM 默认选择了常规模式，在选择英雄后，系统会返还给你175金钱
+n0CN 寒冰之墙
+n0CO 强袭飓风
+n0CP 电磁脉冲
+n0CQ 超震声波
+n0CR 没有轮到你选择
+n0CS 灵动迅捷
+n0CT 熔炉精灵
+n0CU 浑沌陨石
+n0CV 阳炎冲击
+n0CW 可以使用 -music [曲目] 命令来播放音乐，具体[曲目]为：
+n0CX 那个生物过于强大
+n0CY 不能投掷你自己的单位
+n0CZ 离开于：
+n0D0 被
+n0D1 被给予了
+n0D2 选择了
+n0D3 随机选择了
+n0D4  Kills
+n0D5 重新选择了
+n0D6 Time Remaining
+n0D7 你已经有一个英雄了
+n0D8 双杀次数
+n0D9 胜利者
+n0DA 没有可以投掷的单位
+n0DB 从$p那里得到了$hero
+n0DC RD区域指示
+n0DD Towers Lost
+n0DE Assists
+n0DF Dead?
+n0DG Time Elapsed
+n0DH 玩家
+n0DI 三杀次数
+n0DJ Deaths
+n0DK 近卫军团
+n0DL 击杀细节
+n0DM 最高连杀数
+n0DN 消耗品
+n0DO 天灾军团
+n0DP 缩短50%的死亡等待时间
+n0DQ 你用太多次！
+n0DR 你不可以用你的能量环來拿起其他人的物品
+n0DS 被手动指定以开始选择英雄
+n0DT 拆塔数
+n0DU 击杀英雄奖励
+n0DV 死亡累计时间
+n0DW 死亡损失金钱
+n0DX 1分钟
+n0DY 杀野数
+n0DZ 补兵数
+n0E0 购买守卫
+n0E1 击杀/死亡/助攻
+n0E2 现有金钱
+n0E3 DotA 记分板
+n0E4 重生
+n0E5 你随机地引用编号
+n0E6 在你的能量圈现在有三个英雄你可以选择
+n0E7 3分钟
+n0E8 中立生物
+n0E9 距离Roshan收回不朽盾还有
+n0EA 被随机指定以开始选择英雄
+n0EB 物品
+n0EC 创建微缩英雄模型
+n0ED 各团队的队长必须决定禁用的英雄，然后开始选择英雄
+n0EE 昆卡
+n0EF 斯拉克
+N0EG 风行者
+n0EH 风行者
+N0EI 风行者
+N0EJ 风行者
+N0EK 风行者
+n0EL 肉钩准确率
+N0EM 风行者
+n0EN 摧毁了一座防御塔
+n0EO Dummy Tavern
+n0EP Captains Mode is not compatible with these modes!
+n0EQ 获得了不朽之守护
+n0ER 输入 |c006699CC-cm 1|r 让近卫军团先选，或者输入 |c006699CC-cm 2|r 让天灾军团先选
+n0ES 起始队伍将被随机抽取
+n0ET 额外时间：
+n0EU 时间：
+n0EV 禁止的英雄:
+n0EW 没有英雄
+n0EX 选取：
+n0EY 状态：
+n0EZ 剩余时间：
+n0F0 输入
+n0F1 等待
+n0F2 完成
+n0F3 你已经选择了英雄
+n0F4 激活
+n0F5 活死人
+n0F6 墓碑 - 等级 3
+n0F7 活死人
+n0F8 活死人
+n0F9 活死人
+n0FA Fireblast
+n0FB 嗜血
+n0FC 埋雷数
+n0FD 系统随机为你选择了随机征召
+n0FE 系统随机为你选择了有限征召
+n0FF ARMM has been randomly selected as your mode!
+n0FG ARDM has been randomly selected as your mode!
+n0FH 墓碑 - 等级 4
+n0FI 墓碑 - 等级 2
+n0FJ 墓碑 - 等级 1
+n0FK 系统随机为你选择了随机阵容投票
+n0FL ARAS has been randomly selected as your mode!
+n0FM 系统随机为你选择了全阵营随机/全智力
+n0FN ARAA has been randomly selected as your mode!
+n0FO $hero已经复活（买活）
+n0FP to allow
+n0FQ 交换位置
+n0FR _TEXT_TEMPLATE_
+n0FS $c1你已经请求玩家|r$p2$c1与交换位置|r
+n0FT 接受交换的请求
+n0FU 投票数不足，交换请求被驳回
+n0FV $c1|r$p1 和 |r $p2 $c1的交换已经成功
+n0FW 提示：-switch命令可以重新排列玩家队伍，条件是所有玩家都同意
+n0FX or
+n0FY 离开游戏
+n0FZ Only a hero may disassemble this item
+n0G0 OB模式下无法使用-switch命令，不久之后会改进这一点
+n0G1 无法单击拆分，请使用你的能量圈或者飞行信使的拆分功能来拆分
+n0G2 $c1键入|r $c2-switch accept|r $c1或|r $c2-ok|r $c1来允许玩家|r $p1 $c1与玩家|r $p2 $c1的交换|r
+n0G3 重击效果不与其他被动击晕技能叠加
+n0G4 只对远程英雄有效
+n0G5 只对近程英雄有效
+n0G6 另一种神符刷新系统
+n0G7 这件物品不属于你，你不能攻击此物品
+n0G8 魔法不足
+n0G9 蝙蝠骑士
+n0GA $c1如果你想投否决票，键入|r $c2-no|r
+n0GB $p1 $c1 拒绝了你的交换请求
+n0GC 牛头人酋长
+n0GD RD队长模式已被激活
+n0GE Type |c006699CC-cap|r to enable Captains Mode in RD
+n0GF 队长可以从限定的阵容中征召英雄
+n0GG has 35 seconds to pick one hero
+n0GH has 35 seconds to pick two heroes
+n0GI has 35 seconds to ban one hero
+n0GJ 智力（中立） - 暮色酒馆
+n0GK 力量（天灾） - 黑夜酒馆
+n0GL 你用这条命令太多次了！
+n0GM 箭矢准确率：
+n0GN Dark Level 2
+n0GO Dark Level 1
+n0GP Dark Level 3
+n0GQ 地精贪婪：
+n0GR 你的英雄已经重生了
+n0GS 你随机掷到了
+n0GT 获得了
+n0GU 装载了
+n0GV 使用了储备的
+n0GW 神符
+n0GX -switch命令在这场比赛中已被禁用
+n0GY 双方阵营已被随机分配
+n0GZ 土熊猫 等级4
+n0H0 火熊猫
+n0H1 风熊猫 等级4
+n0H2 轮到你来BAN掉一位英雄
+n0H3 轮到你来选取一位英雄
+n0H4 Your turn to pick 2 heroes
+n0H5 BAN掉了
+n0H6 选取了
+n0H7 随机BAN掉了
+n0H8 随机选取了
+n0H9 征召阶段结束，片刻之后就可以选择英雄了
+n0HA 禁止刷野开启，野怪将不会出现
+n0HB 学习了
+n0HC level
+n0HD 你随机地设置水的颜色为
+n0HE 保护领地
+n0HF Scoreboard
+n0HG -di功能默认为开启，使用-cson和-csoff命令可以开/关该功能
+n0HH 语言：简体中文
+n0HI Please update your version of Warcraft 3 to 1.23 to prevent some cheats.
+n0HJ 疯狂杀戮
+n0HK 暴走
+n0HL 你只能携带一个压制之刃
+n0HM 已偷取的智力总量：
+n0HN 游戏模式已被自动设定为
+n0HO Respawn:
+N0HP 极寒幽魂
+n0HQ 雪旋风
+n0HR 极寒幽魂
+n0HS 冷却时间
+N0HT 炼金术士
+n0HU 购买了一个动物信使
+n0HV 迷你哥布林
+n0HW 鹰身女妖侦察者
+n0HX 鹰身女妖风暴巫师
+n0HY 敌方队伍解锁了那名英雄的物品，因此他将不能被交换。
+n0HZ 联赛模式|r(|cffff0303LM|r)
+n0I0 镜像模式|r(|cffff0303MM|r)
+n0I1 随机队长模式|r(|cffff0303CD|r)
+n0I2 扩展联赛模式|r(|cffff0303XL|r)
+n0I3 联赛模式|r(|cffff0303LM|r)
+n0I4 单选方案模式|r(|cffff0303SD|r)
+n0I5 阵容投票模式|r(|cffff0303VR|r)
+n0I6 阵营内随机模式|r(|cffff0303TR|r)
+n0I7 全阵营随机模式|r(|cffff0303AR|r)
+n0I8 扩展联赛模式|r(|cffff0303XL|r)
+n0I9 随机队长模式|r(|cffff0303CD|r)
+n0IA 死亡竞赛模式|r(|cffff0303DM|r)
+n0IB 阵营内随机模式|r(|cffff0303TR|r)
+n0IC 反转模式|r(|cffff0303RV|r)
+n0ID 全阵营选择|r(|cffff0303AP|r)
+n0IE 模式随机|r(|cffff0303MR|r)
+n0IF 随机征召模式|r(|cffff0303RD|r)
+n0IG 队长模式|r(|cffff0303CM|r)
+n0IH 镜像模式|r(|cffff0303MM|r)
+n0II 死亡竞赛模式|r(|cffff0303DM|r)
+n0IJ 模式随机|r(|cffff0303MR|r)
+n0IK 队长模式|r(|cffff0303CM|r)
+n0IL 全阵营选择|r(|cffff0303AP|r)
+n0IM 阵容投票模式|r(|cffff0303VR|r)
+n0IN 随机征召模式|r(|cffff0303RD|r)
+n0IO 洗牌模式|r(|cffff0303SP|r)
+n0IP 全力量模式|r(|cffff0303AS|r)
+n0IQ 全阵营随机模式|r(|cffff0303AR|r)
+n0IR 中路禁兵|r(|cffff0303NM|r)
+n0IS 全智力模式|r(|cffff0303AI|r)
+n0IT 全远程模式|r(|cffff0303RO|r)
+n0IU 全敏捷模式|r(|cffff0303AA|r)
+n0IV 中路模式|r(|cffff0303OM|r)
+n0IW 反转模式|r(|cffff0303RV|r)
+n0IX 复选模式|r(|cffff0303DU|r)
+n0IY 养人模式|r(|cffff0303PM|r)
+n0IZ 物品掉落模式|r(|cffff0303ID|r)
+n0J0 单选方案模式|r(|cffff0303SD|r)
+n0J1 随机阵营模式|r(|cffff0303RS|r)
+n0J2 交换命令开启|r(|cffff0303SO|r)
+n0J3 如果你想使用离开玩家英雄的物品/金钱，使用 -unlock
+n0J4 迷你英雄模式|r(|cffff0303MI|r)
+n0J5 观察者信息|r(|cffff0303OI|r)
+n0J6 无神符模式|r(|cffff0303NP|r)
+n0J7 超级士兵|r(|cffff0303SC|r)
+n0J8 上路禁兵|r(|cffff0303NT|r)
+n0J9 简易模式|r(|cffff0303EM|r)
+n0JA 相同英雄|r(|cffff0303SH|r)
+n0JB 下路禁兵|r(|cffff0303NB|r)
+n0JC 禁止交换|r(|cffff0303NS|r)
+n0JD 快速重生|r(|cffff0303FR|r)
+n0JE 实验神符|r(|cffff0303ER|r)
+n0JF 禁止重选|r(|cffff0303NR|r)
+n0JG 一旦你这么做，你将无法再与敌方玩家交换那名离开玩家的位置
+n0JH 尝试次数：
+n0JI 5x Casts:
+n0JJ 4x 施法：
+n0JK 3x 施法：
+n0JL 2x 施法：
+n0JM 成功次数：
+n0JN 恢复
+n0JO 5x 多重施法！！！！！
+n0JP 智力
+n0JQ 加速
+n0JR 敌方：
+n0JS 友方：
+n0JT |cffff80003x 多重施法！！！|r
+n0JU 额外黄金
+n0JV 力量
+n0JW 你开启了镜头置中；使用 -centeroff 或 -co 关闭镜头置中
+n0JX 你关闭了镜头置中；使用 -center 或 -c 重新开启
+n0JY 助攻：
+n0JZ 控制帮助选项已经关闭
+n0K0 控制帮助选项已经开启
+n0K1 下列最近修改或添加过的英雄在该模式下暂时不可选
+n0K2 幻象
+n0K3 双倍伤害
+n0K4 隐身
+n0K5 Only Translate This String If Simplified Chinese
+n0K6 队长模式|r(|cffff0303CM|r)
+n0K7 |c00FFFF002x 多重施法！！|r
+n0K8 4x 多重施法！！！！
+n0K9 非法目标
+n0KA 放大模式|r(|cffff0303ZM|r)
+n0KB 解锁总计：
+n0KC 据点占据模式|r(|cffff0303CP|r)
+n0KD 已经为该玩家解锁金钱和物品：
+n0KE _EMPTY_
+n0KF 额外经验
+n0KG 购买了一个飞行信使
+n0KH 据点占据模式将会在10分钟后开始，占据据点的英雄越多，获得的额外属性越快。
+n0KI 观察者将会通过放大模式观看游戏。
+Naka 赏金猎人
+nalb 信天翁
+nanm Barbed Arachnathid
+nbal 恶魔守卫
+Nbbc 剑圣
+nbdk 黑蜉蝣
+nbdo 蓝龙人监工
+nbds 蓝龙人巫师
+nbnb Burrowed Barbed Arachnathid
+nbrg Brigand
+Nbrn 黑暗游侠
+nbwm 黑龙
+NC00 骷髅王
+nC35 恶魔遗物
+nC38 饰品商人 希娜
+ncen 半人马先行者
+ncg1 发条地精
+ncg2 发条地精
+ncgb 发条地精
+ncnk 半人马可汗
+ncop 能量环
+ncp2 据点占据模式|r(|cffff0303CP|r)
+ndfl 被污染的生命之泉
+ndr1 Lesser Dark Minion
+ndr2 暗黑之奴
+ndr3 Greater Dark Minion
+ndtr 黑暗巨魔
+ndtw 黑暗巨魔首领
+nech 小鸡
+nfa1 口袋工厂
+nfa2 口袋工厂
+nfac 口袋工厂
+Nfir 影魔
+nfoh 生命之泉
+nfpc 极地熊怪护卫
+nfpu 极地熊怪战士
+nfro IceFrog
+nfsh 森林巨魔牧师
+nftb 森林巨魔狂战士
+nggr 宝石傀儡
+ngh1 鬼魂
+ngns 豺狼刺客
+ngst 岩石傀儡
+njg1 丛林捕猎者
+njga 丛林捕猎者长老
+nkob 狗头人
+nkol 狗头人工头
+nkot 狗头人隧道工
+nmdm 麦迪文
+nmed 麦迪文
+nmrl 鱼人追踪者
+nmrm 鱼人夜行者
+nmrr 鱼人猎手
+nogm 食人魔拳手
+nomg 食人魔魔法师
+nowb 枭兽
+nowe 暴怒的枭兽
+Npbm 熊猫酒仙
+npfl 魔能野兽
+npn1 火熊猫
+npn2 风熊猫 等级1
+npn3 土熊猫
+npn4 火熊猫
+npn5 风熊猫 等级2
+npn6 土熊猫
+npng 小企鹅
+npnw 小企鹅
+Nrob 地精修补匠
+nsat 萨特之欺诈者
+nsha 小羊
+nshe 小羊
+nshf 小飞羊
+nshw 小羊
+nsno 猫头鹰
+nsth 萨特之地狱使者
+nstl 萨特之灵魂盗贼
+ntav Light Tavern
+Ntin 地精修补匠
+ntor 强袭飓风
+nvul 小秃鹫
+nwe1 鹰
+nwe2 雷霆战鹰
+nwe3 灵魂之鹰
+nwgt Way Gate
+nwlg 巨狼
+o000 死亡守卫
+o001 死亡守卫
+o002 遥控炸弹
+o003 蜘蛛网
+o004 侦察守卫
+o005 幽灵狼
+o006 幽灵狼
+o007 幽灵狼
+o008 毒蛇守卫
+o009 毒蛇守卫
+o00A 死亡守卫
+o00B 遥控炸弹
+o00C 治疗守卫
+o00D Vision Dummy
+o00E Vision Dummy
+o00F 幽灵狼
+o00G Vision Dummy
+o00H Weaver Web
+o00I Poison Nova Attack 1
+O00J 裂魂人
+o00K Fireball
+o00L 幽冥守卫 等级2
+o00M 幽冥守卫 等级1
+o00N 幽冥守卫 等级4
+o00O 幽冥守卫 等级3
+O00P 变体精灵
+o00Q Vision Dummy
+o00R Fireball
+o00S Corrosive Skin Attacker
+o00T 瘟疫守卫
+o00U 瘟疫守卫
+o00V 瘟疫守卫
+o00W 瘟疫守卫
+o00X 死亡守卫
+o00Y 狮吼效果
+o00Z Vision Dummy
+o010 球形闪电
+o011 Totem of Earth
+o012 Totem of Water
+o013 Totem of Fire
+o014 Totem of Wind
+O015 牛头人酋长
+O016 蝙蝠骑士
+O017 蝙蝠骑士
+o018 遥控炸弹
+o019 Vision Ground
+o01A Vision Dummy
+o01B 遥控炸弹
+o01C 毒蛇守卫
+o01D 毒蛇守卫
+o01E 毒蛇守卫
+oalt Altar of Storms
+oang Ancestral Guardian
+obar Barracks
+obea Beastiary
+Obla Blademaster
+ocat Demolisher
+ocor Orb of Corruption
+odoc Troll Witch Doctor
+Odrt 预言者
+oeye 岗哨守卫
+Ofar 潮汐猎人
+ofir Orb of Fire
+ofor 战争磨坊
+ofrt Fortress
+ogre Great Hall
+Ogrh 幻影长矛手
+ogru Grunt
+ohun Troll Headhunter
+ohwd 治疗守卫
+okod Kodo Beast
+oli2 Orb of Lightning
+opeo Peon
+Opgh 斧王
+orai Raider
+orbr Reinforced Orc Burrow
+Orkn 暗影萨满
+Oshd 痛苦之源
+oshm Shaman
+osld Spirit Lodge
+osp1 毒蛇守卫
+osp2 毒蛇守卫
+osp3 毒蛇守卫
+osp4 毒蛇守卫
+ospm Spirit Walker
+ostr Stronghold
+osw1 精灵狼
+osw2 恐怖狼
+osw3 暗影狼
+otau Tauren
+otbk 巨魔狂战士
+otbr Troll Batrider
+Otch 撼地神牛
+otot 麻痹陷阱
+otrb Orc Burrow
+otto Tauren Totem
+oven Orb of Venom
+ovln Voodoo Lounge
+owtw Watch Tower
+owyv Wind Rider
+pams Anti-magic Potion
+phea Potion of Healing
+plcl Lesser Clarity Potion
+pman Potion of Mana
+R000 Synergy
+R001 True Form
+R002 Holy Blade
+R003 Melee Upgrade
+R004 Melee Upgrade
+R005 Take Aim
+R006 Dragon's Blood
+R007 Ranged Upgrade
+R008 Melee Upgrade
+R009 Melee Upgrade
+R00A Ranged Upgrade
+R00B Ranged Upgrade
+R00C Ranged Upgrade
+R00D Melee Upgrade
+R00E Melee Upgrade
+R00F Roshan Upgrade
+R00G Forge Spirit Exort Upgrade
+R00H Forge Spirit Quas Upgrade
+R00I Upgrade Lunar Blessing
+Recb 毒性攻击
+Redt Druid of the Talon Adept Training,Druid of the Talon Master Training
+Reec Mark of the Talon
+rej2 Lesser Replenishment Potion
+Remg Upgrade Moon Glaive
+Renb Nature's Blessing'
+Repb Psi Blades
+Repm Backpack
+Rerh Reinforced Hides,Improved Reinforced Hides,Advanced Reinforced Hides
+Resw Strength of the Wild,Improved Strength of the Wild,Advanced Strength of the Wild
+Reuv Ultravision
+Rgfo Glyph of Fortification,Glyph of Fortification,Glyph of Fortification
+Rguv Glyph of Ultravision
+Rhac Improved Masonry,Advanced Masonry,Imbued Masonry
+Rhan Animal War Training
+Rhar Iron Plating,Steel Plating,Mithril Plating
+Rhcd Cloud
+Rhde Defend
+Rhfc Flak Cannons
+Rhfl Flare
+Rhfs Fragmentation Shards
+Rhgb Flying Machine Bombs
+Rhhb Storm Hammers
+Rhla Studded Leather Armor,Reinforced Leather Armor,Dragonhide Armor
+Rhlh Improved Lumber Harvesting,Advanced Lumber Harvesting
+Rhme Iron Forged Swords,Steel Forged Swords,Mithril Forged Swords
+Rhpm Backpack
+Rhpt Priest Adept Training,Priest Master Training
+Rhra Black Gunpowder,Refined Gunpowder,Imbued Gunpowder
+Rhri Long Rifles
+Rhrt Barrage
+Rhse 魔法岗哨
+Rhss Control Magic
+Rhst Sorceress Adept Training,Sorceress Master Training
+rnec Rod of Necromancy
+Roar Steel Armor,Thorium Armor,Arcanite Armor
+Robf Burning Oil
+Robk Berserker Upgrade
+Robs Berserker Strength
+Roch Chaos
+Roen 捕获
+Rolf Liquid Fire
+Rome Steel Melee Weapons,Thorium Melee Weapons,Arcanite Melee Weapons
+Ropg Pillage
+Ropm Backpack
+Rora Steel Ranged Weapons,Thorium Ranged Weapons,Arcanite Ranged Weapons
+Rorb Reinforced Defenses
+Rosp Spiked Barricades,Improved Spiked Barricades,Advanced Spiked Barricades
+Rost Shaman Adept Training,Shaman Master Training
+Rotr Dragon Blood upgrade
+Rovs 浸毒标枪
+Rowd Witch Doctor Adept Training,Witch Doctor Master Training
+Rows 粉碎击
+Rowt Spirit Walker Adept Training,Spirit Walker Master Training
+Ruac Cannibalize
+Ruar Unholy Armor,Improved Unholy Armor,Advanced Unholy Armor
+Rucr Creature Carapace,Improved Creature Carapace,Advanced Creature Carapace
+Ruex Exhume Corpses
+Rume Unholy Strength,Improved Unholy Strength,Advanced Unholy Strength
+Rupc Disease Cloud
+Rupm Backpack
+Rura Creature Attack,Improved Creature Attack,Advanced Creature Attack
+Rusf 石像形态
+Rusl Skeletal Longevity
+Rusp Destroyer Form
+Rwdm War Drums Damage Increase
+S002 Inferno
+S003 Inferno
+S004 Inferno
+S005 Inferno
+S007 速度光环
+S008 Rain of Chaos
+S009 Courier Morph - Chicken to Penguin
+S00A 夜晚中的狩猎者
+S00B Courier Morph - Dune Worm to Carrion Beetle
+S00C Courier Morph - Penguin to Raccoon
+S00D Courier Morph - Raccoon to Dune Worm
+S00E Courier Morph - Carrion Beetle to Fel Boar
+S00F Courier Morph - Fel Boar to Chicken
+S00G Courier Morph - To Mini Pudge
+S00H Invoke Icy Path
+S00I Courier Morph - To Crow
+S00J Courier Morph - To Vulture
+S00K Nightcrawler MS NEW
+S00L Courier Morph - To Mini Techies
+S00M 速度光环
+S00N 耐久光环
+S00O Capture Point - Ability 4a
+S00P Capture Point - Ability 4a - Creeps
+S00Q Capture Point - Ability 4b - Creeps
+S00R Capture Point - Ability 4b
+S00S Morph - Sentinel Defender
+S00T Morph - Sentinel Attacker
+Sbsk Berserker Upgrade
+SCae 耐久光环
+Sdro Unload
+shas Scroll of Speed
+shea Scroll of Healing
+skul Sacrificial Skull
+Slo2 Load Wisp
+Sloa Load
+spre Staff of Preservation
+sreg Scroll of Regeneration
+ssan Staff of Sanctuary
+stwp 回城卷轴|nScroll of Town Portal
+TALT 祭坛
+tgrh Tiny Great Hall
+tsct Ivory Tower
+TWN1 Town Hall or Great Hall or Tree of Life or Necropolis
+TWN2 Keep or Stronghold or Tree of Ages or Halls of the Dead
+TWN3 3级基地
+U000 地穴刺客
+u001 食尸鬼
+u002 亡灵法师
+u003 怨灵
+u004 黑洞
+u005 怨灵
+U006 育母蜘蛛
+U007 食尸鬼
+U008 狼人
+u009 怨灵
+U00A 混沌骑士
+u00B ObserverTruesight
+U00C 食尸鬼
+u00D 幽魂塔 - 等级2
+U00E 死灵法师
+U00F 屠夫
+u00G 鬼魂
+u00H 链节
+u00I 自然之助
+u00J 光辉法球
+U00K 沙王
+u00L 时间结界
+u00M 幽魂塔 - 等级1
+u00N 幽魂塔 - 等级3
+u00O 冰封路径
+U00P 黑曜毁灭者
+u00Q 崩碎之穴
+u00R 绞肉车
+u00S 能量齿轮
+u00T 幽魂塔 - 等级4
+u00U Hookshot Head
+u00V Hookshot Link
+u00W Power Cog Effect
+u00X 电子涡流
+u00Y 枷锁
+u00Z 地精实验室
+u010 地精商人
+u011 Watcher
+u012 圣甲虫
+u013 圣甲虫
+u014 佣兽
+u015 佣兽
+u016 佣兽
+u017 石像形态
+u018 石像形态
+u019 石像形态
+u01A 石像形态
+u01B 石像形态
+u01C 石像形态
+u01D 佣兽
+u01E 佣兽
+u01F 佣兽
+u01G 灵魂汲取马甲
+u01H 蝗虫 - 等级2
+u01I 伤残恐惧
+u01J 蝗虫 - 等级3
+u01K 蝗虫 - 等级1
+u01L 蝗虫 - 等级4
+uabo Abomination
+uaco Acolyte
+uaod Altar of Darkness
+Ubal 地穴编织者
+ubon 埋骨地
+ubsp 黑曜毁灭者
+UC01 痛苦女王
+UC11 半人猛犸
+UC18 恶魔巫师
+UC42 末日使者
+UC60 死灵飞龙
+uC74 黑市商人 雷拉格斯
+UC76 死亡先知
+UC91 鱼人守卫
+Ucrl 山岭巨人
+Udea 地狱领主
+Udre 暗夜魔王
+ugar Gargoyle
+ugho 食尸鬼
+ugol Haunted Gold Mine
+ugrm Stone Form Gargoyle
+ugrv Graveyard
+Uktl 谜团
+Ulic 巫妖
+umtw 绞肉车
+unec 亡灵法师
+unp1 Halls of the Dead
+unp2 Black Citadel
+unpl 冰封王座
+uobs Obsidian Statue
+uplg Disease Cloud
+usap 牺牲深渊
+usep 地穴
+ushd Watcher
+uske 骷髅战士
+uslh Slaughterhouse
+Usyl 矮人狙击手
+utod 诅咒神庙
+utom 崩碎之穴
+uzg1 Spirit Tower
+uzig 通灵塔
